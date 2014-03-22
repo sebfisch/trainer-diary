@@ -7,8 +7,6 @@ und Ungenauigkeiten auf mein Konto.
 
 [SHBV]: http://www.shbv.de/
 
-Die Notizen sind nach Datum geordnet:
-
 [22. März 2014](2014.03.22.markdown)
   * Aufwärmen
   * Schlägerhaltung
