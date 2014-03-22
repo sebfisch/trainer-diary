@@ -75,8 +75,8 @@ läuft.
 Zur einfacheren Verständigung wird die Bewegung jedes Schlages in vier
 Phasen eingeteilt. Phase 0 beschreibt die Nullstellung, also die
 Ausgangsposition. Phase 1 ist die Ausholbewegung (die aktiv ausgeführt
-werden kann, sich aber oft auch passiv durch Lockerlassen ergibt).
-Phase 2 ist die Schlagbewegung bis zum Treffpunkt, und Phase 3 ist das
+werden kann oder sich passiv durch Lockerlassen ergibt). Phase 2 ist
+die Schlagbewegung bis zum Treffpunkt, und Phase 3 ist das
 Ausschwingen oder Abstoppen nach dem Schlag.
 
 ## Unterhand Clear
