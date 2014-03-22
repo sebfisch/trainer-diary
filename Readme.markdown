@@ -1,4 +1,4 @@
-# Badminton C-Trainer Lehrgang im SHBV 2014
+# Notizen zur C-Trainer Lizenz
 
 Ich nehme am Lehrgang zum Erwerb der C-Trainerlizenz im [SHBV] teil
 und sammle an dieser Stelle Notizen zu den Lehrgangsinhalten. Da ich
