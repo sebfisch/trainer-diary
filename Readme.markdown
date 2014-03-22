@@ -2,8 +2,8 @@
 
 Ich nehme am Lehrgang zum Erwerb der C-Trainerlizenz im [SHBV] teil
 und sammle an dieser Stelle Notizen zu den Lehrgangsinhalten. Da meine
-Notizen nicht von den Veranstaltern kontrolliert werden, gehen Fehler
-und Ungenauigkeiten auf mein Konto.
+Notizen nicht von den Veranstaltern kontrolliert werden, sind alle
+Fehler meine.
 
 [SHBV]: http://www.shbv.de/
 
