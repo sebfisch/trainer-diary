@@ -14,4 +14,4 @@ Die Notizen sind nach Datum geordnet:
 
 © Sebastian Fischer, 2014
 
-![CC-BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
+[![CC-BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
