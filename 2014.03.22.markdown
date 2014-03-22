@@ -37,12 +37,12 @@ schnelles Spiel am Netz).
 ## Schlägerhaltung
 
 Grundsätzlich werden __Vorhand- und Rückhandgriff__ unterschieden, die
-jedoch nicht steif beibehalten sondern der Schlagsituation angepasst
-werden. Um größtmögliche Bewegungsfreiheit zu gewährleisten wird der
-Schläger vor jedem Schlag so in der Hand gedreht ohne das Handgelenk
-zu verdrehen, dass die Schlagfläche in Schlagrichtung zeigt. Schläge
-vor, neben und hinter dem Körper erfordern jeweils eine andere Haltung
-des Schlägers.
+jedoch nicht steif beibehalten sondern __der Schlagsituation
+angepasst__ werden. Um größtmögliche Bewegungsfreiheit zu
+gewährleisten wird der Schläger vor jedem Schlag so in der Hand
+gedreht, dass die Schlagfläche in Schlagrichtung zeigt, ohne das
+Handgelenk zu verdrehen. Schläge vor, neben und hinter dem Körper
+erfordern jeweils eine andere Haltung des Schlägers.
 
 Beim Vorhandgriff wird der Schläger gefasst wie die Hand zum Gruß.
 Zwischen Daumen und Zeigefingerbildet sich ein V, alle Finger, auch
