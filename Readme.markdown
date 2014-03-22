@@ -10,4 +10,6 @@ Die Notizen sind nach Datum geordnet:
 
   * [22. März 2014](2014.03.22.markdown)
 
-© Sebastian Fischer, 2014 ![CC-BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
+© Sebastian Fischer, 2014
+
+![CC-BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)
