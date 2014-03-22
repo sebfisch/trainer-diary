@@ -9,13 +9,13 @@ und Ungenauigkeiten auf mein Konto.
 
 Die Notizen sind nach Datum geordnet:
 
-  * [22. März 2014](2014.03.22.markdown)
-    * Aufwärmen
-    * Schlägerhaltung
-    * Schlagformen
-    * Unterhand Clear
-    * Langer Vorhand-Aufschlag
-    * Rechtskunde
+[22. März 2014](2014.03.22.markdown)
+  * Aufwärmen
+  * Schlägerhaltung
+  * Schlagformen
+  * Unterhand Clear
+  * Langer Vorhand-Aufschlag
+  * Rechtskunde
 
 © Sebastian Fischer, 2014
 
