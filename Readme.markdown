@@ -1,4 +1,4 @@
-# Badminton C-TrainerInnen Lehrgang im SHBV 2014
+# Badminton C-Trainer Lehrgang im SHBV 2014
 
 Ich nehme am Lehrgang zum Erwerb der C-Trainerlizenz im Schleswig-
 Holsteinischen Badminton Verband teil und sammle an dieser Stelle
