@@ -57,7 +57,7 @@ ausgeführt. Dies hat bei einigen Schlägen den Nachteil, dass die
 Schlagbewegung nicht in der Flugbahn des Balls verläuft, so dass ein
 etwas zu früh oder zu spät ausgeführter Schlag nicht in die gewünschte
 Richtung ausgeführt wird. Außerdem braucht dieser Schlag bei
-ausgeprägter Aushol und Ausschwing-Bewegung viel Zeit.
+ausgeprägter Aushol- und Ausschwing-Bewegung viel Zeit.
 
 Eine Alternative ist der Schlag durch __Zufassen__, wobei der Schläger
 zunächst mit lockerer Handhaltung in die Nullstellung gebracht wird
@@ -65,10 +65,16 @@ zunächst mit lockerer Handhaltung in die Nullstellung gebracht wird
 Zufassen der Ball geschlagen wird. Bei diesem Schlag kann der Schläger
 so positioniert werden, dass die Schlagbewegung in der Flugbahn des
 Balls verläuft, so dass das Timing eine weniger wichtige Rolle spielt.
-Außerdem kann der Arm schneller wieder in die Grundstellung gebracht
-werden, da er sich weniger bewegt.
+Außerdem kann der Arm nach dem Schlag schneller wieder in die
+Grundstellung gebracht werden, da er sich weniger bewegt.
 
 Der Maxime *erst der Schläger dann der Fuß* folgend, soll der Schläger
 schon in die Nullstellung gebracht werden bevor der Spieler zum Ball
 läuft.
 
+Zur einfacheren Verständigung wird die Bewegung jedes Schlages in vier
+Phasen eingeteilt. Phase 0 beschreibt die Nullstellung, also die
+Ausgangsposition. Phase 1 ist die Ausholbewegung (die aktiv ausgeführt
+werden kann, sich aber oft auch passiv durch Lockerlassen ergibt).
+Phase 2 ist die Schlagbewegung bis zum Treffpunkt, und Phase 3 ist das
+Ausschwingen oder Abstoppen nach dem Schlag.
