@@ -15,6 +15,15 @@ Fehler meine.
   * Langer Vorhand-Aufschlag
   * Rechtskunde
 
+[23. März 2014](2014.03.23.markdown)
+  * Warmlaufen
+  * Vorspannung
+  * Ausfallschritt
+  * Außenschnitt am Netz
+  * Seitliche Abwehr
+  * Bücher und Videos
+
+
 © Sebastian Fischer, 2014
 
-[![CC-BY-NC-SA](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
+[![(Veröffentlicht unter der Lizenz: CC-BY-NC-SA 4.0)](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
