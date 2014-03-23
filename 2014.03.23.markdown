@@ -34,8 +34,8 @@ Susi Susanti zu beobachten war.
 
 Wichtig beim Aufbau der Vorspannung ist es, nach einem kurzen Hüpfer
 __tief__ (mit niedrigem Körperschwerpunkt) und mit __breiten Beinen__
-zu stehen und dabei die Bein-Muskeln anzuspannen. Umstritten ist, ob
-beide Beine nach dem Hüpfer gleichzeitig aufkommen sollten. Der
+zu stehen und dabei die Bein-Muskeln __anzuspannen__. Umstritten ist,
+ob beide Beine nach dem Hüpfer gleichzeitig aufkommen sollten. Der
 Zeitpunkt des Vorspannungsaufbau muss der Spielsituation angepasst
 werden und sollte so erfolgen, dass der Spieler starten kann, sobald
 er die Information über die Richtung des gegnerischen Schlages hat.
@@ -64,7 +64,7 @@ Vorspannung auf, wenn der Ball landet. Der Schwierigkeitsgrad kann
 auch hier durch Hinzunahme eines Schrittes gesteigert werden.
 
 Der Rhythmus kann auch durch __Hochhalten__ eines Federballs
-vorgegeben werden, schließlich auch durch __spielen eines Balles__ von
+vorgegeben werden, schließlich auch durch __Spielen eines Balles__ von
 zwei Spielern, wobei die Gruppe den Bewegungen eines Spielers folgt
 (erst nur in eine Richtung, dann im Wechsel nach vorne und hinten).
 
@@ -80,7 +80,7 @@ erfolgen oder durch eine Übung, die gut klappt.
 Der Ausfallschritt ist eine Möglichkeit zur __Laufwegs-Endung__, die
 in der Regel am Netz gewählt wird.
 
-Beim Ausfallschritt werden__zwei Schritte__ ausgeführt. Beim ersten
+Beim Ausfallschritt werden __zwei Schritte__ ausgeführt. Beim ersten
 liegt der Fokus auf möglichst schnellem Bodenkontakt. Der zweite
 Schritt wird mit der __Ferse__ aufgesetzt, wobei die __Fußspitze__
 nicht nach innen gedreht werden soll. Das __Knie__ geht dabei nicht
@@ -103,13 +103,13 @@ Korrekturen erleichtern sind:
 
 ## Außenschnitt am Netz
 
-Kurze Bälle am Netz sollten möglichst nah hinter das Netz fallen, das
-Netz dabei möglichst auch berühren (Netzroller) und dabei trudeln, um
-den Rückschlag zu erschweren. eine Technik dazu ist der Außenschnitt,
-der mit der Vorhand und mit der Rückhand ausgeführt werden kann und
-bei dem der Schläger eine leichte Bewegung nach außen vollführt. Die
-Nullstellung ist identisch zu der beim Lob, damit nicht erkennbar ist,
-wohin der Ball gespielt wird.
+Kurze Bälle am Netz sollten nah hinter das Netz fallen, das Netz
+möglichst berühren (Netzroller) und dabei trudeln, um den Rückschlag
+zu erschweren. eine Technik dazu ist der Außenschnitt, der mit der
+Vorhand und mit der Rückhand ausgeführt werden kann und bei dem der
+Schläger eine leichte Bewegung nach außen vollführt. Die Nullstellung
+ist identisch zu der beim Lob, damit nicht erkennbar ist, wohin der
+Ball gespielt wird.
 
 Bei der Rückhand-Variante wird der Schläger so gehalten, dass eine
 Lücke zwischen Hand-Innenfläche und Griff entsteht (Schlagwort:
@@ -130,9 +130,9 @@ Schlag ausgeführt werden muss.
 
 Eine spielerische Übung ist, in zwei Teams gegeneinander zu spielen.
 Die Spieler stellen sich dazu auf beiden Seiten des Feldes
-hintereinander auf. Jeder Spieler führt einen Schlag aus, wobei Bälle
-die nicht im vorderen Bereich des Feldes landen, aus gewertet werden.
-Nach einem Fehler verliert ein Spieler ein Leben. sind zwei Leben
+hintereinander auf. Jeder Spieler führt einen Schlag aus, wobei Bälle,
+die nicht im vorderen Bereich des Feldes landen, im Aus sind. Nach
+einem Fehler verliert ein Spieler ein Leben. Sind zwei Leben
 aufgebraucht, scheidet er aus. Das Team, dessen Spieler zuerst alle
 ausgeschieden sind, verliert. Der Trainer spielt nach Fehlern vom
 Spielfeldrand neue, gemeine Bälle zu, um das Spiel schnell
@@ -158,19 +158,19 @@ und schließlich durcheinander ein beide Richtungen ausgeführt werden.
 
 ## Bücher und Videos
 
-Hans Werner Niesner und Jürgen Ranzmayer: [Badminton] (nicht
-empfohlen)
+Hans Werner Niesner und Jürgen Ranzmayer: [Badminton], nicht
+empfohlen
 
-Lars Lucke und Christian Schwab: [Tour de Badminton] (insgesamt ok)
+Lars Lucke und Christian Schwab: [Tour de Badminton], insgesamt ok
 
 Empfehlung: Heinz Kelzenberg
   * [Ich lerne Badminton]
   * [Ich trainiere Badminton]
 
-Detlef Poste und Holger Hasse: [Badminton Schlagtechnik] (auch gut)
+Detlef Poste und Holger Hasse: [Badminton Schlagtechnik], auch gut
 
 Holger Hasse, Martin Knupp und Andreas Luh: [Koordinationstraining im
-Badminton] (für Fortgeschrittene)
+Badminton], für Fortgeschrittene
 
 [Badminton]: http://www.amazon.de/Badminton-Werner-Ranzmayer-J%C3%BCrgen-Niesner/dp/B003HMKJ1I/
 [Tour de Badminton]: http://www.amazon.de/Tour-Badminton-Etappen-Einsteiger-Schlitzohr/dp/3000239480/
