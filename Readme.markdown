@@ -8,10 +8,10 @@ Fehler meine.
 [SHBV]: http://www.shbv.de/
 
 [22. März 2014](2014.03.22.markdown)
-  * Aufwärmen
+  * Aufwärm-Spiele
   * Schlägerhaltung
   * Schlagformen
-  * Unterhand Clear
+  * Lob
   * Langer Vorhand-Aufschlag
   * Rechtskunde
 
