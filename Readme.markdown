@@ -15,7 +15,7 @@ Fehler meine.
   * Langer Vorhand-Aufschlag
   * Rechtskunde (Ulrike Petter)
 
-[23. März 2014](2014.03.23.markdown) (Patrick Meyer)
+[23. März 2014](2014.03.23.markdown) (Patrick Meier)
   * Warmlaufen
   * Vorspannung
   * Ausfallschritt
