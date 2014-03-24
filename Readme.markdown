@@ -7,15 +7,15 @@ Fehler meine.
 
 [SHBV]: http://www.shbv.de/
 
-[22. März 2014](2014.03.22.markdown)
+[22. März 2014](2014.03.22.markdown) (Jens Meyer)
   * Aufwärm-Spiele
   * Schlägerhaltung
   * Schlagformen
   * Lob
   * Langer Vorhand-Aufschlag
-  * Rechtskunde
+  * Rechtskunde (Ulrike Petter)
 
-[23. März 2014](2014.03.23.markdown)
+[23. März 2014](2014.03.23.markdown) (Patrick Meyer)
   * Warmlaufen
   * Vorspannung
   * Ausfallschritt
