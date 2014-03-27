@@ -162,8 +162,7 @@ Die folgende Auflistung wurde von Patrick Meier zusammengestellt.
 
 ### Bücher
 
-Hans Werner Niesner und Jürgen Ranzmayer: [Badminton], nicht
-empfohlen
+Hans Werner Niesner und Jürgen Ranzmayer: [Badminton]
 
 Lars Lucke und Christian Schwab: [Tour de Badminton], insgesamt ok
 
@@ -176,12 +175,12 @@ Detlef Poste und Holger Hasse: [Badminton Schlagtechnik], auch gut
 Holger Hasse, Martin Knupp und Andreas Luh: [Koordinationstraining im
 Badminton], für Fortgeschrittene
 
-[Badminton]: http://www.amazon.de/Badminton-Werner-Ranzmayer-J%C3%BCrgen-Niesner/dp/B003HMKJ1I/
-[Tour de Badminton]: http://www.amazon.de/Tour-Badminton-Etappen-Einsteiger-Schlitzohr/dp/3000239480/
-[Ich lerne Badminton]: http://www.amazon.de/Ich-lerne-Badminton-Katrin-Barth/dp/3898995100/
-[Ich trainiere Badminton]: http://www.amazon.de/Ich-trainiere-Badminton-Trainiere-Schnelligkeit/dp/3898995852/
-[Badminton Schlagtechnik]: http://www.amazon.de/Badminton-Schlagtechnik-Poste-Detlef-Holger/dp/B00CE0HXQ8/
-[Koordinationstraining im Badminton]: http://www.amazon.de/Koordinationstraining-im-Badminton-Holger-Hasse/dp/3868841091/
+[Badminton]: http://www.amazon.de/gp/product/B003HMKJ1I/ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B003HMKJ1I&linkCode=as2&tag=sebfisch
+[Tour de Badminton]: http://www.amazon.de/gp/product/3000239480/ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3000239480&linkCode=as2&tag=sebfisch
+[Ich lerne Badminton]: http://www.amazon.de/gp/product/3898995100/ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3898995100&linkCode=as2&tag=sebfisch
+[Ich trainiere Badminton]: http://www.amazon.de/gp/product/3898995852/ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3898995852&linkCode=as2&tag=sebfisch
+[Badminton Schlagtechnik]: http://www.amazon.de/gp/product/B00CE0HXQ8/ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B00CE0HXQ8&linkCode=as2&tag=sebfisch
+[Koordinationstraining im Badminton]: http://www.amazon.de/gp/product/3868841091/ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=3868841091&linkCode=as2&tag=sebfisch
 
 ### DVDs
 
