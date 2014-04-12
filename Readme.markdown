@@ -23,6 +23,17 @@ Fehler meine.
   * Seitliche Abwehr
   * Bücher und Videos
 
+[12. April 2014](2014.04.12.markdown) (Patrick Meier)
+  * Aufwärmen: Beine und Spiel
+  * Vorhand Überkopf-Schlag (Drop, Smash, Clear)
+  * Stemmschritt
+  * Umsprung
+  * Small Footwork
+  * Malayensprung
+  * Chinasprung
+  * Abschluss-Spiele
+  * Ausblick: Prüfung der Demo-Fähigkeit
+
 
 © Sebastian Fischer, 2014
 
