@@ -10,7 +10,7 @@ ausgeführt werden, um ein Lauftraining vorzubereiten. Die folgenden
   * das selbe mit Partner gegenüberstehend, zwischen den Feldern springen und über den Köpfen abklatschen
   * Sidesteps mit Richtungswechsel von einer Person vorgegeben, die andere folgt
   * Vierergruppe trippelt auf der Stelle, führt auf Handzeichen Sidesteps nach links, nach rechts oder einen Sprung nach oben aus, am Ende kurzer Sprint
-  * Partner stehen sich in halben Feld gegenüber, einer versucht den anderen zu ticken, sobald dieser das Halbfeld zu einer Seite verlässt und versucht zu fliehen
+  * Partner stehen sich in halbem Feld gegenüber, einer versucht den anderen zu ticken, sobald dieser das Halbfeld zu einer Seite verlässt und versucht zu fliehen
 
 Als Variante des Sitzball-Spiels, bei dem sich Teams einen Ball
 zuwerfen und, um Punkte zu erlangen, im Sitzen fangen müssen,
@@ -31,7 +31,7 @@ In der Nullstellung (Phase 0) wird die nicht-Schlaghand vor dem
 Gesicht in der Flugbahn des Balls gehalten. Die Schulter des
 Schlagarms wird nach hinten gedreht, der __Ellenbogen angehoben__ und der
 Arm angewinkelt. Unterarm und Schläger bilden dabei mit der nicht-
-Schlaghand ein __Dach__. Der Schläger wird mit einem Lockeren
+Schlaghand ein __Dach__. Der Schläger wird mit einem lockeren
 Vorhandgriff gehalten. Gleichzeitig zur Armbewegung wird die __Hüfte__
 und der Fuß der Schlaghand im rechten Winkel nach hinten gedreht. Der
 hintere Fuß steht dabei etwa parallel zur Grundlinie.
@@ -56,7 +56,9 @@ unterstützen.
 Beim Ausschwingen (Phase 3) schwingt der Schläger nach vorne/unten auf
 die andere Seite des Körpers. Der Schlägerkopf zeigt nach unten, der
 Ellenbogen nach oben. Die Schulter des Schlagarms zeigt leicht nach
-vorne, der zugehörige Fuß wird nach vorne gezogen.
+vorne, der zugehörige Fuß wird nach vorne gezogen. Der Schläger sollte
+für größtmögliche Kraftübertragung den Ball gerade treffen und diesen
+nicht anschneiden.
 
 Als Vorübung kann der Überkopf-Schlag zunächst ohne Beinarbeit
 ausgeführt werden. Dabei kniet sich ein Spieler auf einen Kasten und
@@ -91,7 +93,7 @@ Ausschwingen einen Schritt nach vorne.
 Statt eines Stemmschritts kann beim Überkopf-Schlag auch ein Umsprung
 ausgeführt werden, mit dem ein überspielter Spieler noch hinter den
 Ball kommen kann. Beim Umsprung wird während der Schlagbewegung
-springen ein Köprperdrehung so ausgeführt, dass der hintere Fuß nach
+springend eine Körperdrehung so ausgeführt, dass der hintere Fuß nach
 vorne und der vordere nach hinten kommt. Sowohl der vor als auch der
 nach dem Absprung hintere Fuß stehen etwa __parallel zur Grundlinie__.
 Vor der Drehung lastet das __Körpergewicht__ auf dem hinteren Fuß. Der
@@ -124,10 +126,9 @@ damit der Winkel für den Lob nicht zu steil wird.
 
 Die folgenden Übungen dienen dem Koordinationstraining der Beine. Sie
 sollten mit einer Stoppuhr ausgeführt werden. Der Rhythmus kann
-variieren. Zum Beispiel könnten die folgenden Übungen (oder eine
-Auswahl dieser) zehn Sekunden langsam, dann zehn Sekunden schnell
-ausgeführt werden, wonach eine zehnsekündige Pause folgt und dann die
-nächste Übung.
+variieren. Zum Beispiel könnten die Übungen (oder eine Auswahl dieser)
+zehn Sekunden langsam, dann zehn Sekunden schnell ausgeführt werden,
+wonach eine zehnsekündige Pause folgt und dann die nächste Übung.
 
   * grätschen und schließen
   * grätschen und (nur) in die Grundposition schließen
@@ -170,7 +171,7 @@ Malayensprung schrittweise zu üben.
   * zugeworfenen Ball bei Schlagbewegung mit der Hand blocken
   * nach langem Aufschlag in die Rückhandecke Clear nach Malayensprung
   * nach dem Zurücklaufen in die Mitte mit einem Fuß die vordere Aufschlaglinie berühren
-  * die übende spieler spielt Clears mit einem anderen und tauscht zwischen den Schlägen den Schläger, den ein anderer Spieler am Netz bereit hält
+  * die übende spieler spielt Clears mit einem anderen und tauscht zwischen den Schlägen den Schläger, den ein weiterer Spieler am Netz bereit hält
   * Clears spielen, dazwischen zugeworfene Bälle zu anderem Spieler zurückspielen
   * Clears spielen, dazwischen fünf Bälle von der Aufschlaglinie ticken
 
@@ -179,34 +180,35 @@ Malayensprung schrittweise zu üben.
 ## Chinasprung
 
 In der Vorhandecke wird häufig kein Umsprung ausgeführt sondern ein
-Chinasprung, der es erlaubt den Ball schneller zurückzuspielen. Dabei
-werden die Beine beim Sprung nicht getauscht und der Körper nicht
-gedreht. Wegen der fehlenden Körperrotation ist der Schlag weniger
-kraftvoll beziehungsweise erfordert mehr Kraft aus dem Schlagarm.
+Chinasprung, der den Rückweg erleichtert und es erlaubt den Ball
+schneller zurückzuspielen. Dabei werden die Beine beim Sprung nicht
+getauscht und der Körper nicht gedreht. Wegen der fehlenden
+Körperrotation ist der Schlag weniger kraftvoll beziehungsweise
+erfordert mehr Kraft aus dem Schlagarm.
 
-Eventuell nach einem kleinen Schritt mit dem rechten Fuß nach hinten,
-wird ein Sidestep nach hinten ausgeführt, mit rechts abgesprungen und
-dann __beidbeinig__ und __breitbeinig__ gelandet. Der
+Nach einem kleinen (optionalen) Schritt mit dem rechten Fuß nach
+hinten, wird ein Sidestep nach hinten ausgeführt, mit rechts
+abgesprungen und dann __beidbeinig__ und __breitbeinig__ gelandet. Der
 __Körperschwerpunkt__ soll nach der Landung zwischen den Beinen (und
-nicht darüber hinaus) liegen. Beim Schlag wird die Hüfte etwas
-eingedreht, der Treffpunkt soll am höchsten Punkt des Sprunges sein.
-die Nullstellung wird möglichst früh eingenommen (vom Schläger ziehen
+nicht dahinter) liegen. Beim Schlag wird die Hüfte etwas eingedreht,
+der Treffpunkt soll am höchsten Punkt des Sprunges sein. die
+Nullstellung wird möglichst früh eingenommen (vom Schläger ziehen
 lassen). der Rückweg kann entweder mit einem Sidestep oder durch
 übersetzen eingeleitet werden.
 
 Die folgenden Übungen können nacheinandner ausgeführt werden, um den
 Chinasprung zu üben.
 
-  * vor dem Netz stehend wirft ein Spieler dem schlagenden ins Halbfeld auf die Vorhand zu, dieser spielt einen Smash die Linie entlang
+  * vor dem Netz stehend wirft ein Spieler dem schlagenden ins Halbfeld auf die Vorhand zu, dann Smash die Linie entlang
   * Zuspiel ins Halbfeld auf die Vorhand, dann Smash
   * kurz zuspielen, kurz zurück, dann hoch ins Halbfeld, Smash
-  * in hintere vorhandecke zuspielen, Clear zurück
+  * in hintere Vorhandecke zuspielen, Clear zurück
   * kurz zuspielen, kurz zurück, Lob in die hintere Vorhandecke, Clear
 
 ## Abschluss-Spiele
 
-Um eine trainingseinheit zu beenden bieten sich Spiele an, die dafür
-Sorgen, dass das Training mit einem positiven Gefühl endet.
+Um eine Trainingseinheit zu beenden bieten sich Spiele an, die dieses
+mit einem positiven Gefühl beenden.
 
 Ein solches Spiel ist __Neunerball__, bei dem ein Doppel gespielt wird
 und dabei zunächst auf jeder Seite vier Bälle hinter der Grundlinie
@@ -214,19 +216,20 @@ stehen. Sobald eine Partei einen Punkt macht, muss ein Spieler der
 unterlegenen Partei den Spielball einsammeln und hinter die eigene
 Grundlinie stellen (auch dann wenn dieser auf der anderen Seite ins
 Aus gespielt wurde). Die Partei, die den Ballwechsel gewonnen hat,
-holt einen Ball von der eigenen Grundlinie uns spielt einen Aufschlag
-(diagonal, egal von welcher Seite). Gewonnen hat die Partei, die keine
-Bälle mehr hinter der Grundlinie hat.
+holt einen Ball von der eigenen Grundlinie und leitet den nächsten
+Ballwechsel (ohne auf die andere Seite zu warten) mit einem Aufschlag
+ein (diagonal, egal von welcher Seite). Gewonnen hat die Partei, die
+keine Bälle mehr hinter der Grundlinie hat.
 
 Beim __Kaiserturnier__ spielen je zwei Spieler auf einem Halbfeld
 Einzel. Wer nach Ablauf einer gewissen Zeit mehr Punkte hat, geht ein
-Halbfeld in die eine Richtung, der Verlierer in die andere Richtung
+Halbfeld in die eine Richtung, die Verlierer in die andere Richtung
 weiter. Dabei kann die Zahlweise nach jeder Runde verändert werden.
 Zum Beispiel:
 
   * Bälle in bestimmte Feldteile / Körpertreffer geben mehr Punkte
   * Bälle dürfen nur in bestimmte Feldteile gespielt werden (z.B. nicht ins Vorderfeld, nicht in die Mitte)
-  * Präzisionsschläge vorab mit zwei Punkten pro Schlag
+  * Präzisionsschläge vorab mit zwei Punkten pro Treffer
   * Stein-Schere-Papier vorab, Verlierer darf nur in bestimmte Feldteile spielen
 
 In der letzten Runde wird ein Finalspiel ohne Zeitbegrenzung bis 21

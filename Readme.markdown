@@ -3,9 +3,11 @@
 Ich nehme am Lehrgang zum Erwerb der C-Trainerlizenz im [SHBV] teil
 und sammle an dieser Stelle Notizen zu den Lehrgangsinhalten. Da meine
 Notizen nicht von den Veranstaltern kontrolliert werden, sind alle
-Fehler meine.
+Fehler meine. Ergänzungen und Korrekturen, die mich [per E-Mail]
+erreichen, arbeite ich gerne ein.
 
 [SHBV]: http://www.shbv.de/
+[per E-Mail]: mailto:federigo.pescatore@gmail.com
 
 [22. März 2014](2014.03.22.markdown) (Jens Meyer)
   * Aufwärm-Spiele
