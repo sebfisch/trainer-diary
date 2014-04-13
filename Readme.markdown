@@ -31,10 +31,21 @@ erreichen, arbeite ich gerne ein.
   * Stemmschritt
   * Umsprung
   * Small Footwork
-  * Malayensprung
+  * Malayenschritt mit Umsprung
   * Chinasprung
   * Abschluss-Spiele
   * Ausblick: Prüfung der Demo-Fähigkeit
+
+[13. April 2014](2014.04.13.markdown) (Patrick Meier)
+  * Weitere Schlagformen
+  * Schlägerhaltung in Abhängigkeit der Schlagposition
+  * Rückhand Clear
+  * Defensive im Hinterfeld
+  * Koordinationsleiter
+  * Technik-Verbesserung durch erhöhten Druck in Übungen
+  * Vorhand Drop
+  * Spiele
+
 
 
 © Sebastian Fischer, 2014

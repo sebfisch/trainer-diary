@@ -29,12 +29,12 @@ gleichzeitiges Zufassen ausgeführt.
 
 In der Nullstellung (Phase 0) wird die nicht-Schlaghand vor dem
 Gesicht in der Flugbahn des Balls gehalten. Die Schulter des
-Schlagarms wird nach hinten gedreht, der __Ellenbogen angehoben__ und der
-Arm angewinkelt. Unterarm und Schläger bilden dabei mit der nicht-
-Schlaghand ein __Dach__. Der Schläger wird mit einem lockeren
-Vorhandgriff gehalten. Gleichzeitig zur Armbewegung wird die __Hüfte__
-und der Fuß der Schlaghand im rechten Winkel nach hinten gedreht. Der
-hintere Fuß steht dabei etwa parallel zur Grundlinie.
+Schlagarms wird nach hinten gedreht, der __Ellenbogen angehoben__ und
+der Arm angewinkelt. Unterarm und Schläger bilden dabei mit der nicht-
+Schlaghand ein __Dach__. Der Schläger wird mit einem lockeren V-Griff
+gehalten. Gleichzeitig zur Armbewegung wird die __Hüfte__ und der Fuß
+der Schlaghand im rechten Winkel nach hinten gedreht. Der hintere Fuß
+steht dabei etwa parallel zur Grundlinie.
 
 Bei der Ausholbewegung (Phase 1) wird der __Ellenbogen nach
 vorne/oben__ gezogen. Der Unterarm wird dabei maximal nach außen
@@ -153,10 +153,10 @@ wonach eine zehnsekündige Pause folgt und dann die nächste Übung.
   * auf der Stelle tippeln
   * Indianertanz (abwechselnd die Beine aus der Hüfte vor das andere Bein drehen)
 
-## Malayensprung
+## Malayenschritt mit Umsprung
 
 Der Laufweg in die Rückhandecke des Hinterfelds wird in der Regel mit
-dem Malayensprung ausgeführt. Dabei springt der Spieler aus der
+dem Malayenschritt ausgeführt. Dabei springt der Spieler aus der
 Grundstellung mit dem linken Bein nach hinten, dreht dabei den Körper,
 landet zuerst mit dem linken und dann dahinter mit dem rechten Bein
 und führt beim Schlag einen Umsprung aus. Vor dem Absprung kann ein
@@ -165,11 +165,11 @@ Beispiel, indem beim Aufbau der Vorspannung das linke Bein etwas
 später und weiter hinten aufgesetzt wird.
 
 Die folgenden Übungen (oder eine Auswahl dieser) eignen sich, um den
-Malayensprung schrittweise zu üben.
+Malayenschritt mit Umsprung schrittweise zu üben.
 
-  * Ball bei vorne stehendem Spieler holen und nach Malayensprung werfen
+  * Ball bei vorne stehendem Spieler holen und nach Malayenschritt im Umsprung werfen
   * zugeworfenen Ball bei Schlagbewegung mit der Hand blocken
-  * nach langem Aufschlag in die Rückhandecke Clear nach Malayensprung
+  * nach langem Aufschlag in die Rückhandecke Clear nach Malayenschritt
   * nach dem Zurücklaufen in die Mitte mit einem Fuß die vordere Aufschlaglinie berühren
   * die übende spieler spielt Clears mit einem anderen und tauscht zwischen den Schlägen den Schläger, den ein weiterer Spieler am Netz bereit hält
   * Clears spielen, dazwischen zugeworfene Bälle zu anderem Spieler zurückspielen
@@ -248,11 +248,11 @@ Demostrationsfähigkeit statt. Die folgenden Schläger werden geprüft.
   * Ausfallschritt nach links und rechts im Vorderfeld
   * Vorhand Clear
   * Vorhand Drop
-  * Vorhand Drop geschnitten (aus dem Hinterfeld)
-  * Malayensprung mit Umsprung
+  * Vorhand Drop geschnitten
+  * Malayenschritt mit Umsprung
   * Chinasprung
   * Rückhand Clear
-  * Ball präzise auf eine Matte spielen
+  * Zuspielfähigkeit
 
 Prüfungsteile, die bei dieser Prüfung bestanden werden, werden bei der
 Abschlussprüfung nicht mehr geprüft.

@@ -1,0 +1,210 @@
+# 13. April 2014
+
+## Weitere Schlagformen
+
+Neben der Rotation des Unterarms dem Zufassen kann auch ein
+Extensionsschlag ausgeführt werden, bei dem der Schlagarm (ohne
+Rotation des Unterarms) eine gerade Streckbewegung vollführt.
+Extensionsschläge werden zum Beispiel beim Drive oder beim Töten am
+Netz verwendet und häufig mit Zufassen kombiniert. Ein Problem von
+Extensionsschlägen ist, dass sie (anders als Schläge durch Zufassen)
+früh sichtbar sind.
+
+Die Rotationsbewegung des Unterarms nach innen (bei der Vorhand) wird
+__Pronation__ genannt, die nach außen (bei der Rückhand) heißt
+__Supination__.
+
+Schließlich gibt es auch noch angeschnittene Schläge, die wir später
+behandeln.
+
+## Schlägerhaltung in Abhängigkeit der Schlagposition
+
+Im Wesentlichen unterscheidet man drei Schlägerhaltungen, die je nach
+Schlagposition Position ausgewählt werden. Den __V-Griff__ haben wir
+bisher als Vorhandgriff kennen gelernt, er wird jedoch auch bei
+Rückhandschlägen eingesetzt. Früher hieß er Universalgriff, obwohl er
+garnicht bei allen Schlägen eingesetzt wird. Der __Rush-Griff__
+entsteht durch leichte Drehung des Schlägers in der Hand nach innen
+(11 Uhr, Bratpfanne). Den __Daumen-Griff__ haben wir bisher als
+Rückhandgriff kennengelernt, er kann jedoch auch für Vorhandschläge
+verwendet werden.
+
+Welche Schlägerhaltung wann benutzt wird, ergibt sich aus der
+relativen Position des Treffpunktes zum Körper. Bei Schlägen vor dem
+Körper wird auf der Rückhandseite der Daumen-Griff und auf der
+Vorhandseite der Rush-Griff verwendet. Bei Schlägen neben dem Körper
+kommt auf beiden Seiten der V-Griff aum Einsatz. Bei Schlägen hinter
+dem Körper wird auf der Rückhandseite der Rush-Griff und auf der
+Vorhandseite der Daumengriff verwendet, wobei der Daumen bei der
+Vorhand nicht gegen die breite Seite des Griffes gedrückt wird.
+Lediglich die Drehung des Schlägers entspricht dem Daumengriff.
+
+Ziel der unterschiedlichen Schlägerhaltungen ist immer, die
+Schlagfläche in Schlagrichtung zu positionieren.
+
+## Rückhand Clear
+
+Der Rückhand Clear wird ausgeführt, wenn keine Zeit bleibt, einen Ball
+in das Rückhand Hinterfeld mit der Vorhand zu erreichen.
+
+In der Nullstellung (Phase 0) ist der Ellenbogen angehoben, der
+Schlagarm angewinkelt und der Schläger zeigt nach oben. Bei der
+Ausholbewegung (Phase 1) wird der Ellenbogen parallel zur Seitenlinie
+nach hinten geschoben, wobei der Schläger in lockerer Griffhaltung
+etwas nach vorner fällt. Kurz vor dem Schlag vollführt der Unterarm
+eine Ausholbewegung nach unten und rotiert nach innen (Pronation). Die
+Schlagbewegung (Phase 2) entsteht durch Rotation des Unterarms nach
+außen (Supination) und gleichzeitiges explosives Zufassen. Sie stoppt
+abrupt ohne auszuschwingen (Phase 3).
+
+Die folgenden Übungen können nacheinandner ausgeführt werden, um den
+Rückhand Clear schrittweise zu üben.
+
+  * Schlagbewegung im Schneidersitz
+  * Schneidersitz am Netz (Rückmeldung beim Abstoppen)
+  * zugeworfenen Ball im Schneidersitz schlagen
+  * zugeworfenen Ball im Stehen schlagen
+  * zugespielten Ball im Stehen schlagen, mit Schritt zum Schlag
+
+Diese Reihe kann analog zu anderen Übungen fortgeführt werden, indem
+zunächst ein kurzer Ball gespielt und dann die Rückhand erlaufen
+werden muss.
+
+## Defensive im Hinterfeld
+
+Bei Schlägen ins Hinterfeld, die nicht mehr über dem Kopf angenommen
+werden können, wird ein Ausfallschritt ausgeführt. Der Lauf in die
+Rückhandecke beginnt nach dem Auftakt (Vorspannung) mit einem Schritt
+des linken Beins und endet mit einem Ausfallschritt des rechten. Der
+Lauf in die vorhandecke beginnt mit einem kreuzenden Schritt des
+linken Beins und endet mit einem Ausfallschritt des rechten.
+
+## Koordinationsleiter
+
+Zum Koordinationstraining für die Beine eignet sich einer
+Koordinationsleiter, die auf dem Boden ausgelegt oder mit Klebeband
+geklebt werden kann.
+
+Auf YouTube finden sich viele [Anregungen] für mögliche Schrittfolgen.
+
+[Anregungen]: https://www.youtube.com/results?search_query=agility+ladder
+
+## Technik-Verbesserung durch erhöhten Druck in Übungen
+
+Nachdem die Grundlagen einer Technik vom übenden Spieler beherrscht
+werden, können die Übungen durch erhöhten Druck verschärft werden. Man
+unterscheidet dazu verschiedene Arten des Drucks.
+
+__Zeitdruck__ kann im Spiel entweder selbst oder vom Gegner erzeugt
+sein. Zeitdruck, der entsteht, weil ein Spieler den Ball möglichst
+früh erreichen will (zum Beispiel, um ihn am Netz zu töten) ist selbst
+erzeugt, weil der Ball auch gut später, dann aberweiter unten gespielt
+werden könnte. Zeitdruck, der durch schwer zu erreichende lange und
+kurze Bälle im Wechsel erzeugt wird, ist hingegen vom Gegner erzeugt.
+Bei Übungen kann Zeitdruck durch schnelles Zuwerfen oder durch lange
+Laufwege erzeugt werden.
+
+__Präzisionsdruck__ entsteht, wenn der Ball in kleine vorgegebene
+Bereiche des Spielfelds geschlagen werden soll. In Übungen kann dazu
+ein Ziel (zum Beispiel ein Kasten) in den zu treffenden Bereich
+gestellt werden. Auch ein eng vorgegebener Verlauf der Flugkurve des
+Balls erzeugt Präzisionsdruck.
+
+__Komplexitätsdruck__ entsteht, wenn mehrere Anforderungen auf einmal
+erfüllt werden müssen. Im Spiel ist Komplexitätsdruck in der Regel
+vorhanden. Bei Übungen kann er erzeugt werden, indem verschiedene
+Schläge in einer Übung (rechts/links, vorne/hinten oder beides) geübt
+werden.
+
+__Belastungsdruck__ kann entweder physischer oder psychischer Natur
+sein. Physischer Belastungsdruck kann durch Verlängerung einer Übung
+trainiert werden. Psychischer Belastungsdruck entsteht beim Spiel vor
+Zuschauern, in wichtigen Spielen, bei Matchbällen und so weiter.
+
+__Situationsdruck__ entsteht durch die Taktische Bewertung der
+Spielsituation, auf die wir später noch ausführlicher eingehen.
+
+__Umgebungsdruck__ entsteht durch spezifische Eigenschaften des
+Spielortes wie niedrige Decke, glatter Boden, hoher Geräuschpegel oder
+Wind. Umgebungsdruck kann nur schwer trainiert werden. Das
+Nationalteam simuliert zum Beispiel mit Ventilatoren einen Luftzug,
+wie er auch in großen Hallen mit vielen Zuschauern entsteht.
+
+Im Folgenden sind beispielhaft Anregungen aufgelistet, wie bestimmte
+Techniken durch erhöhten Druck bei Übungen verbessert werden können.
+
+Bei der __Verbesserung des Umsprungs__ kann der Komplexitätsdruck
+erhöht werden, indem Bälle sowohl kurz als auch lang gespielt werden
+müssen. Geringer Komplexitätsdruck entsteht, wenn abwechselnd kurz
+oder lang gespielt wird. Höherer Druck entsteht, wenn in
+unregelmäßiger Folge gewechselt wird. Dazu können kurz zu spielende
+Bälle markiert werden, oder der Zuspieler gibt die Schlagrichtung
+durch Rufe oder Bewegungen/Schritte an.
+
+Auch beim __Angriff aus dem Hinterfeld__ kann der Komplexitätsdruck
+erhöht werden, indem Drops im Wechsel gerade oder cross gespielt
+werden müssen. Auch hier lässt sich der Grad des Drucks wie eben
+genannt variieren. Auch Präzisionsdruck kann erzeugt werden, indem
+Drops in ein Ziel gespielt werden müssen. Wichtiger als die Präzision
+des Drops ist jedoch seine Geschwindigkeit, so dass der Fokus auf die
+Präzision potentiell falsche Anreize bietet.
+
+Auch das __Spiel am Netz__ kann unter Komplexitätsdruck geübt werden,
+indem beide Seiten des Netzes im Wechsel bespielt werden. Hierbei kann
+durch Ziele Präzisionsdruck erzeugt werden. Zeitdruck wird erzeugt,
+indem die Seite durch Antäuschen des Zuwerfers erst kurz vor dem
+Schlag fest steht. Zeitdruck entsteht auch, wenn der übende Spieler
+zunächst einen Drop spielt und dann einen zugeworfenen Ball am Netz
+möglichst hoch erreichen muss. Eine weitere Möglichkeit für
+Komplexitätsdruck ist, in einer Übung zunächst einen scharf gespielten
+Ball neben dem Körper mit einem Chinasprung abzufangen und dann einen
+kurzen Ball am Netz abzulegen.
+
+Die __tiefe Abwehr im Einzel__ kann geübt werden, indem zunächst aus
+einem tiefen Ausfallschritt Bälle kurz hinter das Netz gespielt
+werden. Anschließend wird der Ausfallschritt aus der Bewegung
+ausgeführt, wobei Zeitdruck erzeugt wird, indem flach unter dem Netz
+zugeworfen wird. Zeitdruck entsteht auch, wenn zunächst ein Sprung
+ohne Ball im hinterfeld ausgeführt wird und dann ein zugeworfener Ball
+neben dem Körper und dann im Vorderfeld erreicht werden muss. Wichtig
+ist dabei, dass die zugeworfenen Balle gemein genug sind. Der
+annehmende Spieler darf sie so hoch annehmen, wie er sie bekommt, um
+keine künstlichen Verzögerungen einzuüben.
+
+## Vorhand Drop
+
+Die Nullstellung (Phase 0) und die Ausholbewegung (Phase 1) beim
+Vorhand Drop sind identisch zu denen beim Clear, damit zwischen den
+Schlägen nicht im Ansatz unterschieden werden kann. Erst die
+Schlagbewegung (Phase 2) unterscheidet sich durch ein aktives
+Abstoppen, wodurch eine Ausschwingbewegung (Phase 3) kaum noch nötig
+ist.
+
+## Spiele
+
+Ein Spiel, dass sich zum Warmlaufen eignet ist __Boden-Wand-Boden__,
+bei dem zwei Teams mit einem Volleyball gegeneinander spielen. Um zu
+punkten, müssen sie den Ball so gegen eine Seitenwand spielen, dass er
+zunächst auf dem Boden aufkommt, dann gegen die Wand prallt und
+schließlich wieder auf dem Boden aufkommt, ohne zwischendurch berührt
+zu werden. Spieler, die den Ball in der Hand halten, dürfen weder
+laufen noch prellen. Die Teams spielen gegen gegenüberliegende
+Seitenwände.
+
+Ein weiteres Laufspiel ergibt sich, indem ein Kartenspiel verdeckt auf
+einer Seite der Halle auf einer Linie ausgelegt wird. Teams aus etwa
+vier Personen müssen im Staffellauf von der anderen Seite der Halle
+vier Bildkarten der selben Sorte (zum Beispiel alle Damen) finden,
+dürfen aber nur nacheinander hinlaufen und immer nur eine Karte
+aufdecken. Bei Assen müssen zwei tiefe Sprünge ausgeführt werden,
+Joker dürfen an einer anderen Stelle ausgelegt werden.
+
+Ein weiteres Karten-Spiel, dass sich als Trainingsabschluss eignet
+ergibt sich, wenn zwei Kartenstapel mit Zahlkarten gebildet werden,
+wobei der eine niedrige Zahlen und der andere hohe enthält. Die
+Spieler werden zunächst grob nach Spielstärke sortiert und spielen
+dann in selbst gewählten Paarungen auf dem Halbfeld gegeneinander. Vor
+jedem Spiel ziehen die Spieler verdeckt Karten von den Stapeln. Der
+stärker eingestufte von dem mit den hohen Zahlen, der schwächer
+eingestufte von dem mit den niedrigenren. Wer zuerst die Punktzahl auf
+seiner Karte erreicht, hat die Partie gewonnen.
