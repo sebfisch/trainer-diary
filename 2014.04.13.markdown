@@ -2,8 +2,8 @@
 
 ## Weitere Schlagformen
 
-Neben der Rotation des Unterarms dem Zufassen kann auch ein
-Extensionsschlag ausgeführt werden, bei dem der Schlagarm (ohne
+Neben der Rotation des Unterarms und dem Zufassen kann auch ein
+__Extensionsschlag__ ausgeführt werden, bei dem der Schlagarm (ohne
 Rotation des Unterarms) eine gerade Streckbewegung vollführt.
 Extensionsschläge werden zum Beispiel beim Drive oder beim Töten am
 Netz verwendet und häufig mit Zufassen kombiniert. Ein Problem von
@@ -14,8 +14,8 @@ Die Rotationsbewegung des Unterarms nach innen (bei der Vorhand) wird
 __Pronation__ genannt, die nach außen (bei der Rückhand) heißt
 __Supination__.
 
-Schließlich gibt es auch noch angeschnittene Schläge, die wir später
-behandeln.
+Schließlich gibt es auch noch __angeschnittene Schläge__, die wir
+später behandeln.
 
 ## Schlägerhaltung in Abhängigkeit der Schlagposition
 
@@ -25,15 +25,15 @@ bisher als Vorhandgriff kennen gelernt, er wird jedoch auch bei
 Rückhandschlägen eingesetzt. Früher hieß er Universalgriff, obwohl er
 garnicht bei allen Schlägen eingesetzt wird. Der __Rush-Griff__
 entsteht durch leichte Drehung des Schlägers in der Hand nach innen
-(11 Uhr, Bratpfanne). Den __Daumen-Griff__ haben wir bisher als
-Rückhandgriff kennengelernt, er kann jedoch auch für Vorhandschläge
-verwendet werden.
+(11 Uhr, leichte Bratpfanne). Den __Daumen-Griff__ haben wir bisher
+als Rückhandgriff kennengelernt, er kann jedoch auch für
+Vorhandschläge verwendet werden.
 
 Welche Schlägerhaltung wann benutzt wird, ergibt sich aus der
 relativen Position des Treffpunktes zum Körper. Bei Schlägen vor dem
 Körper wird auf der Rückhandseite der Daumen-Griff und auf der
 Vorhandseite der Rush-Griff verwendet. Bei Schlägen neben dem Körper
-kommt auf beiden Seiten der V-Griff aum Einsatz. Bei Schlägen hinter
+kommt auf beiden Seiten der V-Griff zum Einsatz. Bei Schlägen hinter
 dem Körper wird auf der Rückhandseite der Rush-Griff und auf der
 Vorhandseite der Daumengriff verwendet, wobei der Daumen bei der
 Vorhand nicht gegen die breite Seite des Griffes gedrückt wird.
@@ -76,12 +76,12 @@ Bei Schlägen ins Hinterfeld, die nicht mehr über dem Kopf angenommen
 werden können, wird ein Ausfallschritt ausgeführt. Der Lauf in die
 Rückhandecke beginnt nach dem Auftakt (Vorspannung) mit einem Schritt
 des linken Beins und endet mit einem Ausfallschritt des rechten. Der
-Lauf in die vorhandecke beginnt mit einem kreuzenden Schritt des
+Lauf in die Vorhandecke beginnt mit einem kreuzenden Schritt des
 linken Beins und endet mit einem Ausfallschritt des rechten.
 
 ## Koordinationsleiter
 
-Zum Koordinationstraining für die Beine eignet sich einer
+Zum Koordinationstraining für die Beine eignet sich eine
 Koordinationsleiter, die auf dem Boden ausgelegt oder mit Klebeband
 geklebt werden kann.
 
@@ -91,18 +91,18 @@ Auf YouTube finden sich viele [Anregungen] für mögliche Schrittfolgen.
 
 ## Technik-Verbesserung durch erhöhten Druck in Übungen
 
-Nachdem die Grundlagen einer Technik vom übenden Spieler beherrscht
-werden, können die Übungen durch erhöhten Druck verschärft werden. Man
-unterscheidet dazu verschiedene Arten des Drucks.
+Nachdem ein Spieler die Grundlagen einer Technik beherrscht, können
+die Übungen durch erhöhten Druck verschärft werden. Man unterscheidet
+dazu verschiedene Arten des Drucks.
 
 __Zeitdruck__ kann im Spiel entweder selbst oder vom Gegner erzeugt
 sein. Zeitdruck, der entsteht, weil ein Spieler den Ball möglichst
 früh erreichen will (zum Beispiel, um ihn am Netz zu töten) ist selbst
-erzeugt, weil der Ball auch gut später, dann aberweiter unten gespielt
-werden könnte. Zeitdruck, der durch schwer zu erreichende lange und
-kurze Bälle im Wechsel erzeugt wird, ist hingegen vom Gegner erzeugt.
-Bei Übungen kann Zeitdruck durch schnelles Zuwerfen oder durch lange
-Laufwege erzeugt werden.
+erzeugt, weil der Ball auch gut später, dann aber weiter unten
+gespielt werden könnte. Zeitdruck, der durch schwer zu erreichende
+lange und kurze Bälle im Wechsel erzeugt wird, ist hingegen vom Gegner
+erzeugt. Bei Übungen kann Zeitdruck durch schnelles Zuwerfen oder
+durch lange Laufwege erzeugt werden.
 
 __Präzisionsdruck__ entsteht, wenn der Ball in kleine vorgegebene
 Bereiche des Spielfelds geschlagen werden soll. In Übungen kann dazu
@@ -135,19 +135,19 @@ Techniken durch erhöhten Druck bei Übungen verbessert werden können.
 
 Bei der __Verbesserung des Umsprungs__ kann der Komplexitätsdruck
 erhöht werden, indem Bälle sowohl kurz als auch lang gespielt werden
-müssen. Geringer Komplexitätsdruck entsteht, wenn abwechselnd kurz
-oder lang gespielt wird. Höherer Druck entsteht, wenn in
-unregelmäßiger Folge gewechselt wird. Dazu können kurz zu spielende
-Bälle markiert werden, oder der Zuspieler gibt die Schlagrichtung
-durch Rufe oder Bewegungen/Schritte an.
+müssen. Geringer Komplexitätsdruck entsteht, wenn abwechselnd kurz und
+lang gespielt wird. Höherer Druck entsteht, wenn in unregelmäßiger
+Folge gewechselt wird. Dazu können kurz zu spielende Bälle markiert
+werden, oder der Zuspieler gibt die Schlagrichtung durch Rufe oder
+Bewegungen/Schritte an.
 
 Auch beim __Angriff aus dem Hinterfeld__ kann der Komplexitätsdruck
-erhöht werden, indem Drops im Wechsel gerade oder cross gespielt
-werden müssen. Auch hier lässt sich der Grad des Drucks wie eben
-genannt variieren. Auch Präzisionsdruck kann erzeugt werden, indem
-Drops in ein Ziel gespielt werden müssen. Wichtiger als die Präzision
-des Drops ist jedoch seine Geschwindigkeit, so dass der Fokus auf die
-Präzision potentiell falsche Anreize bietet.
+erhöht werden, indem zum Beispiel Drops im Wechsel gerade oder cross
+gespielt werden müssen. Auch hier lässt sich der Grad des Drucks wie
+eben genannt variieren. Auch Präzisionsdruck kann erzeugt werden,
+indem Drops in ein Ziel gespielt werden müssen. Wichtiger als die
+Präzision des Drops ist jedoch seine Geschwindigkeit, so dass der
+Fokus auf die Präzision potentiell falsche Anreize bietet.
 
 Auch das __Spiel am Netz__ kann unter Komplexitätsdruck geübt werden,
 indem beide Seiten des Netzes im Wechsel bespielt werden. Hierbei kann
@@ -165,9 +165,9 @@ einem tiefen Ausfallschritt Bälle kurz hinter das Netz gespielt
 werden. Anschließend wird der Ausfallschritt aus der Bewegung
 ausgeführt, wobei Zeitdruck erzeugt wird, indem flach unter dem Netz
 zugeworfen wird. Zeitdruck entsteht auch, wenn zunächst ein Sprung
-ohne Ball im hinterfeld ausgeführt wird und dann ein zugeworfener Ball
+ohne Ball im Hinterfeld ausgeführt wird und dann ein zugeworfener Ball
 neben dem Körper und dann im Vorderfeld erreicht werden muss. Wichtig
-ist dabei, dass die zugeworfenen Balle gemein genug sind. Der
+ist dabei, dass die zugeworfenen Bälle gemein genug sind. Der
 annehmende Spieler darf sie so hoch annehmen, wie er sie bekommt, um
 keine künstlichen Verzögerungen einzuüben.
 
@@ -195,9 +195,9 @@ Ein weiteres Laufspiel ergibt sich, indem ein Kartenspiel verdeckt auf
 einer Seite der Halle auf einer Linie ausgelegt wird. Teams aus etwa
 vier Personen müssen im Staffellauf von der anderen Seite der Halle
 vier Bildkarten der selben Sorte (zum Beispiel alle Damen) finden,
-dürfen aber nur nacheinander hinlaufen und immer nur eine Karte
+dürfen aber nur nacheinander laufen und immer nur eine Karte
 aufdecken. Bei Assen müssen zwei tiefe Sprünge ausgeführt werden,
-Joker dürfen an einer anderen Stelle ausgelegt werden.
+Joker dürfen an einer anderen Stelle zurück gelegt werden.
 
 Ein weiteres Karten-Spiel, dass sich als Trainingsabschluss eignet
 ergibt sich, wenn zwei Kartenstapel mit Zahlkarten gebildet werden,
@@ -206,5 +206,5 @@ Spieler werden zunächst grob nach Spielstärke sortiert und spielen
 dann in selbst gewählten Paarungen auf dem Halbfeld gegeneinander. Vor
 jedem Spiel ziehen die Spieler verdeckt Karten von den Stapeln. Der
 stärker eingestufte von dem mit den hohen Zahlen, der schwächer
-eingestufte von dem mit den niedrigenren. Wer zuerst die Punktzahl auf
+eingestufte von dem mit den niedrigeren. Wer zuerst die Punktzahl auf
 seiner Karte erreicht, hat die Partie gewonnen.
