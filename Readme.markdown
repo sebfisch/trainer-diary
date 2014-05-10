@@ -46,6 +46,12 @@ erreichen, arbeite ich gerne ein.
   * Vorhand Drop
   * Spiele
 
+[10. Mai 2014](2014.05.10.markdown) (Patrick Meier)
+  * Ballgewöhnung
+  * Ballsicherheit im Vorderfeld
+  * Geschnittene Drops aus dem Hinterfeld
+  * Fehler erkennen
+  * Racketspeed
 
 
 © Sebastian Fischer, 2014
