@@ -17,12 +17,12 @@ persönliches Lob, das ernst gemeint ist.
 Beides wird zum Beispiel durch Laufsprünge, hohen Hopserlauf und
 Sprünge auf einem oder zwei Beinen mit Raumgewinn im Rahmen des
 Aufwärmprogramms ausgebildet. Auch Seilspringen sollte zur Kräfiigung
-der Beine regelmäßiger Teil der Trainings sein.
+der Beine regelmäßiger Teil des Trainings sein.
 
 Trainer sollten __spielnahe Übungssituationen__ schaffen. Im Rahmen
-von Small Footwork Übungen simulieren zum Beispiel schnelle
-Hüftdrehungen bei gleichzeitigem Umsetzen der Füße Korrekturschritte,
-wie sie bei Täuschungen des Gegners notwendig sind.
+von Small Footwork simulieren zum Beispiel schnelle Hüftdrehungen bei
+gleichzeitigem Umsetzen der Füße Korrekturschritte, wie sie bei
+Täuschungen des Gegners notwendig sind.
 
 Trainingsziele sollten __durch die Übung notwendig__ gemacht werden.
 Eine hohe Schlägerhaltung ist zum Beispiel nur dann notwendig, wenn
@@ -39,7 +39,7 @@ dürfen.
 Übungen sollten __Technik und Taktik kombinieren__. Dies wird zum
 Beispiel dadurch erreicht, dass nach einem Schlag auch die
 Nachbereitung Teil der Übung ist. Beim Töten am Netz kann zum Beispiel
-nach dem Schlag noch die Lauerstellung in die Ubung eingebaut werden.
+nach dem Schlag noch die Lauerstellung in die Übung eingebaut werden.
 
 __Häufige Widerholungen__ über Wochen hinweg festigen die
 Trainingsinhalte und erlauben es taktische Überlegungen mit
@@ -82,10 +82,10 @@ Balance. Trainer sollten deutlich machen, welcher dieser Faktoren
 
 ## Koordinatives Aufwärmen
 
-Das Aufwärmen sollte grundsätzlich gleitet sein und Aspekte aus dem
+Das Aufwärmen sollte grundsätzlich geleitet sein und Aspekte aus dem
 geplanten Trainingsinhalten vorbereiten. Sinnvoll ist zum Beispiel
 eine Kombination aus Koordinationstraining und Aufwärmen, die
-spielnahe Bewegungsabläufe trainiert. 
+spielnahe Bewegungsabläufe trainiert.
 
 Flache Hopser simulieren Laufwege und sind dadurch spielnaher als hohe
 Hopser, die jedoch zum Kraftaufbau sinnvoll sein können.
@@ -112,17 +112,19 @@ oben zugeworfen werden.
 
 Würfe von unten werden vor allem beim Netzspiel benötigt und können
 auch unterm Netz erfolgen, um den Zeitdruck zu erhöhen. Der Federball
-wird beim zuwurf grundsätzlich am Kopf gefasst und soll nicht trudeln.
+wird beim Zuwurf grundsätzlich am Kork gefasst und soll nicht trudeln.
 Absichtlich trudelnde Bälle können geworfen werden, indem der
 Mittelfinger unter dem Kork platziert wird und den Ball beim Wurf
 durch eine Schnippbewegung zum Drehen bringt.
 
 Seitliche Zuwürfe können benutzt werden, um verschiedene kurze
-Aufschlag präzise zu simulieren. Seitliche Zuwürfe mit hoher Frequenz
-vor und neben den Körper fördern Racket Speed. Insbesondere Würfe mit
-hoher Frequenz stellen hohe koordinative anforderungen an den Trainer,
-der gleichzeitig zum Werfen die Bälle im anderen Arm nachschieben
-muss.
+Aufschläge präzise zu simulieren. Seitliche Zuwürfe mit hoher Frequenz
+vor und neben den Körper fördern Racket Speed. eine mögliche Übung ist
+die "Uhr" bei der Bälle an vier (oder sechs) Positionen (links/rechts,
+oben/mitte/unten) neben den Übenden geworfen werden. Insbesondere
+Würfe mit hoher Frequenz stellen hohe koordinative Anforderungen an
+den Trainer, der gleichzeitig zum Werfen die Bälle im anderen Arm
+nachschieben muss.
 
 Würfe von oben werden über dem Kopf mit angehobenem Ellenbogen
 ausgeführt. So ist es zum Beispiel möglich, vor dem Netz stehend ins
@@ -137,7 +139,7 @@ Vorderfeld sollten nicht Anhand der Armbewegung unterscheidbar sein.
 
 ## Zuspielen
 
-Bei Zuspiel werden Bälle mit der Hand, die den Schläger hält, aus
+Beim Zuspielen werden Bälle mit der Hand, die den Schläger hält, aus
 einer Ballschlange im Arm gezogen, in einer gleichmäßigen Bewegung mit
 einem kleinen Bogen seitlich vor den Körper geworfen und dann durch
 Zufassen geschlagen. Die Bewegung sollte möglichst schnörkellos sein,
@@ -158,7 +160,7 @@ Rückschlag entsprechen muss. Dies kann geübt werden, indem eine zweite
 Person den Smash returniert, sodass kontrolliert werden kann, ob das
 Zuspiel im richtigen Moment erfolgt.
 
-Bei Zuspiel von der Seite wird der Ball höher geworfen und dann neben
+Beim Zuspiel von der Seite wird der Ball höher geworfen und dann neben
 oder leicht über der Hand geschlagen. Es wird benötigt um scharfe
 Bälle mit höherer Geschwindigkeit zuzuspielen.
 
@@ -176,9 +178,9 @@ geneigt sein, um den Ball nicht an den Federn zu treffen.
 Grundsätzlich wird zwischen Täuschungen (oder Finten) und Trick-Shots
 unterschieden. Während bei Täuschungen ein Schlag angetäuscht und ein
 anderer ausgeführt wird, wird bei einem Trick-Shot der Ball lediglich
-auf unerwartete Weise (zum Beispiel hinterm Rücken oder zeischen den
+auf unerwartete Weise (zum Beispiel hinterm Rücken oder zwischen den
 Beinen) geschlagen. Bei Täuschungen wird zusätzlich zwischen
-Köprpertäuschungen und Schlägertäuschungen oder Mischformen
+Körpertäuschungen und Schlägertäuschungen oder Mischformen
 unterschieden. Bei Körpertäuschungen vollführt der Schläger eine
 normale Schlagbewegung und nur der Körper suggeriert einen anderen
 Schlag. Bei Schlägertäuschungen wird vor dem Schlag eine Aushol- oder
@@ -188,15 +190,15 @@ Im Folgenden sind einige Beispiel für Finten aufgelistet.
 
   * langsame Ausholbewegung ("Ansaugen" des Balles) am Netz wie beim
 Ablegen mit der Rückhand, dann schnelle Schlagbewegung, um stattdessen
-flach ins Hinterfeld zu spielen (also Swip und keinen Lob, der zu
-lange in der Luft wäre).
+flach ins Hinterfeld zu spielen (also Swip und kein Lob, der zu lange
+in der Luft wäre).
 
   * schnelle Ausholbewegung wie beim Swip oder Lob, dann langsame
 Schlagbewegung um stattdessen kurz abzulegen. Kann mit Körpertäuschung
 kombiniert werden, indem der Körper sich beim Schlag nach hinten
-bewegt. Der Wechsel von schneller Ausholbewegung kann durch
-Fallenlassen und weiches Auffangen eines Balles in der Hand oder mit
-dem Schläger vorbereitet werden.
+bewegt. Der Wechsel von schneller Ausholbewegung und weichem Schlag
+kann durch Fallenlassen und weiches Auffangen eines Balles in der Hand
+und mit dem Schläger vorbereitet werden.
 
   * schnelle Schlagbewegung wie beim Schlag ins Hinterfeld vor dem
 eigentlichen Schlag kurz hinter das Netz (Doppelschlag).
@@ -210,26 +212,29 @@ schneller Armbewegung möglichst viel Tempo aus dem Schlag zu nehmen.
 
   * am Netz Cross Lob antäuschen, dann Longline Swip spielen, indem
 der Schläger schnell parallel zur Netzkante gezogen wird. Beim Schlag
-etwas schneiden und zufassen, um die Richtung zu ändern. Die selbe
-Finte kann auch nach dem Aufschlag oder bei der Abwehr eines Smashs
-ausgeführt werden.
+etwas schneiden und zufassen, um die Richtung zu ändern.
 
-  * Töten antäuschen, dann stattdessen kurz cross spielen
+  * Töten antäuschen, dann stattdessen kurz cross spielen.
 
   * mit Körpertäuschung Longline Lob mit der Rückhand antäuschen,
-durch Schnitt am Ball vorbei cross spielen
+durch Schnitt am Ball vorbei cross spielen. Die selbe Finte kann auch
+nach dem Aufschlag oder bei der Abwehr eines Smashs ausgeführt werden.
 
-  * in Rückhand-Vorderfeld Ablegen mit der vorhand antäuschen, dann
+  * in Rückhand-Vorderfeld Ablegen mit der Vorhand antäuschen, dann
 unter dem Ball schneiden, um kurz cross zu spielen (auch auf der
-vorhandseite mit Rückhand möglich)
+Vorhandseite mit Rückhand möglich).
 
-  * "Yongbo"-Drop: schnelle Hüfte, wie Clear, dann weicher Schlag um
-Drop zu spielen
+  * [Peter Gade Trickshot]: Nullstellung wie beim Ablegen am Netz,
+dann Ball fallen lassen und unter der Hand kurz cross spielen.
+
+  * [Yongbo Drop]: schnelle Hüfte, wie Clear, dann weicher Schlag um
+Drop zu spielen.
 
   * langsame Hüfte täuscht Drop an, dann explosive Armbewegung
-(Rotation und Zufassen), um Clear zu spielen
+(Rotation und Zufassen), um Clear zu spielen.
 
-
+[Peter Gade Trickshot]: https://www.youtube.com/watch?v=oMV0sv3XiBE
+[Yongbo Drop]: https://www.youtube.com/watch?v=Epv2aWaHNzg
 
 
 © Sebastian Fischer, 2014
