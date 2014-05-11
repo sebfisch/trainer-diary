@@ -53,6 +53,13 @@ erreichen, arbeite ich gerne ein.
   * Fehler erkennen
   * Racketspeed
 
+[11. Mai 2014](2014.05.11.markdown) (Thies Wiediger)
+  * Trainingsgrundsätze
+  * Koordinatives Aufwärmen
+  * Zuwerfen
+  * Zuspielen
+  * Täuschen
+
 
 © Sebastian Fischer, 2014
 

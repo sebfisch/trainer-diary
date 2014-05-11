@@ -208,3 +208,8 @@ jedem Spiel ziehen die Spieler verdeckt Karten von den Stapeln. Der
 stärker eingestufte von dem mit den hohen Zahlen, der schwächer
 eingestufte von dem mit den niedrigeren. Wer zuerst die Punktzahl auf
 seiner Karte erreicht, hat die Partie gewonnen.
+
+
+© Sebastian Fischer, 2014
+
+[![(Veröffentlicht unter der Lizenz: CC-BY-NC-SA 4.0)](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
