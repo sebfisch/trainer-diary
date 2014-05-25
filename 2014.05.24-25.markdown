@@ -174,43 +174,43 @@ Einstreuen von Drops die Gegner aus dem Rhythmus zu bringen.
 
 Die folgenden Faustregeln zum Stellungsspiel gelten für das Doppel.
 
-  #. Die Verteidiger rücken immer __auf die Ballseite__. Cross-Bälle
+  * Die Verteidiger rücken immer __auf die Ballseite__. Cross-Bälle
 haben einen deutlich längeren Weg, daher bleibt zur Abwehr mehr Zeit.
 
-  #. Spielt mein Partner einen __Smash__, dann rücke ich als
+  * Spielt mein Partner einen __Smash__, dann rücke ich als
 Vorderfeldspieler vom Netz weg hinter die T-Linie.
 
-  #. Spielt mein Partner einen __Drop__, dann rücke ich als
+  * Spielt mein Partner einen __Drop__, dann rücke ich als
 Vorderfeldspieler deutlich vor die T-Linie.
 
-  #. Der __Vorderfeldspieler__ lenkt das Spiel. Er entscheidet, welche
+  * Der __Vorderfeldspieler__ lenkt das Spiel. Er entscheidet, welche
 Angriffstellung gespielt wird (Tunnel oder breit).
 
-  #. Beim breiten Angriff sollte der Ball des Hinterfeldspielers in die
+  * Beim breiten Angriff sollte der Ball des Hinterfeldspielers in die
 Mitte oder __Cross__ fliegen.
 
-  #. Ein Doppel lässt sich hauptsächlich nur im __Angriff__ gewinnen.
+  * Ein Doppel lässt sich hauptsächlich nur im __Angriff__ gewinnen.
 
-  #. Angriffe werden zu 80% __in die Mitte__ gespielt, um den
+  * Angriffe werden zu 80% __in die Mitte__ gespielt, um den
 Vorderfeldspieler besser ins Spiel zu bringen und um für Uneinigkeit
 beim Gegner zu sorgen.
 
-  #. __Gerade__ Schläge sind meist effektiver als Cross-Schläge.
+  * __Gerade__ Schläge sind meist effektiver als Cross-Schläge.
 
-  #. Hohe Bälle werden von den Verteidigern __an die Seiten__ gespielt
+  * Hohe Bälle werden von den Verteidigern __an die Seiten__ gespielt
 um den Gegner im Hinterfeld zu bewegen und einen möglichen Smash
 einfacher abdecken zu können. Spiele niemals zweimal an den gleichen
 Ort.
 
-  #. Wird mein Vorderfeldspieler gefährlich außen angespielt, rücke ich
+  * Wird mein Vorderfeldspieler gefährlich außen angespielt, rücke ich
 __auf   der Mittellinie vor__, um notfalls einen Cross-Ball am Netz
 erreichen zu können.
 
-  #. Wer aus der Abwehr eine gute kurze Blockabwehr spielt, __rückt
+  * Wer aus der Abwehr eine gute kurze Blockabwehr spielt, __rückt
 auf der ballorientierten Seite vor, um in die Angriffsstellung zu
 wechseln__.
 
-  #. Beim gegnerischen Clear und Smash in die Mitte sollte derjenige
+  * Beim gegnerischen Clear und Smash in die Mitte sollte derjenige
 Spieler annehmen, der diagonal zum Ball steht.
 
 In der Abwehr steht der Spieler auf der Ballseite etwas weiter hinten
@@ -219,17 +219,17 @@ und der andere weiter vorne in Richtung Ball gedreht.
 Um das Stellungsspiel im Doppel zu trainieren, können nacheinandner
 die folgenden Spielformen gespielt werden.
 
-  #. Verbales Doppel: Stellungsspiel ohne Ball, Spieler benennen Art
+  * Verbales Doppel: Stellungsspiel ohne Ball, Spieler benennen Art
 und Richtung ihrer Schläge
 
-  #. Non-verbales Doppel: wie oben ohne Ball, aber nur Schlagbewegung
+  * Non-verbales Doppel: wie oben ohne Ball, aber nur Schlagbewegung
 statt Schlag zu nennen
 
-  #. Spiel mit flachen Bällen im Mittelfeld (Übergang)
+  * Spiel mit flachen Bällen im Mittelfeld (Übergang)
 
-  #. Angriff gegen Abwehr ohne Wechsel
+  * Angriff gegen Abwehr ohne Wechsel
 
-  #. Angriff und Abwehr in vorgegebenem Wechsel
+  * Angriff und Abwehr in vorgegebenem Wechsel
 
 
 ## Aufschlag und Aufschlag-Annahme im Doppel
@@ -267,15 +267,15 @@ hintere Aufschlaglinie (als Swip) gespielt wird.
 Um die Platzierung zu trainieren, können die folgenden Übungen
 ausgeführt werden.
 
-  #. Gezielte Aufschläge in die verschiedenen Bereiche
+  * Gezielte Aufschläge in die verschiedenen Bereiche
 
-  #. Auf einem Fuß aufschlagen
+  * Auf einem Fuß aufschlagen
 
-  #. Aufschlag mit verbundenen Augen und Trainer-Feedback
+  * Aufschlag mit verbundenen Augen und Trainer-Feedback
 
-  #. Aufschlag auf Ziel am Netz oder an der Wand
+  * Aufschlag auf Ziel am Netz oder an der Wand
 
-  #. Aufschlag von Kasten in Reifen im Zielbereich
+  * Aufschlag von Kasten in Reifen im Zielbereich
 
 
 Bei der Aufschlag-Annahme steht ein Rechtshänder mit dem linken Fuß
@@ -363,10 +363,10 @@ im Sprung aus dem Hohlkreuz der Oberkörper während des Schlages nach
 vorne geklappt und der linke Arm zum Körper geführt. Dieser Schlag
 kann nacheinandner mit folgenden Übungen trainiert werden.
 
-  #. auf einem Kasten knieend (ohne Beinarbeit)
-  #. aus dem Stand ohne Sprung
-  #. mit Sprung aus dem Stand
-  #. mit seitlichem Sprung
+  * auf einem Kasten knieend (ohne Beinarbeit)
+  * aus dem Stand ohne Sprung
+  * mit Sprung aus dem Stand
+  * mit seitlichem Sprung
 
 Der Stick-Smash wird aus der Rücklage gespielt, wenn man mit einem
 Swip(-Aufschlag) überspielt wurde. Dabei bleibt für Unterstützung
