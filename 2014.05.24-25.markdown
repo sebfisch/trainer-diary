@@ -38,11 +38,11 @@ und Mimik, Bewegung, Körperhaltung und gezeigte Emotionen. Ein
 fröhlicher Blick, Augenkontakt, Körperspannung bei aufrechter Haltung,
 und aktive, offene Arme sind Zeichen engagierter Kommunikation.
 Schweifende Blicke, verschränkte Arme oder Hände in den Hosentaschen
-deuten hingegen eine ablehnende Haltung an.
+deuten hingegen eine ablehnende oder abgelenkte Haltung an.
 
 Auch mit Berührungen wie Schulterklopfen oder Hand-Auflegen kann, wenn
 das Verhältnis das zulässt, mit Spielern kommuniziert werden. Bei der
-Technikschulung kann die Übung durch Führen des Armes oder der Hüfte
+Technikschulung können Übungen durch Führen des Armes oder der Hüfte
 unterstützt werden.
 
 Für langfristig erfolgreiche Kommunikation ist es wichtig, ein
@@ -51,7 +51,7 @@ Trainer einen ganzheitlichen Blick auf seine Spieler entwickelt also
 nicht nur über Badminton mit ihnen kommuniziert sonder sich auch über
 andere Lebensbereiche mit ihnen auseinandersetzt. Online-Kommunikation
 über soziale Netzwerke bietet die Möglichkeit mit Trainingsgruppen in
-Kontakt zu treten und ermöglicht insbsondere mit jüngeren Spielern
+Kontakt zu treten und ermöglicht insbesondere mit jüngeren Spielern
 eine neue Form von Einzelgesprächen sowohl auf inhaltlicher als auch
 auf persönlicher Ebene.
 
@@ -87,13 +87,13 @@ niemand im Rücken des Trainers sein.
 
 ### Mannschaftsführung und Führungsstil
 
-Alle Spielerinnen sollten einbezogen werden und das Gefühl haben,
-wichtig zu sein. Der Teamgeist und zwischenmenschliche Beziehungen
-können durch gemeinsame Aktivitäten (Schleifchenturnier, zusammen
-essen) oder kleine Spiele (siehe unten) gestärkt werden. Gleiche
-Kleidung (Trikot) fördert das Zusammengehörigkeitsgefühl. Regeln und
-Rituale, Spaß, Kommunikation in der Mannschaft und Vertrauen stärken
-das Mannschaftsgefüge. Eine Mannschaft sollte nach Möglichkeit homogen
+Alle Spieler sollten einbezogen werden und das Gefühl haben, wichtig
+zu sein. Der Teamgeist und zwischenmenschliche Beziehungen können
+durch gemeinsame Aktivitäten (Schleifchenturnier, zusammen essen) oder
+kleine Spiele (siehe unten) gestärkt werden. Gleiche Kleidung (Trikot)
+fördert das Zusammengehörigkeitsgefühl. Regeln und Rituale, Spaß,
+Kommunikation in der Mannschaft und Vertrauen stärken das
+Mannschaftsgefüge. Eine Mannschaft sollte nach Möglichkeit homogen
 zusammengesetzt sein und ein gemeinsames Ziel verfolgen. Nähe und
 Distanz des Trainers spielen eine wichtige Rolle und sollten bewusst
 gestaltet werden.
@@ -108,8 +108,8 @@ authentisch sein.
 
 Motivierend wirken ein klares Ziel, Lob (wichtiger als Kritik), gutes
 Training, bei dem klar ist, warum bestimmte Übungen gemacht werden,
-ein Atmosphäre in der Spieler Fehler machen dürfen und das Aufzeigen
-und Dokumentieren von Fortschritten.
+eine Atmosphäre, in der Spieler Fehler machen dürfen, und das
+Aufzeigen und Dokumentieren von Fortschritten.
 
 In einer Situation, in der ein Spieler gepusht werden muss, kann der
 Trainer seine Botschaft durch laute, entschlossene Sprache,
@@ -160,9 +160,9 @@ Punktgewinn, was durch Erhöhung von Druck und Tempo durch platzierte,
 kontrollierte Schläge und Finten erreicht werden kann.
 
 Im Angriff stehen die Spieler hintereinander. Der Vorderfeldspieler
-hat die Aufgabe den Ball wenn möglich "zu töten", Abwehschläge
-abzufangen, durch Netzdrops die Gegner unter Druck zu setzen. Er hat
-wenig Zeit und sollte seinen Schläger vor dem Körper auf
+hat die Aufgabe den Ball wenn möglich "zu töten", Abwehrschläge
+abzufangen und durch Netzdrops die Gegner unter Druck zu setzen. Er
+hat wenig Zeit und sollte seinen Schläger vor dem Körper auf
 Netzkantenhöhe halten. Durch sein Stellungsspiel lenkt er das Spiel:
 beim Tunnelangriff steht der Vorderfeldspieler vor dem
 Hinterfeldspieler, beim breiten Angriff seitlich deutlich versetzt und
@@ -170,66 +170,66 @@ gibt damit an, wohin der Hinterfeldspieler schmettert. Der
 Hinterfeldspieler hat mehr Zeit, spielt in der Regel Smash, braucht
 dazu Kraft und setzt wenn möglich Sprünge ein, um den Schlagwinkel zu
 verbessern. Er sollte variable Schläge verwenden um zum Beispiel durch
-einstreuen von Drops die Gegner aus dem Rhythmus zu bringen.
+Einstreuen von Drops die Gegner aus dem Rhythmus zu bringen.
 
 Die folgenden Faustregeln zum Stellungsspiel gelten für das Doppel.
 
- #. Die Verteidiger rücken immer __auf die Ballseite__. Cross-Bälle
+  #. Die Verteidiger rücken immer __auf die Ballseite__. Cross-Bälle
 haben einen deutlich längeren Weg, daher bleibt zur Abwehr mehr Zeit.
 
- #. Spielt mein Partner einen __Smash__, dann rücke ich als
+  #. Spielt mein Partner einen __Smash__, dann rücke ich als
 Vorderfeldspieler vom Netz weg hinter die T-Linie.
 
- #. Spielt mein Partner einen __Drop__, dann rücke ich als
+  #. Spielt mein Partner einen __Drop__, dann rücke ich als
 Vorderfeldspieler deutlich vor die T-Linie.
 
- #. Der _Vorderfeldspieler__ lenkt das Spiel. Er entscheidet, welche
+  #. Der __Vorderfeldspieler__ lenkt das Spiel. Er entscheidet, welche
 Angriffstellung gespielt wird (Tunnel oder breit).
 
- #. Beim breiten Angriff sollte der Ball des Hinterfeldspielers in die
+  #. Beim breiten Angriff sollte der Ball des Hinterfeldspielers in die
 Mitte oder __Cross__ fliegen.
 
- #. Ein Doppel lässt sich hauptsächlich nur im __Angriff__ gewinnen.
+  #. Ein Doppel lässt sich hauptsächlich nur im __Angriff__ gewinnen.
 
- #. Angriffe werden zu 80% __in die Mitte__ gespielt, um den
+  #. Angriffe werden zu 80% __in die Mitte__ gespielt, um den
 Vorderfeldspieler besser ins Spiel zu bringen und um für Uneinigkeit
 beim Gegner zu sorgen.
 
- #. __Gerade__ Schläge sind meist effektiver als Cross-Schläge.
+  #. __Gerade__ Schläge sind meist effektiver als Cross-Schläge.
 
- #. Hohe Bälle werden von den Verteidigern __an die Seiten__ gespielt
+  #. Hohe Bälle werden von den Verteidigern __an die Seiten__ gespielt
 um den Gegner im Hinterfeld zu bewegen und einen möglichen Smash
 einfacher abdecken zu können. Spiele niemals zweimal an den gleichen
 Ort.
 
- #. Wird mein Vorderfeldspieler gefährlich außen angespielt, rücke ich
+  #. Wird mein Vorderfeldspieler gefährlich außen angespielt, rücke ich
 __auf   der Mittellinie vor__, um notfalls einen Cross-Ball am Netz
 erreichen zu können.
 
- #. Wer aus der Abwehr eine gute kurze Blockabwehr spielt, __rückt
+  #. Wer aus der Abwehr eine gute kurze Blockabwehr spielt, __rückt
 auf der ballorientierten Seite vor, um in die Angriffsstellung zu
 wechseln__.
 
- #. Beim gegnerischen Clear und Smash in die Mitte sollte derjenige
+  #. Beim gegnerischen Clear und Smash in die Mitte sollte derjenige
 Spieler annehmen, der diagonal zum Ball steht.
 
-In der Abwehr steht der Spieler auf der Ballseite entwas weiter hinten
+In der Abwehr steht der Spieler auf der Ballseite etwas weiter hinten
 und der andere weiter vorne in Richtung Ball gedreht.
 
 Um das Stellungsspiel im Doppel zu trainieren, können nacheinandner
 die folgenden Spielformen gespielt werden.
 
- #. Verbales Doppel: Stellungsspiel ohne Ball, Spieler benennen Art
+  #. Verbales Doppel: Stellungsspiel ohne Ball, Spieler benennen Art
 und Richtung ihrer Schläge
 
- #. Non-verbales Doppel: wie oben ohne Ball, aber nur Schlagbewegung
+  #. Non-verbales Doppel: wie oben ohne Ball, aber nur Schlagbewegung
 statt Schlag zu nennen
 
- #. Spiel mit flachen Bällen im Mittelfeld (Übergang)
+  #. Spiel mit flachen Bällen im Mittelfeld (Übergang)
 
- #. Angriff gegen Abwehr ohne Wechsel
+  #. Angriff gegen Abwehr ohne Wechsel
 
- #. Angriff und Abwehr in vorgegebenem Wechsel
+  #. Angriff und Abwehr in vorgegebenem Wechsel
 
 
 ## Aufschlag und Aufschlag-Annahme im Doppel
@@ -238,12 +238,12 @@ Im Doppel werden etwa 70% der Punkte in den ersten drei Schlägen eines
 Ballwechsels entschieden. Dem Aufschlag und der Annahme kommen also
 besondere Bedeutung zu.
 
-Der Aufschlag wir in der Regel kurz mit der Rückhand ausgeführt, da
+Der Aufschlag wird in der Regel kurz mit der Rückhand ausgeführt, da
 der Gegner wegen des kürzeren Aufschlagfeldes nicht so gut
 zurückgedrängt werden kann. Er kann gelegentlich auch als Swip am
 Gegner vorbei oder über ihn hinweg gespielt werden. In der
 Nullstellung stehen die Füße in Schrittstellung schulterbreit etwa
-eine Schrittstelle hintereinander. In der Regel steht der Fuß der
+eine Schrittweite hintereinander. In der Regel steht der Fuß der
 Schlaghand vorne, wodurch dem Ball schneller ans Netz gefogt werden
 kann. Auch eine parallele Fußstellung ist jedoch möglich. Vor der
 Ausholbewegung (Phase 1) zeigt der Schläger schräg nach unten. Der
@@ -264,32 +264,32 @@ auch die Länge varriiert werden, indem an die vordere Aufschlaglinie,
 etwas weiter nach hinten (und dadurch etwas schneller) oder an die
 hintere Aufschlaglinie (als Swip) gespielt wird.
 
-Um die Platzierung zu üben, können die folgenden Übungen ausgeführt
-werden.
+Um die Platzierung zu trainieren, können die folgenden Übungen
+ausgeführt werden.
 
- #. Gezielte Aufschläge in die verschiedenen Bereiche
+  #. Gezielte Aufschläge in die verschiedenen Bereiche
 
- #. Auf einem Fuß aufschlagen
+  #. Auf einem Fuß aufschlagen
 
- #. Aufschlag mit verbundenen Augen und Trainer-Feedback
+  #. Aufschlag mit verbundenen Augen und Trainer-Feedback
 
- #. Aufschlag auf Ziel am Netz oder an der Wand
+  #. Aufschlag auf Ziel am Netz oder an der Wand
 
- #. Aufschlag von Kasten in Reifen im Zielbereich
+  #. Aufschlag von Kasten in Reifen im Zielbereich
 
 
 Bei der Aufschlag-Annahme steht ein Rechtshänder mit dem linken Fuß
 vorne an der vorderen Aufschlaglinie oder etwas dahinter. Das Gewicht
 lastet eher auf dem vorderen Fuß, um schnell nach vorne zu kommen. Der
-stand sollte locker sein, um einer möglichst schnelle Reaktion nach
-dem Aufschlag zu ermöglichen. Nach dem Aufschlag drückt sich der
-Spieler mit dem hinteren Fuß ab und mach einen Schritt in Richtung
-Ball. Steht der Spieler weit vorner kann er einen Schritt mit dem
-vorderen Fuß machen, steht er weiter hinten nimmt er den hinteren Fuß,
-was etwas länger dauert aber notig ist, um den Ball nicht zu weit
-unten anzunehmen. Beim Schlag wird der Schläger auf direktem Weg zum
-Ball geführt und nach dem Schlag in Netzhöhe gehalten um für den
-nächsten Schlag bereit zu sein.
+Stand sollte locker sein, um eine möglichst schnelle Reaktion nach dem
+Aufschlag zu ermöglichen. Nach dem Aufschlag drückt sich der Spieler
+mit dem hinteren Fuß ab und macht einen Schritt in Richtung Ball.
+Steht der Spieler weiter vorne kann er einen Schritt mit dem vorderen
+Fuß machen, steht er weiter hinten nimmt er den hinteren Fuß, was
+etwas länger dauert aber notig ist, um den Ball nicht zu weit unten
+anzunehmen. Beim Schlag wird der Schläger auf direktem Weg zum Ball
+geführt und nach dem Schlag in Netzhöhe gehalten um für den nächsten
+Schlag bereit zu sein.
 
 Zur Positionierung des Returns gibt es verschiedene Möglichkeiten.
 Wenn möglich, sollte der Ball scharf am aufschlagenden Spieler vorbei
@@ -344,8 +344,8 @@ der Schlag nach oben ausgeführt.
 Als Variante des Doppels können sich die Partner an einem Seil
 festhalten (Loslassen = Fehler). Ein Laken über dem Netz nimmt die
 Sicht und erhöht so den Zeitdruck. Weitere Varianten sind das Spiel
-mit einem Schläger, der nach jedem Schlag hin und hergereicht wird und
-das Spiel mit einem Aufschlag von hinten wie beim Tennis bzw.
+mit einem Schläger, der nach jedem Schlag hin und hergereicht wird,
+und das Spiel mit einem Aufschlag von hinten wie beim Tennis bzw.
 Volleyball.
 
 
@@ -355,29 +355,29 @@ Je nach Spielsituation kann der Smash als Flektions-Smash, Stick-Smash
 oder Rotations-Smash ausgeführt werden.
 
 Der Flektions-Smash wird unter Zeitdruck aus dem Mittelfeld gespielt.
-Wird ein Ball seitlich ins Mittelfeld gespielt bleibt möglicherweise
-nicht genug Zeit, um hinter den Ball zu laufen. Um einen möglichst
-frühen Treffpunkt zu erzielen, wird stattdessen ein seitlicher Sprung
+Wird ein Ball seitlich ins Mittelfeld gespielt, bleibt oft nicht genug
+Zeit, um hinter den Ball zu laufen. Um einen möglichst frühen
+Treffpunkt zu erzielen, wird stattdessen ein seitlicher Sprung
 ausgeführt. Statt einer Körperdrehung (für die keine Zeit bleibt) wird
 im Sprung aus dem Hohlkreuz der Oberkörper während des Schlages nach
 vorne geklappt und der linke Arm zum Körper geführt. Dieser Schlag
 kann nacheinandner mit folgenden Übungen trainiert werden.
 
- #. auf einem Kasten knieend (ohne Beinarbeit)
- #. aus dem Stand ohne Sprung
- #. mit Sprung aus dem Stand
- #. mit seitlichem Sprung
+  #. auf einem Kasten knieend (ohne Beinarbeit)
+  #. aus dem Stand ohne Sprung
+  #. mit Sprung aus dem Stand
+  #. mit seitlichem Sprung
 
 Der Stick-Smash wird aus der Rücklage gespielt, wenn man mit einem
 Swip(-Aufschlag) überspielt wurde. Dabei bleibt für Unterstützung
-durch den Köprper keine Zeit, so dass der Schlag allein durch eine
+durch den Körper keine Zeit, so dass der Schlag allein durch eine
 Rotationsbewegung des Unterarms ausgeführt wird.
 
 Im Hinterfeld bleibt oft genügend Zeit, sich richtig zum Ball zu
 stellen. Hier wird der Smash (als sogenannter Rotations-Smash) als
 Koordination von Einzelimpulsen ausgeführt. Zunächst wird durch eine
 explosive Hüftdrehung Spannung aufgebaut, dann der Ellenbogen nach
-vorner/oben gebracht und der Unterarb nach außen rotiert. Beim Schlag
+vorne/oben gebracht und der Unterarm nach außen rotiert. Beim Schlag
 rotiert der Unterarm nach innen und der linke Arm wird an den Körper
 geführt. In der Ausschwingbewegung wird die Rotation bis zum Ende
 fortgeführt und der Schläger schnellt anschließend in eine aufrechte
