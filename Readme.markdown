@@ -62,9 +62,9 @@ erreichen, arbeite ich gerne ein.
 
 [24. und 25. Mai 2014](2014.05.24-25.markdown) (Thomas Hustert)
   * Coaching (Kommunikation, Mannschaftsführung und Führungsstil)
-  * Doppel Taktik
+  * Doppel-Taktik
   * Aufschlag und Aufschlag-Annahme im Doppel
-  * Yongbo Drop
+  * Yongbo-Drop
   * Abwehr im Doppel
   * Smash
 
