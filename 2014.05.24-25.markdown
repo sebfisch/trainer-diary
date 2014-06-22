@@ -146,7 +146,11 @@ Luftballons runterfallen
 
   * Augen verbinden und gemeinsam ein Ziel finden
 
+Weitere Informationen finden sich in den [Unterlagen zum Thema
+Coaching] von [Thomas Hustert].
 
+[Unterlagen zum Thema Coaching]: ThomasHustert/Coaching.pdf
+[Thomas Hustert]: http://christianhustert.de/thomashustert/downloads/
 
 ## Doppel-Taktik
 
