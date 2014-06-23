@@ -101,6 +101,7 @@ Vertiefende Inhalte finden sich in den [Unterlagen zur Trainingslehre]
 von [Thomas Hustert].
 
 [Unterlagen zur Trainingslehre]: ThomasHustert/Trainingslehre.pdf?raw=true
+[Thomas Hustert]: http://christianhustert.de/thomashustert/downloads/
 
 
 ## Beweglichkeitstraining
@@ -128,7 +129,6 @@ sich in den [Unterlagen zum Beweglichkeitstraining] sowie im
 [Sommertrainingsplan] von [Thomas Hustert].
 
 [Unterlagen zum Beweglichkeitstraining]: ThomasHustert/Beweglichkeit.pdf?raw=true
-
 [Sommertrainingsplan]: ThomasHustert/Sommertraining.pdf?raw=true
 
 
