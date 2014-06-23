@@ -68,6 +68,13 @@ erreichen, arbeite ich gerne ein.
   * Abwehr im Doppel
   * Smash
 
+[21. und 22. Juni 2014](2014.06.21-22.markdown) (Thomas Hustert)
+  * Trainingslehre
+  * Beweglichkeitstraining
+  * Schnelligkeitstraining
+  * Krafttraining
+  * Ausdauertraining
+
 © Sebastian Fischer, 2014
 
 [![(Veröffentlicht unter der Lizenz: CC-BY-NC-SA 4.0)](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
