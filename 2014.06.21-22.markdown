@@ -168,26 +168,25 @@ Unterschiede der körperlichen Vorraussetzungen ergeben sich durch
 unterschiedliche Verteilung der Muskelfasertypen. Für das
 Badmintonspiel vorteilhafte Fast-Twitch (FT) Fasern liefern eine hohe
 Kraft in kurzer Zeit und ermüden schnell. Slow-Twitch (ST) Fasern
-liefern weniger Kraft bei längerer Ausdauer.
-
-Weitere Einflussgrößen sind Flexibilität (Muskel-Sehnen-Elastizität),
-Muskeltemperatur, Alter, selektive Aufmerksamkeit, Situations- und
-Handlungs-Antizipation, Erregungs- und Hemmungswechsel im zentralen
-Nervensystem, technische Fähigkeiten (keine "Luxusbewegungen") sowie
-Wille und Motivation.
+liefern weniger Kraft bei längerer Ausdauer und sind im Badminton
+weniger wichtig. Weitere Einflussgrößen sind Flexibilität (Muskel-
+Sehnen-Elastizität), Muskeltemperatur, Alter, selektive
+Aufmerksamkeit, Situations- und Handlungs-Antizipation, Erregungs- und
+Hemmungswechsel im zentralen Nervensystem, technische Fähigkeiten
+(keine "Luxusbewegungen") sowie Wille und Motivation.
 
 Beim Schnelligkeitstraining sollte Qualität vor Quantität stehen,
 Übungen sollten anforderungsspezifisch ausgewählt und ganzjährig
 durchgeführt werden. Die sensitive Phase, in der sich die
 Schnelligkeit durch Training besonders gut verbessern lässt, liegt im
 U11 und U13 Bereich. Die Belastungs-Intensität sollte hoch sein, die
-Dauer niedrig (etwa 6 Sekunden) und die Dichte gering sein (lange
-Pausen). In einer Trainingseinheit sollte nur eine begrenzte Anzahl an
+Dauer niedrig (etwa 6 Sekunden) und die Dichte gering (lange Pausen).
+In einer Trainingseinheit sollte nur eine begrenzte Anzahl an
 Schnelligkeitsübungen ausgeführt werden.
 
 Literaturempfehlung: Heinz Kelzenberg, [Badminton Basics]
 
-[Badminto Basics]: http://www.tvr-badminton.de/aktuelles/sonstiges/news/show/News/neuerscheinung-badminton-basics-von-heinz-kelzenberg.html
+[Badminton Basics]: http://www.tvr-badminton.de/aktuelles/sonstiges/news/show/News/neuerscheinung-badminton-basics-von-heinz-kelzenberg.html
 
 Vertiefende Inforomationen und Vorschläge für Übungsformen finden sich
 in den [Unterlagen zum Schnelligkeitstraining] von [Thomas Hustert].
@@ -218,7 +217,7 @@ __Kraftausdauer__-Training zeichnet sich durch eine hohe
 Belastungsdauer bei geringer Intensität und hoher Dichte aus (20 bis
 80 Wiederholungen bei langsamer Ausführung und kurzen Pausen bis zu
 einer Minute). Beim __Muskelaufbau__-Training werden die Dauer und
-dichte herabgesetzt und die Intensität erhöht (etwa 10 Wiederholungen
+Dichte herabgesetzt und die Intensität erhöht (etwa 10 Wiederholungen
 bei mittel schneller Ausführung und 2 Minuten Pause). Beim
 __Schnellkraft__-training wird die Intensität weiter erhöht, Dauer und
 Dichte verringert (etwa 5-8 Wiederholungen bei schneller Ausführung
@@ -230,7 +229,7 @@ Wiederholungen gerade so zu bewältigen ist.
 
 Im Jahreszyklus sollte zuerst Kraftausdauer trainiert werden, dann
 Muskelaufbau (Hypertrophie) und dann Schnellkraft. Am Anfang sollte
-immer der Aufbau von Rumpfkraft mitdem eigenen Körpergewicht stehen.
+immer der Aufbau von Rumpfkraft mit dem eigenen Körpergewicht stehen.
 
 Variationen im Krafttraining ergeben sich durch __Teilwiederholungen__
 eines Bewegungsablaufs oder die __Kontrastmethode__, bei der der selbe
@@ -253,7 +252,7 @@ im [Sommertrainingsplan] von [Thomas Hustert].
 
 Grundsätzlich wird die __Grundlagenausdauer__ von der __allgemeinen__
 und __lokalen__ Ausdauer unterschieden, wobei lokale Ausdauer die
-ausdauer spezifischer Muskelgruppen (z.B. Beine) beschreibt. Die
+Ausdauer spezifischer Muskelgruppen (z.B. Beine) beschreibt. Die
 Energiegewinnung kann dabei __aerob__ (unter Verwendung von
 Sauerstoff) und __anaerob__ (sauerstoffarm) erfolgen.
 
@@ -264,7 +263,7 @@ sollte in Ruhe bei 60 bis 80 Schlägen, bei Belastung bei 175 bis 190
 Schlägen und nach dem Aufwärmen etwa bei 130 Schlägen pro Minute
 liegen.
 
-Die Atmung beim ausdauertraining sollte durch die Nase erfolgen, damit
+Die Atmung beim Ausdauertraining sollte durch die Nase erfolgen, damit
 die Luft gefiltert und erwärmt wird, was Entzündungen der Atemwege
 vorbeugt.
 
@@ -275,9 +274,9 @@ Energiebereitstellung hauptsächlich durch den Zerfall von
 Adenosintriphosphat (ATP). Kreatinphosphat wird hauptsächlich bei
 Belastungen bis zu 20 Sekunden verwendet. Bei Belastungen zwischen 20
 und 60 Sekunden gewinnt die anaerobe Energiebereitstellung durch
-Glykogen-Zerfall die Oberhand, be ider Laktat (Milchsäure) gebildet
+Glykogen-Zerfall die Oberhand, bei der Laktat (Milchsäure) gebildet
 wird. Bei längeren Belastungen erfolgt die Energiegewinnung
-hauptßachlich aerob durch Verbrennung von Kohlehydraten und Fetten.
+hauptsächlich aerob durch Verbrennung von Kohlehydraten und Fetten.
 
 Im Badminton spielt wegen durchschnittlicher und maximaler
 Ballwechsellängen von 6 bzw um die 30 Sekunden die anaerobe
@@ -299,6 +298,11 @@ Ein möglicher Test der Ausdauer ist der __Court Distance Run__, bei
 dem Kinder 4 Minuten und Erwachsene 8 Minuten lang möglichst viele
 Runden um ein Badmintonfeld laufen.
 
+Vertiefende Informationen und Vorschläge für Übungen finden sich in
+den [Unterlagen zum Ausdauertraining] und im [Sommertrainingsplan] von
+[Thomas Hustert].
+
+[Unterlagen zum Ausdauertraining]: ThomasHustert/Ausdauer.pdf?raw=true
 
 
 © Sebastian Fischer, 2014
