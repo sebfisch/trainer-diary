@@ -157,7 +157,7 @@ beschreibt, wie schnell zyklische Bewegungen hintereinander ausgeführt
 werden. Übungen sollten Anforderungen dieser drei Schnelligkeitsformen
 kombinieren, wobei auch auf __Auswahlreaktion__, also die möglichst
 schnelle Auswahl zwischen verschiedenen Bewegungen, wert gelegt werden
-kann.
+sollte.
 
 Die Schnelligkeit wird durch Geschlecht, Talent und körperliche
 Vorraussetzungen beeinflusst. Ab der Pubertät haben Jungen durch
