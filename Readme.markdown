@@ -75,6 +75,13 @@ erreichen, arbeite ich gerne ein.
   * Krafttraining
   * Ausdauertraining
 
+[5. Juli 2014](2014.07.05.markdown) (Patrick Meier)
+  * Aufschlag und Aufschlag-Annahme im Doppel
+  * Angriff im Doppel (Formationen, Netzspiel, Racket-Speed)
+  * Lesen und Lösen
+  * Spiel: Vier gewinnt
+  * Verein, Verband und Ehrenamt
+
 © Sebastian Fischer, 2014
 
 [![(Veröffentlicht unter der Lizenz: CC-BY-NC-SA 4.0)](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)
