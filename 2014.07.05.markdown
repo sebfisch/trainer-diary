@@ -108,60 +108,60 @@ annimmt.
 Die folgenden Übungen sind geeignet, das Angriffsspiel im Doppel zu
 trainieren.
 
- #. Zwei Spieler wehren immer in die hintere linke Ecke des
+ 1. Zwei Spieler wehren immer in die hintere linke Ecke des
 	Angriffsspielers ab, der versucht, Angriffsschläge in den
 	Kompetenzbereich zu spielen.
 
- #. Spiel mit Punkten, zwei Spieler auf ganzem Feld gegen einen
+ 2. Spiel mit Punkten, zwei Spieler auf ganzem Feld gegen einen
  	Spieler im Hinterfeld.
 
- #. Zwei gegen zwei, Tunnelangriff gegen Abwehr, Vorderfeldspieler
+ 3. Zwei gegen zwei, Tunnelangriff gegen Abwehr, Vorderfeldspieler
  	fängt Longline-Konter ab.
 
 Die folgenden Übungsformen erlauben durch die Verwendung mehrerer
 Bälle (Ballmaschine) ein präzises Training des Angriffsspiels.
 
- #. Im Tunnelangriff, hoher Ball auf Angreifer, schneller neuer Ball
+ 1. Im Tunnelangriff, hoher Ball auf Angreifer, schneller neuer Ball
  	als Abwehrschlag longline (vom Vorderfeldspieler zu nehmen) oder
  	scharf cross (vom Hinterfeldspieler zu nehmen).
 
- #. Variante: hin und wieder zweiten hohen Ball zuspielen
+ 2. Variante: hin und wieder zweiten hohen Ball zuspielen
 
- #. Das selbe mit versetztem Angriff, wobei der Vorderfeldspieler nun
+ 3. Das selbe mit versetztem Angriff, wobei der Vorderfeldspieler nun
  	die Cross-Abwehr deckt und der Hinterfeldspieler longline.
 
- #. Versetzter Angriff, Abwehrschlag (immernoch mit neuem Ball) als
+ 4. Versetzter Angriff, Abwehrschlag (immernoch mit neuem Ball) als
 	Cross-Swip, den weiter der Vorderfeldspieler nehmen muss.
 
- #. Vorderfeldspieler entscheidet, welche Formation gespielt wird,
+ 5. Vorderfeldspieler entscheidet, welche Formation gespielt wird,
  	also auch, wer welchen zweiten Schlag nehmen muss.
 
 Die folgenden Übungen trainieren das Netzspiel des Vorderfeldspielers.
 
- #. Zuspiel über das Netz schieben, neuer Ball scharf longline muss
+ 1. Zuspiel über das Netz schieben, neuer Ball scharf longline muss
  	abgefangen werden. Auf beiden Seiten trainieren. Wichtig: 
  	Fußwechsel aus Ausfallschritt nach geschobenem Ball in 
  	Parallelstellung zum Abfangen.
 
- #. Variables, schnellstmögliches Zuspiel kurz, Swip, Drive, 2/3 cross
+ 2. Variables, schnellstmögliches Zuspiel kurz, Swip, Drive, 2/3 cross
  	muss beantwortet werden.
 
- #. Zuspiel im Wechsel, scharf longline ins Halbfeld (abfangen) und
+ 3. Zuspiel im Wechsel, scharf longline ins Halbfeld (abfangen) und
  	mittig ans Netz (töten).
 
- #. Schnellstmöglicher Zuwurf vieler Bälle ans Netz, die kurz abgelegt
+ 4. Schnellstmöglicher Zuwurf vieler Bälle ans Netz, die kurz abgelegt
     werden müssen.
 
-Racket Speed mit Doppelbezug kann durch die folgenden Übungen
+Racket-Speed mit Doppelbezug kann durch die folgenden Übungen
 trainiert werden.
 
- #. Vor der Wand stehend, im Dreier-Rhytmus, unten links (auf Rückhand),
+ 1. Vor der Wand stehend, im Dreier-Rhytmus, unten links (auf Rückhand),
     unten rechts (auf Rückhand) und oben rechts (auf Vorhand) anwerfen, 
     gegen die Wand "schießen".
 
- #. Ganze Rolle schnellstmöglich tief anwerfen, gegen Wand schießen.
+ 2. Ganze Rolle schnellstmöglich tief anwerfen, gegen Wand schießen.
 
- #. Von hinten über die Schulter des Schlagarms zuwerfen, gegen Wand
+ 3. Von hinten über die Schulter des Schlagarms zuwerfen, gegen Wand
     schießen.
 
 Randbemerkung zur Abwehr: Zur Auswahl von Abwehrschlägen können die
@@ -181,24 +181,24 @@ hinweg durch Erkennen von Automatismen im Spiel des Gegners.
 Bei den folgenden Übungen hat der übende Spieler jeweils zwei
 Alternativen, von denen er situationsgerecht eine auswählen muss.
 
- #. Hoher Aufschlag, danach ein Schritt vor oder zurück. Return
+ 1. Hoher Aufschlag, danach ein Schritt vor oder zurück. Return
  	entsprechend entgegengesetzt als Drop oder Clear.
 
- #. Das selbe mit hohen und kurzen Aufschlägen im Wechsel.
+ 2. Das selbe mit hohen und kurzen Aufschlägen im Wechsel.
 
- #. Hoher Aufschlag, danach Schläger nach rechts oder links führen.
+ 3. Hoher Aufschlag, danach Schläger nach rechts oder links führen.
     Return als Smash auf die entgegengesetzte Seite.
 
- #. Lob gegen Drop. Irgendwann Gegendrop und Schritt vor oder zurück.
+ 4. Lob gegen Drop. Irgendwann Gegendrop und Schritt vor oder zurück.
   	Entgegengesetzt, überspielen oder kurz ablegen.
 
- #. Im Halbfeld schieben, irgendwann Swip. Je nach eigener Lage Smash
+ 5. Im Halbfeld schieben, irgendwann Swip. Je nach eigener Lage Smash
  	oder Clear.
 
- #. In der Mitte schieben, Swip nach außen. Je nach eigener Lage Smash
+ 6. In der Mitte schieben, Swip nach außen. Je nach eigener Lage Smash
  	oder Drop.
 
- #. Halbfeldeinzel ohne Smash. Ein Spieler darf (heimlich) nach Drop
+ 7. Halbfeldeinzel ohne Smash. Ein Spieler darf (heimlich) nach Drop
   	nicht kurz ablegen. Der andere soll das erkennen und entsprechend
   	reagieren.
 
@@ -207,19 +207,19 @@ und Lösen zusammengestellt.
 
 Cross oder Longline Drive im Doppel:
 
- #. Kurzer Aufschlag, Longline Return in Mixedbereich. Weiterer
+ 1. Kurzer Aufschlag, Longline Return in Mixedbereich. Weiterer
  	Spieler steht dort, guckt, ob Rückschlagspieler longline deckt 
  	oder nicht und spielt entsprechend cross oder longline.
 
- #. Kurzer aufschlag und Return, dann lang raus. Tunnelangriff oder
+ 2. Kurzer aufschlag und Return, dann lang raus. Tunnelangriff oder
  	versetzt, Abwehr entsprechend cross oder longline Drive.
 
 Drop oder Clear aus Hinterfeld:
 
- #. Clearduell mit Nachbereitung. Sobald Nachbereitung entfällt, Drop
+ 1. Clearduell mit Nachbereitung. Sobald Nachbereitung entfällt, Drop
  	als Antwort.
 
- #. Clearduell, irgendwann spielt jemand Drop. Direkter
+ 2. Clearduell, irgendwann spielt jemand Drop. Direkter
   	Ballwechselgewinn damit gibt 5 Punkte, sonst ausspielen. 
   	Dropspieler bekommt einen Punkt der andere drei.
 
