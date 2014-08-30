@@ -1,0 +1,230 @@
+# 5. Juli 2014
+
+## Faustregeln im Doppel
+
+Die drei Spielphasen im Doppel (Angriff, Übergang und Abwehr) lassen sich grob
+anhand unterschiedlicher __Balltreffpunkte__ auseinanderhalten. Die angreifende
+Paarung hat hohe Balltreffpunkte, in der Übergangsphase haben beide Paarungen
+mittige Treffpunkte und die abwehrende Paarung hat niedrige Balltreffpunkte.
+
+Den __ersten drei Schlägen__ eines Ballwechsels kommt im Doppel besondere
+Bedeutung zu, da die Paarungen hier um hohe Treffpunkte kämpfen. Dazu sind
+unterschiedliche Schläge als Antwort auf den Return (der nach unten gespielt
+werden sollte) unterschiedlich gut geeignet. Ein Befreiungsschlag
+(Unterhandclear) ermöglicht den Gegnern einen hohen Treffpunkt. Bei
+Neutralisation durch Schiebespiel hat keine Paarung einen hohen Treffpunkt. Wenn
+möglich sollte der Return mit einem Konter (Drive, Smash oder Drop) beantwortet
+werden, da die Gegner dadurch in die Abwehr gezwungen werden.
+
+Die Regel *Vorhand vor Rückhand* in der Abwehr hat heutzutage keine Gültigkeit
+mehr. Der Longline-Spieler deckt Longline-Bälle und der Cross-Spieler deckt die
+Mitte und nimmt strittige Bälle eher, da er bessere Abwehrmöglichkeiten hat. Es
+ist ratsam, in einer Abwehrsituation nicht alle möglichen Schläge der Gegner
+gleich gut abzudecken, da dann kein Schlag gut gedeckt wird. Besser ist es,
+einen __Fokus__ zu setzen, um gute Treffpunkte zu erzielen und zum Beispiel
+einen Konter spielen zu können. Auch die Auswahl des bevorzugt abgedeckten
+Bereiches basiert auf Beobachtung der Spielweise der Gegner.
+
+In Angriff und Abwehr sollte man versuchen, den Ball so zu spielen, dass die
+Gegner ihn in den eigenen Fokusbereich (oder den des Partners!) zurückspielen.
+
+Beim Wechsel in die Angriffsstellung geht der Vorderfeldspieler __vor dem
+Schlag__ an seine Position. Bei einem Clear bleibt noch genug Zeit, in die
+Abwehrstellung zurück zu gehen.
+
+Besonders effektive Angriffsschläge sind solche in den sogenannten
+__Kompetenzbereich__, in dem die Gegner sich nicht sofort einig sind, wer den
+Ball zurückspielen soll. Die Laufwege einer Paarung sind oft fest eingefahren,
+und es gibt im Wesentlichen zwei Möglichkeiten, welche Seite der
+Vorderfeldspieler deckt. Durch Beobachtung sollte versucht werden, die Laufwege
+der Gegner zu erkennen und Bälle so zu spielen, dass Uneinigkeit zwischen ihnen
+erzeugt wird. Das Angriffsspiel sollte in der Regel über die eigene Mitte oder
+den Kompetenzbereich der Gegner __geduldig und variabel__ aufgebaut werden,
+indem Drop, Yongbo-Drop, geschnittener Drop, Halfsmash, 80% Smash, Full-Power
+Smash und selten auch Angriffsclear im Wechsel gespielt werden. 
+
+Ein Cross- Angriff sollte selten gewählt werden, wobei der Hinterfeldspieler
+bereit sein muss zu retten, falls der Vorderfeldspieler im versetzten Angriff
+überspielt wird.
+
+Bei mäßigen Treffpunkten sollte der Vorderfeldspieler ablegen, um das
+Fehlerrisiko zu begrenzen. Bei guten Treffpunkten sollte er versuchen zu
+punkten. Dazu ist ein __schneller Schläger__ wichtig.
+
+Gelegentlich ist es ratsam in der Angriffsstellung zu __rotieren__, wobei der
+Vorderfeldspieler nach hinten und der Hinterfeldspieler nach vorne geht. Dies
+passiert insbesondere 
+
+  * beim Nachgehen nach einem Smash, der durch die abwehrende Paarung mit einer
+	zu kurzen hohen Abwehr auf die Seite des Hinterfeldspielers beantwortet wird,
+
+  * bei einem breiten Cross-Angriff, der mit einer hohen Abwehr auf die Seite des
+    Vorderfeldspielers beantwortet wird und
+
+  * im versetzten Angriff bei einer zu kurzen Swip-Abwehr cross, die der
+    Vorderfeldspieler abfangen kann.
+
+
+## Mixed-Taktik
+
+Das Mixed folgt im Wesentlichen den selben taktischen Vorgaben wie das Doppel.
+Allerdings sind Damen in der Regel besonders aus dem Hinterfeld schwächer als
+Herren, so dass bei Mixed-Paarungen in der Angriffsstellung der Herr
+Hinterfeldspielerin und die Dame Vorderfeldspielerin sein sollte. Daraus ergeben
+sich Unterschiede zum Doppel vor allem am Anfang des Ballwechsels.
+
+Die folgenden Spielsitationen bei den ersten Schlägen eines Ballwechsels sind
+einem [Mixed-Video von Coach Lee] entnommen.
+
+[Mixed-Video von Coach Lee]: https://www.youtube.com/watch?v=jPkim32_I3c
+
+Kurzer Aufschlag auf die Dame, scharfer Return durch die Mitte auf den
+Hinterfeldspieler, der hoch zurück spielt, so dass die Dame am Netz mit einem
+Kill oder der Herr aus dem Hinterfeld mit einem Smash antworten kann.
+
+Kurzer Aufschlag auf die Dame, Return als Netzdrop, der nach oben beantwortet
+und dann von der Dame getötet oder vom Herrn mit einem Smash beantwortet wird.
+
+Kurzer Aufschlag auf die Dame, Return auf den Mixedpunkt, wird vom
+Hinterfeldspieler scharf erwiedert und von der Dame abgefangen.
+
+Kurzer Aufschlag auf die Dame, Return als Lob longline, Dame wechselt die Seite,
+um cross zu stehen, Smash longline. Bei cross Lob, bleibt die Dame auf ihrer
+Seite, da sie schon cross steht. Nach dem Smash der aufschlagenden Paarung kann
+ein Zusatzball gespielt werden, den die Dame abfängt.
+
+Nach einem kurzen Aufschlag auf den Herren können zwei Varianten geübt werden.
+
+  1. Ist der Aufschlag zu hoch, kann der Herr ihn angreifen und am Netz bleiben.
+     Da diese Variante im Mixed riskant ist, sollte der Herr sie nur wählen, wenn
+     er mit dem nächsten Schlag punkten kann.
+
+  2. Bei der sichereren Variante legt der Herr den Aufschlag kurz ab und
+     wechselt ins Hinterfeld, damit die Dame nach vorne kommen kann. Diese Variante
+     kann auch nach einem Return in den Mixedbereich gespielt werden.
+
+Kurzer Aufschlag auf den Herren, longline Lob, Abwehrstellung (Dame steht
+cross). Danach zwei Varianten:
+
+  1. Smash auf die Dame, die nach Drive-Abwehr nach vorne geht und neuen Ball
+     tötet.
+
+  2. Smash auf den Herren, der nach Drive-Abwehr nach hinten geht. Dame geht vor
+     und tötet neuen Ball.
+
+Kurzer Aufschlag auf den Herren, Return als cross Lob (sollte im Mixed vermieden
+werden). Dame wechselt auf die andere (cross) Seite, Herr wehrt longline Smash
+ab, Dame tötet neuen Ball.
+
+Nach einem langen Aufschlag auf die Dame, kann diese
+
+  1. einen Drop longline oder in die Mitte spielen und nachgehen (nicht cross,
+     da dort die gegnerische Dame steht)
+
+  2. schmettern, wenn sie nicht unter Druck steht und schnell nachgehen kann
+
+  3. cross Clear spielen
+
+  4. longline Clear spielen und auf die andere (cross) Seite wechseln
+     (vermeiden)
+
+Nach einem langen Aufschlag auf den Herren sollte dieser einen Smash spielen.
+Dieser sollte longline oder in die Mitte erfolgen. ein cross Smash sollte nur
+aus gutem Grund gespielt werden, da er das Spiel öffnet. Statt eines Smashs kann
+der Herr
+
+  1. longline Clear spielen und auf seiner Seite stehen bleiben
+
+  2. cross Clear spielen und Seiten wechseln (vermeiden)
+
+Einen cross Clear im Ballwechsel sollte der Herr annehmen und dazu mit der Dame
+die Seiten wechseln.
+
+Nach einem kurzen Aufschlag der Dame, sollte diese bereit sein abzufangen oder
+zu töten.
+
+Langer Aufschlag der Dame, Return als Smash auf Dame, Abwehr longline Drive.
+
+Beim Aufschlag des Herren steht die Dame auf dessen Rückhandseite.
+
+Kurzer Aufschlag des Herren, dieser geht nach hinten, Dame geht vor.
+
+Grundsätzlich (zum Beispiel auch nach einem langen Aufschlag des Herren von
+dessen Vorhandseite) sollte die Dame in Abwehrstellung immer auf die cross-Seite
+wechseln, sofern genug Zeit dazu bleibt. Bleibt diese Zeit nicht, sollte so eine
+Situation garnicht erst entstehen.
+
+## Ausarbeitung von Übungsreihen
+
+Bei der Ausarbeitung von Übungsreihen ist es wichtig, die benötigte Zeit
+realistisch einzuplanen. Spiele dauern gelegentlich länger als geplant. Bei
+Übungen mit Ballmaschine sollten die Anzahl der zu spielenden Bälle angesagt
+und, um Zeit zu sparen, Bälle erst nach zwei Durchgängen eingesammelt werden.
+
+Große methodische Sprünge zwischen aufeinander folgenden Übungen sind zu
+vermeiden. Ein guter Anschluss ist wichtig.
+
+Bei Übungen sollte darauf geachtet werden, dass die geübten Schläge taktisch
+sinnvoll sind (Spielnähe). Der fokus sollte auf einem Aspekt liegen und nicht
+auf mehreren. Variabilität mach Übungen interessanter (Beispiel: Drop oder Smash
+zur Auswahl).
+
+Trainer sollten während der Übung viel reingehen und verbessern bzw. Rückmeldung
+geben. Vorher sollten zwei bis drei wichtige Punkte genannt werden, mehr für
+gute Leute. Bei mehreren Trainern sollten alle in die Vorstellung der Übungen
+einbezogen werden.
+
+## Trainingsplanung
+
+Trainingsplanung umfasst das Bestimmen von Zielen, Inhalten, Strukturen und
+Methoden des Trainings.
+
+Als Rahmen zur Erstellung eines Trainingsplans kann der Rahmentrainingsplan des
+DBV dienen. Ein Trianingsplan kann für Inndividualtraining oder für Training in
+der Gruppe erstellt werden und sollte nach folgendem Kreislauf weiter entwickelt
+werden: Ist-Analyse, Zielformulierung, Entwurf eines Trainingsplans,
+Durchführung, Auswertung, Ist-Analyse, ...
+
+Die __Ist-Analyse__ beantwortet die Frage nach den Defiziten der Übenden,
+Vergleicht deren Leistungsstand mit dem anderer, stellt fest, wieviel Zeit und
+Geld zur Verfügung stehen, in welchem Zustand die Trainingsstätten sind und
+unersucht die Motivation und den Gesundheitszustand der Übenden.
+
+Die __Zielformulierung__ ist Orientierungsgrundlage während und nach der
+Durchführung eines Trainingsplans, dient der Leistungsmotivation, erlaubt es,
+die Effektivität eines Plans zu überprüfen und die Durchführung durch Maßnahmen
+zu steuern.
+
+Bei der __Durchführung__ sollte eine Trainingseinheit aus drei Teilen bestehen:
+dem Aufwärmen, dem (größten) Hauptteil und dem Cooldown. Eine erkennbare Planung
+erhöht die Motivation während einer Trainingseinheit.
+
+Das __Aufwärmen__ sollte pünklich beginnen. Die Ziele und Inhalte der Einheit
+sollten zur Vorbereitung auf den Hauptteil genannt werden. Allgemeine sollten
+vor speziellen Übungen trainiert werden. Das Aufwärmen unterstützt eine
+progressive Belastungszunahme und bereitet den Organismus auf die
+Trainingseinheit vor.
+
+Der __Hauptteil__ dient der Verbesserung des Leistungszustands und der Umsetzung
+der formulierten Ziele. Eine Auswahl an Übungen aus den im folgenden genannten
+Bereichen sollten möglichst in der vorgegebenen Reihenfolge trainiert werden:
+Koordination, Schnelligkeit, Technik, Kraft, Ausdauer, Beweglichkeit.
+
+Das __Cooldown__ dient der langsamen Belastungsreduzierung, soll Spaß machen und
+einen Ausblick auf die folgende Trainingseinheit bieten. Es kann dazu genutzt
+werden, Feedback einzuholen oder auch zum Aufräumen.
+
+Die Dauer einer Trainingseinheit richtet sich nach dem Alter der Übenden.
+Individualtraining oder Gruppentrainig für Kinder sollte mit Einheiten von einer
+Stunde erfolgen. Bei Jugendlichen und Erwachsenen ist eine normale
+Trainingseinheit etwa zwei Stunden lang, bei gutem Trainingszustand auch länger.
+
+Die __Auswertung__ eines Trainingsplans beantwortet die Frage, ob die
+formulierten Ziele erreicht wurden, ob Zielstellung und Übungen zur Gruppe
+passen, Umfang und Intensität angemessen sind, der geplante zeitliche Verlauf
+eingehalten wurde, das Verhältnis von Belastung und Erholung angemessen und die
+Methodenauswahl richtig war.
+
+© Sebastian Fischer, 2014
+
+[![(Veröffentlicht unter der Lizenz: CC-BY-NC-SA 4.0)](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)

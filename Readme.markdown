@@ -82,6 +82,14 @@ erreichen, arbeite ich gerne ein.
   * Spiel: Vier gewinnt
   * Verein, Verband und Ehrenamt
 
+[6. Juli 2014](2014.07.06.markdown) (Patrick Meier)
+  * Faustregeln im Doppel
+  * Mixed-Taktik
+  * Ausarbeitung von Übungsreihen
+  * Trainingsplanung
+
+
+
 © Sebastian Fischer, 2014
 
 [![(Veröffentlicht unter der Lizenz: CC-BY-NC-SA 4.0)](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)

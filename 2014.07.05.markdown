@@ -211,7 +211,7 @@ Cross oder Longline Drive im Doppel:
  	Spieler steht dort, guckt, ob Rückschlagspieler longline deckt 
  	oder nicht und spielt entsprechend cross oder longline.
 
- 2. Kurzer aufschlag und Return, dann lang raus. Tunnelangriff oder
+ 2. Kurzer Aufschlag und Return, dann lang raus. Tunnelangriff oder
  	versetzt, Abwehr entsprechend cross oder longline Drive.
 
 Drop oder Clear aus Hinterfeld:
