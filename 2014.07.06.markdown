@@ -22,8 +22,8 @@ Mitte und nimmt strittige Bälle eher, da er bessere Abwehrmöglichkeiten hat. E
 ist ratsam, in einer Abwehrsituation nicht alle möglichen Schläge der Gegner
 gleich gut abzudecken, da dann kein Schlag gut gedeckt wird. Besser ist es,
 einen __Fokus__ zu setzen, um gute Treffpunkte zu erzielen und zum Beispiel
-einen Konter spielen zu können. Auch die Auswahl des bevorzugt abgedeckten
-Bereiches basiert auf Beobachtung der Spielweise der Gegner.
+einen Konter spielen zu können. Die Auswahl des bevorzugt abgedeckten Bereiches
+basiert auf Beobachtung der Spielweise der Gegner.
 
 In Angriff und Abwehr sollte man versuchen, den Ball so zu spielen, dass die
 Gegner ihn in den eigenen Fokusbereich (oder den des Partners!) zurückspielen.
@@ -43,7 +43,7 @@ den Kompetenzbereich der Gegner __geduldig und variabel__ aufgebaut werden,
 indem Drop, Yongbo-Drop, geschnittener Drop, Halfsmash, 80% Smash, Full-Power
 Smash und selten auch Angriffsclear im Wechsel gespielt werden. 
 
-Ein Cross- Angriff sollte selten gewählt werden, wobei der Hinterfeldspieler
+Ein Cross-Angriff sollte selten gewählt werden, wobei der Hinterfeldspieler
 bereit sein muss zu retten, falls der Vorderfeldspieler im versetzten Angriff
 überspielt wird.
 
@@ -70,7 +70,7 @@ passiert insbesondere
 Das Mixed folgt im Wesentlichen den selben taktischen Vorgaben wie das Doppel.
 Allerdings sind Damen in der Regel besonders aus dem Hinterfeld schwächer als
 Herren, so dass bei Mixed-Paarungen in der Angriffsstellung der Herr
-Hinterfeldspielerin und die Dame Vorderfeldspielerin sein sollte. Daraus ergeben
+Hinterfeldspieler und die Dame Vorderfeldspielerin sein sollte. Daraus ergeben
 sich Unterschiede zum Doppel vor allem am Anfang des Ballwechsels.
 
 Die folgenden Spielsitationen bei den ersten Schlägen eines Ballwechsels sind
@@ -165,9 +165,9 @@ Große methodische Sprünge zwischen aufeinander folgenden Übungen sind zu
 vermeiden. Ein guter Anschluss ist wichtig.
 
 Bei Übungen sollte darauf geachtet werden, dass die geübten Schläge taktisch
-sinnvoll sind (Spielnähe). Der fokus sollte auf einem Aspekt liegen und nicht
-auf mehreren. Variabilität mach Übungen interessanter (Beispiel: Drop oder Smash
-zur Auswahl).
+sinnvoll sind (Spielnähe). Der Fokus sollte auf einem Aspekt liegen und nicht
+auf mehreren. Variabilität macht Übungen interessanter (Beispiel: Drop oder
+Smash zur Auswahl).
 
 Trainer sollten während der Übung viel reingehen und verbessern bzw. Rückmeldung
 geben. Vorher sollten zwei bis drei wichtige Punkte genannt werden, mehr für
@@ -180,7 +180,7 @@ Trainingsplanung umfasst das Bestimmen von Zielen, Inhalten, Strukturen und
 Methoden des Trainings.
 
 Als Rahmen zur Erstellung eines Trainingsplans kann der Rahmentrainingsplan des
-DBV dienen. Ein Trianingsplan kann für Inndividualtraining oder für Training in
+DBV dienen. Ein Trianingsplan kann für Individualtraining oder für Training in
 der Gruppe erstellt werden und sollte nach folgendem Kreislauf weiter entwickelt
 werden: Ist-Analyse, Zielformulierung, Entwurf eines Trainingsplans,
 Durchführung, Auswertung, Ist-Analyse, ...
@@ -188,7 +188,7 @@ Durchführung, Auswertung, Ist-Analyse, ...
 Die __Ist-Analyse__ beantwortet die Frage nach den Defiziten der Übenden,
 Vergleicht deren Leistungsstand mit dem anderer, stellt fest, wieviel Zeit und
 Geld zur Verfügung stehen, in welchem Zustand die Trainingsstätten sind und
-unersucht die Motivation und den Gesundheitszustand der Übenden.
+untersucht die Motivation und den Gesundheitszustand der Übenden.
 
 Die __Zielformulierung__ ist Orientierungsgrundlage während und nach der
 Durchführung eines Trainingsplans, dient der Leistungsmotivation, erlaubt es,
