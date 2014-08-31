@@ -15,7 +15,7 @@ Varianten des Badmintonspiels mit Sonderregeln auf dem halben oder ganzen Feld
 finden sich in einer umfangreichen [Sammlung], die Thomas Hustert
 zusammengestellt hat.
 
-[Sammlung]: ThomasHustert/Spielvarianten.pdf
+[Sammlung]: ThomasHustert/Spielvarianten.pdf?raw=true
 
 
 ## Verletzungen
@@ -50,7 +50,7 @@ gering zu halten.
 Tiefergehende Hinweise finden sich im [Skript zum Thema Sportverletzungen] von
 Thomas Hustert.
 
-[Skript zum Thema Sportverletzungen]: ThomasHustert/Sportverletzungen.pdf
+[Skript zum Thema Sportverletzungen]: ThomasHustert/Sportverletzungen.pdf?raw=true
 
 Zur Verletzungsvorbeugung sollte aufgewärmt und gegebenenfalls kurz gedehnt
 werden. Äußere Faktoren wie Bälle im Feld sollten weggeräumt werden und Schuhe
@@ -65,7 +65,7 @@ oder Hafer) möglich ist.
 
 Weitere Hinweise finden sich im [Skript zum Thema Ernährung] von Thomas Hustert.
 
-[Skript zum Thema Ernährung]: ThomasHustert/Ernährung.pdf
+[Skript zum Thema Ernährung]: ThomasHustert/Ernährung.pdf?raw=true
 
 
 ## Einzel-Taktik
@@ -217,7 +217,7 @@ Aufschlag einen Vorteil zu verschaffen. Neutralisationsschläge unter Druck
 Tiefergehende Hinweise finden sich im [Skript zum Thema Einzeltaktik] von Thomas
 Hustert.
 
-[Skript zum Thema Einzeltaktik]: ThomasHustert/Einzeltaktik.pdf
+[Skript zum Thema Einzeltaktik]: ThomasHustert/Einzeltaktik.pdf?raw=true
 
 
 ## Koordinative Anforderungen
@@ -250,7 +250,7 @@ kann.
 Weiterführend Hinweise und Übungen mit unterschiedlichem anforderungsprofil
 finden sich im [Skript zum Thema Koordination] von Thomas Hustert.
 
-[Skript zum Thema Koordination]: ThomasHustert/Koordination.pdf
+[Skript zum Thema Koordination]: ThomasHustert/Koordination.pdf?raw=true
 
 Hier sind einige Merksätze zum Wochenende.
 
