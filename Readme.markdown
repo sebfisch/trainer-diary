@@ -88,6 +88,12 @@ erreichen, arbeite ich gerne ein.
   * Ausarbeitung von Übungsreihen
   * Trainingsplanung
 
+[30. und 31. August 2014](2014.08.30-31.markdown) (Thomas Hustert)
+  * Spiel: Klobürstenhockey
+  * Verletzungen
+  * Ernährung
+  * Einzel-Taktik
+  * Koordinative Anforderungen
 
 
 © Sebastian Fischer, 2014

@@ -1,0 +1,295 @@
+# 30. und 31. August 2014
+
+
+## Spiel: Klobürstenhockey
+
+Klobürstenhockey ist ein Aufwärmspiel, das sowohl __schnelle Richtungswechsel__
+als auch __Hand-Auge-Koordination__ beinhaltet. Zwei Teams versuchen dabei mit
+Klobürsten als Hockeyschläger einen Tennisball in ein Tor zu befördern, als das
+zum Beispiel das Oberteil eines Langkastens dienen kann. Zu diesem Spiel lassen
+sich viele Varianten bilden, zum Beispiel durch Austausch der Klobürste durch
+Schuhe, Hände, Ballrollen oder fliegenklatschen, wobei bei letzterer Variante
+ein leichterer Ball (zum Beispiel ein Tischtennisball) verwendet werden sollte.
+
+Varianten des Badmintonspiels mit Sonderregeln auf dem halben oder ganzen Feld
+finden sich in einer umfangreichen [Sammlung], die Thomas Hustert
+zusammengestellt hat.
+
+[Sammlung]: ThomasHustert/Spielvarianten.pdf
+
+
+## Verletzungen
+
+Es gibt *personeninterne* und *personenexterne* Faktoren, die zu Verletzungen
+führen können. Personeninterne Faktoren sind zum Beispiel Risikobereitschaft
+oder Ermüdung, personenexterne Faktoren zum Beispiel Bodenbeschaffenheit oder
+Schuhe. Im Badminton treten Verletzungen am häufigsten __in den Beinen__ auf,
+besonders im Oberschenkel und Sprunggelenk. Eine einfache Methode das Bein zu
+entlasten ist die sogenannte __Traktionsmanipulation__, bei der auf dem Rücken
+liegend Ferse und oberer Fuß umfasst und in Verlängerung des Unterschenkels
+gezogen werden.
+
+Muskelkater entsteht entgegen älterer Theorie nicht aufgrund von Übersäuerung
+des Muskels durch gebildetes Laktat (Milchsäure) sondern durch __Schädigungen
+der Muskelfasern__ (Z-Scheibe, Aktin- oder Myosinfilamente), die bei hoher,
+insbesondere exzentrischer Belastung auftreten. Als Therapie bieten sich
+durchblutungsfördernde Maßnahmen an wie Massage, Wärme oder leichte Bewegung.
+Auch hohe Flüssigkeitsaufnahme begünstigt die Heilung.
+
+Viel zu trinken hilft auch gegen Krämpfe, die durch Flüssigkeits-, Salz- und
+Magnesiummangel entstehen. Die Akutversorgung erfolgt durch dehnen des
+verkrampften Muskels.
+
+Nach einem Inversionstrauma (Umknicken) des Sprunggelenks sollten möglichst
+schnell die folgenden Maßnahmen ergriffen werden. Die umgeknickte Person sollte
+vom Spielfeld an einen ruhigen Ort gebracht, der umgeknickte Fuß sollte durch
+Bandage fixiert und komprimiert und dann hochgelegt werden. Der Verband sollte
+gekühlt werden um im Zusammenspiel mit der Kompression die Schwellung möglichst
+gering zu halten.
+
+Tiefergehende Hinweise finden sich im [Skript zum Thema Sportverletzungen] von
+Thomas Hustert.
+
+[Skript zum Thema Sportverletzungen]: ThomasHustert/Sportverletzungen.pdf
+
+Zur Verletzungsvorbeugung sollte aufgewärmt und gegebenenfalls kurz gedehnt
+werden. Äußere Faktoren wie Bälle im Feld sollten weggeräumt werden und Schuhe
+sollten dem Sportler angepasst werden. Auch Kraft- und Koordinationstraining
+beugt Verletzungen vor. Warme trockene Kleidung besonders nach einer Anstrengung
+mindern das Risiko sich zu erkälten. Nicht zuletzt hilft auch richtige
+Ernährung.
+
+Ein Tag vor dem Wettkampf sollten vermehrt Kohlehydrate aufgenommen werden, was
+besonders gut durch Nudeln, Kartoffeln, Reis oder Brot (insbesondere mit Dinkel
+oder Hafer) möglich ist.
+
+Weitere Hinweise finden sich im [Skript zum Thema Ernährung] von Thomas Hustert.
+
+[Skript zum Thema Ernährung]: ThomasHustert/Ernährung.pdf
+
+
+## Einzel-Taktik
+
+Taktik beschreibt die Auswahl des richtigen Schlages passend zu einer
+Spielsituation. Die Kenntnis eigener Stärken und gegnerischer Schwächen, Mut,
+entschlossenes und überraschendes Handeln, Gnadenlosigkeit und Vertrauen auf den
+Sieg begünstigen dabei eine erfolgreiche Auswahl. Die Taktik gehört also zur
+Handlungsebene und wird von der Persönlichkeitsebene beeinflusst.
+
+Zu Anfang der Taktikausbildung im Einzel steht der __Spielerhalt__ im
+Vordergrund, also __präzises__ Spiel mit möglichst wenig eigenen Fehlern.
+Außerdem sollten die unterschiedlichen __Flugkurven__ verschiedener Schläge den
+Spielern bewusst gemacht werden. Erste Taktische Marschrouten bestehen darin,
+den Gegner __aus der Mitte zu vertreiben__ und beobachtete __Schwächen
+konsequent auszunutzen__ (z.B. Rückhand, Netzspiel, Laufarbeit).
+
+Im nächsten Schritt sollten Tempo, Stellungsspiel, die Aufschlagphase und
+Schlagnachbereitung geübt werden. Außerdem das Erkennen von Spielsituationen und
+die Entwicklung von Spielstrategien.
+
+Schließlich können Täuschungen und variable Marschrouten trainiert werden.
+Gemeinsame Videoanalysen helfen bei der Beurteilung des eigenen Spiels. Auch wie
+man sich Spieler auf dem Feld (zum Beispiel bei Erschöpfung) präsentiert ist
+Gegenstand taktischer Überlegungen.
+
+Im folgenden sind Übungen genannt, die dazu verwendet werden können, die
+genannten Aspekte zu trainieren.
+
+Unterschiedliche __Flugkurven__ von Angriffs- und Verteidigungs-Clear bzw.
+schnellem und langsamem Drop könne durch Spiel auf dem Halbfeld Clear gegen Drop
+oder Clear gegen Clear verinnerlicht werden. Hierbei sollte der Fokus darauf
+liegen, die Unterschiede zwischen den Flugkurven zu beobachten und
+situationsabhängig zu entscheiden welcher Schlag bei gegebener Spielsituation
+angemessen ist. Habe ich zum Beispiel viel Zeit und stehe gut hinter dem Ball,
+sollte ich einen Angriffsclear spielen. Bin ich in Rücklage oder aus dem
+Gleichgewicht besser einen Verteidigungsclear.
+
+Der __Spielerhalt__ wird zum Beispiel durch das Zehnerspiel trianiert, bei dem
+im Ballwechsel hintereinander erst ein Clear, dann ein Drop, dann zwei Clears
+und zwei Drops, dann jeweils drei gespielt werden und so weiter. Wer bei zehn
+angekommen ist, kann die Reihe wieder rückwärts runterspielen. Auch das Zählen
+von Fehlern im freien Spiel trainiert den Spielerhalt, da ein Fokus auf eigene
+Fehler (und deren Vermeidung) gesetzt wird.
+
+Präzise __Platzierung__ kann durch Spiel auf Matten nach Zuspiel oder Zuwurf
+geübt werden. Auch das Zoneneinzel, bei dem bestimmte Feldbereiche angespielt
+oder vom Gegner gesperrt werden (Hoyer-Larsen Einzel), verbessert die
+Platzierung. eine weitere Variante ist das Mega-Einzel, bei dem man zwei Punkte
+bekommt, wenn der Gegner einen gespielten Ball nicht erreicht.
+
+Die __Inside/Outside__ Regel besagt, dass jemand der nach außen getrieben oder
+aus dem Gleichgewicht geraten ist seinen Schlag etwas nach innen richten sollte,
+da ein Schlag direkt an die Linie aus dieser Position zu riskant wäre. Umgekehrt
+kann jemand, der gut steht und einen Treffpunkt etwas innerhalb des Feldes hat,
+versuchen, seinen Schlag möglichst nah an die Linie (also nach außen) zu
+platzieren.
+
+Die __Vertreibung aus der Mitte__ kann man üben, indem nach fünf gespielten
+Clear ein Spieler einen unerreichbaren Drop spielen soll. Hierbei ist es
+wichtig, den Drop durch die vorherigen Clears so vorzubereiten, dass der Gegner
+ihn nicht erreichen kann. Auch durch Abkleben der Mitte kann ein Spiel in die
+Ecken trainiert werden.
+
+Das Spiel auf __gegnerische Schwächen__ kann geübt werden, indem im freien Spiel
+vermehrt in vorgegebene Feldbereiche gespielt wird (zum Beispiel immer auf die
+Rückhand).
+
+Der __Aufschlag__ sollte im Einzel in die Mitte erfolgen, damit der Return durch
+die Reichweite des Aufschlägers gespielt werden muss. Bei Aufschlägen an die
+Seite sind sowohl longline als auch angeschnittene cross Returns gefährlich.
+
+Trotzdem kann man auch im Einzel versuchen, den Gegner durch variable Aufschläge
+aus dem Konzept zu bringen. Jeden Aufschlag anders zu spielen erlaubt es auch,
+Schwächen des Gegners aufzudecken.
+
+Die __Zentrale Position__ im Einzel liegt etwas hinter der Feldmitte, da man
+nach vorne schneller laufen kann als nach hinten und nach vorne die Reichweite
+des Schlägers genutzt werden kann. Nach eigenen Schlägen an die Seite verschiebt
+sich die zentrale Position auf die Ballseite, da danach die gefährlichsten
+Schläge longline Smash oder schneller Drop sind.
+
+Das __Verschieben__ der zentralen Position kann durch Drop gegen Lob auf dem
+ganzen Feld geübt werden, wobei darauf geachtete werden sollte, dass die Spieler
+nicht zu weit eingedreht sondern immer in der Flucht des Balles stehen. Auch das
+Spiel Lob/Netzdrop gegen Drop schult die Auswahl der richtigen Zentralposition.
+Diese sollte nach langsamem Drop weiter vorne und nach schnellem Drop weiter
+hinten liegen (Unterschied etwa ein Meter). Analog dazu sollte man nach einem
+hohen Ball in seiner zentralen Position tief stehen, während man nach einem Ball
+nach unten hoch stehen kann. Auch darauf lässt sich in Schlagübungen ein Fokus
+setzen.
+
+Nach einem Netzdrop sollte man einen kleinen Sprung zurück machen und in
+__Lauerstellung__ stehen bleiben, um einen weiteren Netzball gegebenenfalls
+töten zu können. Die Lauerstellung kann durch folgende Übung trainiert werden.
+Die Spieler spielen zunächst kurze Bälle am Netz. Irgendwann spiel einer einen
+Lob, den der andere mit einem Drop auf die andere Seite beantwortet, so dass die
+Übung im selben Ballwechsel wieder von vorne beginnt.
+
+Eine schnelle __Nachbereitung__ von Schlägen kann durch Zusatzaufgaben nach
+Schlägen trainiert werden. Zum Beispiel können die Spieler im spiel Drop gegen
+Lob nach einem Schlag Schattenschläge ausführen und danach möglichst schnelle
+wieder eine klare Bereitschaftshaltung einnehmen.
+
+Eine komplexe Übung ergibt sich, wenn zwei Spieler auf dem ganzen Feld
+gegeneinander spielen, wobei einer keinen Drop und der andere keinen Smash
+spielen darf. Der Smash-Spieler entscheidet nach langen Bällen je nach eigener
+Position, ob er (aus guter Lage) Smash oder (unter Druck) einen
+Verteidigungsclear spielt. Der andere Spieler versucht durch Drop und Lob, den
+Smash-Spieler unter Druck zu setzen.
+
+Im Einzel kann man zwei entgegengesetzte Spielstrategien verfolgen, die auch
+dazu geeignet sind, sich gegenseitig zu neutralisieren.
+
+Das __Tempo-Spiel__ zeichnet sich durch frühe Treffpunkte, schnelle Starts,
+kurze Nachbereitung, Aggressivität, offensive Spielweise (nach unten) und kurze
+Pausen zwischen den Ballwechseln aus. Typische Schläge hierbei sind Smash oder
+Half-Smash, Drive, Angriffsclear, Konter, schneller Drop und ein kurzer
+Aufschlag.
+
+Das __Platzierung-Spiel__ ist langsamer und geprägt durch möglicherweise spätere
+Treffpunkte (Verzögern, Finten), überlegtes Spiel und lange Pausen zwischen den
+Ballwechseln. Typische Schläge hierbei sind ein hoher Aufschlag,
+Verteidigungsclear, langsamer Drop und lange Abwehr. Das Platzierungs-Spiel in
+weniger anstrengend and das Tempo-Spiel.
+
+Beide Spielformen können geübt werden, indem im freien Spiel nach festen
+Zeitabständen immer wieder zwischen ihnen gewechselt wird.
+
+Das Platzierungs-Spiel eignet sich besonders für Spieler, die zu unerzwungenen
+Fehlern neigen, da diese den Fokus zunächst auf den Spielerhalt legen sollten
+und das Tempo-Spiel zu riskant wäre. Ein einfacher aber wirksamer
+psychologischer Kniff ist es, sich nach einem Fehler gedanklich zu
+vergegenwärtigen, wann der Fehler auftrat (schon ein Schlag vorher?) und wie
+eine bessere Reaktion ausgesehen hätte. Durch die Vorstellung, wie der Ball
+hätte kommen sollen, wird eine entsprechende Reaktion in einer späteren
+ähnlichen Situation begünstigt.
+
+Anders als im doppel, sollte man im Einzel die gesamte Länge des Feldes
+auszutzen (Spiel nach vorne und hinten im Wechsel), da das Feld langer als breit
+ist. Druckvolle Schläge sollte man nur aus stabiler Lage wählen. Netzdrops
+können anders als im doppel ruhig (auf eigener Seite) etwas aufsteigend gespielt
+werden (wenn der Gegner nicht am Netz ist), damit der Ball naher hinter das Netz
+fällt. Cross Bälle sollte man nur bei genügend Zeit für die Nachbereitung durch
+Verschieben der zentralen Position spielen. Man sollte versuche, sich mit dem
+Aufschlag einen Vorteil zu verschaffen. Neutralisationsschläge unter Druck
+(Clear oder Drop) sollten in die Mitte gespielt werden.
+
+Tiefergehende Hinweise finden sich im [Skript zum Thema Einzeltaktik] von Thomas
+Hustert.
+
+[Skript zum Thema Einzeltaktik]: ThomasHustert/Einzeltaktik.pdf
+
+
+## Koordinative Anforderungen
+
+Koordination ist der Bewegungsebene zugeordnet und bildet zusammen mit der
+Kondition die Grundlage der Technik. Koordination stellt gewisse Anforderungen
+an die optische, akustische, taktile (Berührung), kinästhetische (Körperlage)
+und vestibuläre (Gleichgewicht) __Wahrnehmung__ und dient der Regulation des
+__Gleichgewichts__, da jede Bewegung dieses verändert.
+
+Man unterscheidet zwischen inter- und intramuskularer Koordination, also dem
+Zusammenspiel mehrerer Muskeln un dem Zusammenspiel verschiedenener Nerven- und
+Muskelzellen innerhalb eines Muskels. Intramuskuläre Koordination wird durch
+Krafttraining vebessert, intermuskuläre Koordination durch Übungen, bei denen
+man das Anforderungsprofil anhand der folgenden Druckbedingungen beschreiben
+kann.
+
+  * Präzisionsdruck (zum Beispiel beim Schlag)
+  
+  * Zeitdruck (schnelle Beine, schneller Schläger)
+  
+  * Komplexitätsdruck (mehrere Dinge auf einmal)
+  
+  * körperlicher (physischer) Belastungsdruck (Ermüdung)
+  
+  * geistiger (psychischer) Belastungsdruck (zum Beispiel durch Eltern)
+
+  * Umgebungsdruck (Licht, Boden, Wind)
+
+Weiterführend Hinweise und Übungen mit unterschiedlichem anforderungsprofil
+finden sich im [Skript zum Thema Koordination] von Thomas Hustert.
+
+[Skript zum Thema Koordination]: ThomasHustert/Koordination.pdf
+
+Hier sind einige Merksätze zum Wochenende.
+
+ #. Im Sprunggelenk haben wir __drei Außenbänder__.
+
+ #. Die Achillessehne ist die __kräftigste Sehne__ unseres Körpers.
+
+ #. Muskelkater entsteht durch __hohe exzentrische Kraftbelastung__ 
+    einzelner motorischer Einheiten.
+
+ #. Ein Kinesiotape ist __elastischer__ als ein "normales" Tape.
+
+ #. Unter der intermuskulären Koordination versteht man das Zusammenspiel
+    __verschiedener Muskeln eines Körpers__.
+
+ #. Bei einem Aufschlag nach außen an die Seitenlinie muss ich mein Spielzentrum
+    __auf die Ballseite verlagern__.
+
+ #. Nach einem guten Netzdrop verbleibe ich __in Lauerstellung__.
+
+ #. Am Anfang der taktischen Ausbildung steht __Spielerhalt__ im Vordergrund.
+
+ #. Um meinen Gegner aus der Mitte zu bringen, muss ich das taktische Prinzip
+    __Platzierung__ anwenden.
+
+ #. "Für mich bedeutet Taktik, __den besten Ball__ für eine Situation auszuwählen." 
+    (Lee Jae Bok, ehemaliger koreanischer und englischer Nationaltrainer)
+
+ #. Im Einzel sollte grundsätzlich die Zentralposition etwas nach hinten 
+    verlagert werden, weil nach vorne die __Reichweite des Schlägers__
+    genutzt werden kann und man __schneller nach vorne als nach hinten__ laufen kann.
+
+ #. Im Einzel werden vemehrt kurze aufschläge gemacht, weil der aufschläger dadurch
+    __in den Übergang oder sogar in den Angriff__ kommt.
+
+ #. Taktiktraining sollte __in der Wettkampfperiode__ eine höhere Gewichtung haben,
+    als in der Vorbereitungsperiode.
+
+
+© Sebastian Fischer, 2014
+
+[![(Veröffentlicht unter der Lizenz: CC-BY-NC-SA 4.0)](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.de)

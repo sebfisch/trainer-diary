@@ -183,7 +183,7 @@ Als Rahmen zur Erstellung eines Trainingsplans kann der Rahmentrainingsplan des
 DBV dienen. Ein Trianingsplan kann für Individualtraining oder für Training in
 der Gruppe erstellt werden und sollte nach folgendem Kreislauf weiter entwickelt
 werden: Ist-Analyse, Zielformulierung, Entwurf eines Trainingsplans,
-Durchführung, Auswertung, Ist-Analyse, ...
+Durchführung, Auswertung, und wieder von vorn.
 
 Die __Ist-Analyse__ beantwortet die Frage nach den Defiziten der Übenden,
 Vergleicht deren Leistungsstand mit dem anderer, stellt fest, wieviel Zeit und
