@@ -239,6 +239,9 @@ Drop zu spielen.
 [Peter Gade Trickshot]: https://www.youtube.com/watch?v=oMV0sv3XiBE
 [Yongbo Drop]: https://www.youtube.com/watch?v=Epv2aWaHNzg
 
+Weitere Hinweise finden sich im [Protokoll von Thies Wiediger].
+
+[Protokoll von Thies Wiediger]: ThiesWiediger/Protokoll.pdf?raw=true
 
 © Sebastian Fischer, 2014
 
