@@ -275,8 +275,7 @@ oder Angriffsclear spielen, während ich bei einem Fokus auf Spielerhalt
 langsame präzise Schläge (Half-Smash, langsamen Drop, Verteidigungsclear)
 verwenden werde.
 
-### Welche Voraussetzung müssen beim Training von Lesen und Lösen zunächst 
-geschaffen werden?
+### Welche Voraussetzung müssen beim Training von Lesen und Lösen zunächst geschaffen werden?
 
 Erfolgreiches Lesen erfordert gute Sehfähigkeit auch im periphären und
 räumlichen Sehen. Schnelle Reaktionsfähigkeit erhöht die Warscheinlichkeit
@@ -434,8 +433,7 @@ falls der Ball doch noch zurück gespielt wird.
 Ein Rahmentrainingsplan beschreibt Trainingsinhalte für das Kadertraining in
 unterschiedlichen Altersstufen.
 
-### Ordne folgende Trainingsinhalte in eine optimale Reihenfolge innerhalb einer 
-Trainingseinheit:
+### Ordne folgende Trainingsinhalte in eine optimale Reihenfolge innerhalb einer Trainingseinheit:
 
  2. Krafttraining, 
  3. Beweglichkeitstraining und 
@@ -460,7 +458,7 @@ Disziplin angepasst.
 ### Bei der Jahresplanung gibt es eine Vorbereitungs-, Wettkampf- und Übergangsperiode. Wie sollte die Leistungsfähigkeit deiner SpielerInnen in den einzelnen Abschnitten sein?
 
 In der Wettkampfphase sollte die Leistungsfähigkeit am höchsten sein, während
-sie in der vorbereitungsphase vorübergehend durch intensives Kraft- und
+sie in der Vorbereitungsphase vorübergehend durch intensives Kraft- und
 Ausdauertraining vermindert werden kann.
 
 ### Nach einer Trainingseinheit sitzt du z.B. zuhause und wertest diese aus. 
@@ -476,7 +474,7 @@ werden?
 Damit Aspekte aus den geplanten Trainingsinhalten mit einfließen und spielnahe
 Bewegungsabläufe trainiert werden können.
 
-### Nenne 4 Trainingsgrundsätze.
+### Nenne vier Trainingsgrundsätze.
 
 Zeit effektiv nutzen, spielnahe Übungssituationen schaffen, Technik und Taktik
 kombinieren, direktes Feedback geben.
@@ -514,8 +512,9 @@ Zuwurf erzeugt werden bzw durch Spiel mit mehreren Bällen.
 
 ### Der 16-jährige Martin möchte sich ein Fahrrad kaufen. Er bittet seine Eltern vorher um Zustimmung. Die Eltern möchten nicht, dass sich Martin ein Rad kauft, weil er erst zu seinem letzten Geburtstag ein neues Rad bekommen hat. Martin möchte das Rad aber trotzdem kaufen. Ist Martin geschäftsunfähig, beschränkt geschäftsfähig oder voll geschäftsfähig? Kann er einen wirksamen Kaufvertrag abschließen und wenn ja, was ist dazu erforderlich?
 
-Martin ist beschränkt geschäftsfähig. Er kann nur mit Zustimmung der Eltern
-einen wirksamen Kaufvertrag abschließen.
+Martin hat das siebte Lebensjahr vollendet und ist damit beschränkt
+geschäftsfähig. Er kann nur mit Zustimmung der Eltern einen wirksamen
+Kaufvertrag abschließen.
 
 ### Esther (10 Jahre) hat heute keine Lust und fragt den Übungsleiter 10 Minuten nach Beginn des Trainings, ob sie nach Hause gehen kann. Darf der Übungsleiter Kinder vor dem Ende der Sportstunde nach Hause schicken?
 
