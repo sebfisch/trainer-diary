@@ -9,6 +9,11 @@ erreichen, arbeite ich gerne ein.
 [SHBV]: http://www.shbv.de/
 [per E-Mail]: mailto:federigo.pescatore@gmail.com
 
+Neben den Protokollen zu Lehrgangsinhalten sammle ich auch [meine Antworten]
+auf Fragen zur Vorbereitung auf die Abschlussprüfung.
+
+[meine Antworten]: Fragen.und.Antworten.markdown
+
 [22. März 2014](2014.03.22.markdown) (Jens Meyer)
   * Aufwärm-Spiele
   * Schlägerhaltung
@@ -94,7 +99,6 @@ erreichen, arbeite ich gerne ein.
   * Ernährung
   * Einzel-Taktik
   * Koordinative Anforderungen
-
 
 © Sebastian Fischer, 2014
 
