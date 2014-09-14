@@ -988,6 +988,5 @@ Taktik, Kraft und Ausdauer. Verfeinerung der Technik.
 
 ### Fragenkatalog von Daniel Lohmann (Doping)
 
-#### 
 
 
