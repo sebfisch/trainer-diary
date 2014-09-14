@@ -365,20 +365,19 @@ Unterstützung durch weitere Trainer ist es außerdem schwer, vielen Spielern
 gleichzeitig Rückmeldung zur Übungsausführung zu geben bzw die Ausführung zu
 korrigieren.
 
-#### Welche Vor- und Nachteile hat das Training von Schlägen im Rahmen von Schlagkombinitationen.
+#### Welche Vor- und Nachteile hat das Training von Schlägen im Rahmen von Schlagkombinationen.
 
-Ein Vorteil ist, dass Schläge in einen spielnahen Kontext eingebunden werden
-können. Dadurch lassen sich neben der Schlagtechnik selbst, taktische Muster
-zur anwendung eines Schlages einüben. Ein Nachteil ist, dass die anderen
-Schläge vom geübten Schlag ablenken können, besonders wenn diese noch nicht
-gut beherrscht werden. Schläge sollten deshalb zuerst isoliert und erst später
-in Kombination mit anderen bereits verfügbaren geübt werden.
+Ein Vorteil ist, dass auf einfache Weise Spielfluss erzeugt und
+Schlagsicherheit bei Belastung trainiert wird. Ein Nachteil ist, dass die
+Laufwege festgelegt sind, da unrealistischerweise immer das gleiche gespielt
+und dadurch die Laufarbeit kaum von einer einzuschätzenden Spielsituation
+abhängig gemacht werden.
 
 #### Wieso wird im Doppel bei den meisten "besseren" Spielern mit der Rückhand aufgeschlagen. Welchen Vorteil hat der Rückhandaufschlag gegenüber dem Vorhandaufschlag?
 
-Nach dem Rückhandaufschlag ist der Arm bereits in Bereitschaftsstellung, so
-dass das Spiel schnellstmöglich in der Übergansphase (Drive) fortgesetzt
-werden kann.
+Da der Ball beim Rückhandaufschlag direkt am Treffpunkt gehalten wird, genügt
+eine kleinere Schlagbewegung, die weniger fehleranfällig ist. Dadurch lässt
+sich der Rückhandaufschlag leichter präzise spielen.
 
 #### Zeichne in das Badmintonfeld die Verteidigungspositionen der Verteidiger ein, wenn der Ball hoch in die hintere rechte/linke gespielt wird.
 
@@ -565,3 +564,430 @@ Matte in der Turnhalle legen.
 #### Darf der Übungsleiter Kinder mit seinem Auto zum Wettkampf mitnehmen? Wenn ja, unter welchen Bedingungen?
 
 Nur mit Kindersitz, falls unter 12 Jahre und unter 1,50 Meter.
+
+## Fragenkatalog von Thomas Hustert
+
+### Verletzungen & Prävention
+
+#### Nenne 5 Ursachen, die zu einer Sportverletzung im Badminton führen können.
+
+Personinterne Faktoren wie Risikobereitschaft oder Ermüdung aber auch
+personexterne Faktoren wie Schuhe, Bodenbeschaffenheit oder Leistungsdruck
+können zu Verletzungen führen.
+
+#### Das Sprunggelenk ist im Badminton hohen Belastungen ausgesetzt. Nenne zwei Verletzungen, die dort auftreten können und zwei Beispiele, wie man solchen Verletzungen vorbeugen kann.
+
+Inversionstraumata (Umknicken) (möglicherweise mit Überdehnung der
+Außenbänder) und Rissen der Außenbänder kann zum Beispiel dadurch vorgebeugt
+werden, dass Stolperfallen wie Bälle aus dem Feld geräumt werden. Auch
+Stabilitätsübungen und Krafttraining der Unterschenkel beugt dort Verletzungen
+vor.
+
+#### Wie kann man einem Muskelkater vorbeugen?
+
+Kontinuierliche Belastungssteigerung, niedrige Belastung bei neuen Bewegungen,
+Beachten von Ermüdungserscheinungen
+
+Auslaufen und Wechselduschen (kalt/warm) sowie sofortiger Flüssigkeits-,
+Mineralstoff- und Vitaminersatz sind wirkungsvolle Maßnahmen zur
+Sofortregeneration. Vom Dehnen wurde hingegen gezeigt, dass es Muskelkater
+noch verschlimmern kann.
+
+#### Nenne zwei Ursachen für einen Muskelkrampf. 
+
+Flüssigkeits-, Salz- und Magenesiummangel.
+
+#### In welchem Körperbereich äußern sich die meisten Beschwerden beim Badmintonspieler?
+
+In den Beinen
+
+#### Wie kann es zu einem Achillessehnenriss im Badmintonspiel kommen?
+
+Häufiger Auslöser eines Achillesssehnenrisses ist eine falsche Landung nach
+dem Umsprung, bei der der hintere Fuß nicht seitlich sondern senkrecht zur
+Grundlinie aufgesetzt wird.
+
+#### Wie kann ich einen Achillessehnenriss erkennen?
+
+An einer Delle, dort wo eigentlich die Achillessehne sein sollte, daran, dass
+die Person auf dem verletzten Bein nicht auf den Zehnenspitzen stehen kann und
+durch Ultraschall
+
+#### Dein Spieler knickt auf dem Feld um, bleibt am Boden liegen und fasst sich an dem Fuß. Dieser beginnt anzuschwellen. Welche Sofortmaßnahme ergreifst Du?
+
+Die umgeknickte Person sollte vom Spielfeld an einen ruhigen Ort gebracht, der
+umgeknickte Fuß sollte durch Bandage fixiert und komprimiert und dann
+hochgelegt werden. Der Verband sollte gekühlt werden, um im Zusammenspiel mit
+der Kompression die Schwellung möglichst gering zu halten.
+
+#### Wie entsteht ein Muskelkater und warum führt das zu Schmerzen?
+
+Muskelkater entsteht durch kleinste Risse in den Muskelfasern, die bei hoher
+Belastung (besonders bei exzentrischer) auftreten können. Durch eindringendes
+Wasser schwillt der Muskel an, was zu einem Dehnungsschmerz führt.
+
+#### Wie wirkt eine Blackroll?
+
+Wie eine Massage, durchblutungsfördernd und entspannend.
+
+#### Was macht man bei einem Muskelkater und wie lange dauert er?
+
+Flüssigkeitszunahme, Wärme, Stoffwechselaktivierung (Radfahren, Schwimmen) und
+passive Dehnung bis an die Schmerzgrenze
+
+Muskelkater dauert zwei bis drei Tage.
+
+#### Beschreibe drei Beispiele, wie man Verletzungen im Badminton verhindern kann.
+
+Aufwärmen, vorbeugende Bandagen, passende Schuhe.
+
+#### Worauf sollte man bei der Ernährung zwei Tage vor einem Wettkampf achten?
+
+Die Ernährung sollte kohlehydratreich sein (Nudeln, Kartoffeln, Reis, Brot).
+Dazu sollte viel getrunken und kaliumreiche Nahrung zugeführt werden (Erbsen,
+Linsen, Kartoffeln, Bananen). Fett- und Eiweiszufuhr sollte reduziert werden.
+
+#### Nenne 3 Lebensmittel, die Du bei Deinen Spielern während eines Wettkampfes akzeptieren würdest.
+
+Müsliriegel, Bananen und flüssigkeitsreiches Obst.
+
+#### Nenne 3 Lebensmittel mit einem hohen Anteil an Kohlenhydraten.
+
+Nudeln, Kartoffeln, Reis, Brot
+
+#### Was ist der Unterschied zwischen einem Kinesiotape und einem „normalen“ Tape?
+
+Kinesiotape ist flexibler.
+
+### Coaching
+
+#### Nenne 2 Beispiele, wie Du eine Trainingsgruppe in 2 Mannschaften einteilst.
+
+Nach Körpergröße oder nach Alter aufstellen, dann abwechselnd abzählen.
+
+#### Wie kann man beim Coaching einen Spieler "pushen"?
+
+In einer Situation, in der ein Spieler gepusht werden muss, kann der Trainer
+seine Botschaft durch laute, entschlossene Sprache, Körperspannung, abgehackte
+Gestik und taktile Reize (Klapser auf Oberschenkel um Laufarbeit zu
+motivieren) unterstützen.
+
+#### Wie kann man beim Coaching einen Spieler beruhigen?
+
+Um andererseits Spieler zu beruhigen, sollte der Trainer leise, tief, und
+monoton sprechen, beruhigende Gestik verwenden, vielleicht die Hand auflegen,
+ein Getränk reichen und sich im gegebenen Rahmen Zeit lassen.
+
+#### Nenne 4 Beispiele, was Du machen kannst, wenn Dein Spieler auf einem Turnier einen großen Erfolg hatte.
+
+Loben, Erfolg vor Trainingsgruppe thematisieren, Spieler im Training Stärken
+vormachen lassen, Zeitungsartikel schreiben
+
+#### Nenne 4 Beispiele, wie Du Deinen Spieler motivieren kannst.
+
+Klare Ziele, Lob, gutes Training, Spaß, transparente Fortschritte.
+
+#### Was versteht man unter nonverbaler Kommunikation?
+
+Kommunikation ohne Worte, also durch Körperhaltung, Gestik, Mimik und gezeigte
+Emotionen
+
+#### Warum ist es wichtig, eine gute Beziehung zum Athleten aufzubauen?
+
+Damit der Spieler dem Trainer vertraut und gemeinsame Ziele durch Maßnahmen
+des Trainers, die der Spieler umsetzt, erreicht werden können.
+
+#### Beschreibe eine Übung, wie Du den Zusammenhalt in einer Mannschaft stärken kannst.
+
+Zwei Gruppen versuchen einen dicken Stift aufrecht auf den Boden zu stellen.
+Dabei dürfen sie den Boden hinter einer Linie nicht berühren. Wer den Stift
+durch kluge Ideen und geschickte Ausführung am weitesten von der Linie weg
+aufstellen kann, gewinnt.
+
+#### Beschreibe eine Übung, wie Du den Zusammenhalt eines Doppels stärken kannst.
+
+Die Doppelpartner stützen sich an ihren Schultern gegenseitig ab und sollen
+ihre Füße so weit wie möglich auseinander stellen, indem sie an einem
+geklebten "V" entlanggehen.
+
+#### Nenne drei Maßnahmen wie Du das Klima in Deiner Trainingsgruppe/Mannschaft außerhalb der Sporthalle verbessern kannst.
+
+Schleifchenturnier, gemeinsam essen gehen, auf Turnieren Trikot tragen.
+
+#### Nenne 2 Beispiele für ein "Geben und Nehmen" in Deiner Trainingsgruppe/Mannschaft
+
+Gute Laune verbreiten, ältere Spieler einbeziehen mit positiven Konsequenzen
+für das Mannschaftsklima.
+
+#### Nenne 2 Regeln, die Du in Deiner Trainingsgruppe/Mannschaft einführen möchtest.
+
+Pünktlich mit Training beginnen, bei Punktspielen einander zusehen.
+
+#### Wie verhältst Du dich bei einem Misserfolg Deines Spielers? Nenne 3 Möglichkeiten.
+
+Ich nehme ihn in Schutz, indem ich vom Misserfolg ablenke (Blick nach vorne
+richten). Ich baue ihn auf, indem ich ankündige, mit ihm an seinen Schwächen
+zu arbeiten (und das dann tue). Ich helfe ihm bei einer realistischen
+Selbsteinschätzung und lege dabei einen Fokus auf seine Stärken.
+
+### Doppel Basics
+
+#### Worin unterscheiden sich im Doppel die Aufgaben des VF- und HF Spielers?
+
+Der HF-Spieler sielt Angriffsbälle, die für die Gegner schwer oder nur in
+Reichweite des VF-Spielers erwiedert werden können. Er sollte variabel
+spielen, also zum Beispiel verschieden starke Smashs mit Drops mischen. Der
+VF-Spieler fängt abgewehrte Bälle ab und versucht nach schlechter Abwehr zu
+punkten und nach besserer Abwehr, die Gegner durch Netzdrops unter Druck zu
+setzen und weitere Angriffsschläge des HF-Spielers vorzubereiten.
+
+#### Welche Ziele verfolgt man in der Abwehr?
+
+Den Angriff so zu erwiedern, dass man selbst in den Angriff oder zumindest in
+den Übergang kommt. Dazu kann man zum Beispiel scharf kontern, eine kurze
+Blockabwehr spielen, die nur noch hoch zurückgespielt werden kann oder den
+Vorderfeldspieler so überspielen, dass der Hinterfeldspieler den Ball nur mit
+Mühe erreicht.
+
+#### Nenne drei Abwehrtechniken im Doppel.
+
+Konterabwehr, Blockabwehr und hohe Abwehr
+
+#### Welche drei Spielsituationen werden im Doppel unterschieden?
+
+Abwehr, Übergang und Angriff.
+
+#### Wie ist das Stellungsspiel in der Doppelabwehr?
+
+Die abwehrenden Spieler verschieben sich auf die Ballseite. Der Longline-
+Spieler steht etwas weiter hinten, beide mit Blickrichtung zum Ball.
+
+#### Welche drei Arten des Smash gibt es?
+
+Rotations-Smash, Flexions-Smash, Stick-Smash.
+
+#### Welches Ziel verfolge ich in der Übergangsphase?
+
+In den Angriff zu kommen. Zum Beispiel durch scharfe oder kurz abgelegte
+Bälle, die nach oben zurückgespielt werden.
+
+#### Wie steht man im Tunnelangriff?
+
+Hintereinander auf der Ballseite
+
+### Trainingslehre
+
+#### Beschreibe (eventuell mit Skizze) eine badmintonspezifische Übung zum Schnelligkeitstraining und gebe dabei Belastungsintensität, Belastungsdauer, Belastungsdichte, sowie Belastungsumfang an.
+
+Spieler in Lauerstellung am Netz, verzögerter/angetäuschter Zuwurf an
+variabler Position (etwa ein Meter breiter Bereich) einen halben Meter über
+das Netz, explosiv nach vorne, hoher Treffpunkt, Töten.
+
+Intensität: schnellstmögliche Ausführung, Dauer: Einzelausführung, Dichte:
+5-10 Sekunden Pause nach jeder Ausführung, Umfang: 15 Bälle.
+
+#### Erkläre das "Prinzip des langfristigen Trainingsaufbaus".
+
+Strukturierter Aufbau nach Trainingsetappen mit langfristigen Zielsetzungen.
+Grundlagentraining: Technik im Vordergrund. Aufbautraining: Taktik, Physis und
+Persönlichkeit im Vordergrund. Leistungstraining: Physis und Persönlichkeit im
+Vordergrund.
+
+#### Was versteht man unter dem "Prinzip des wirksamen Belastungsreizes"?
+
+Der Belastungsreiz muss eine bestimmte Intensitätsschwell überschreiten, um
+ein Anpassungsreaktion auszulösen. Überschwellige Reize sind gut,
+unterschwellige wirkungslos, extrem überschwellige schädlich.
+
+#### Erkläre die Begriffe Akzeleration und Adaptation.
+
+Akzeleration beschreibt die Entwicklungsbeschleunigung von Kindern in der
+Pubertät (U 15). Adaptation beschreibt die Anpassung des Körpers an
+überschwellige Belastungsreize.
+
+#### Nenne drei physiologische Parameter im Körper, die nach Belastungsende ihr Ausgangsniveau erreichen.
+
+Herzfrequenz, Atemfrequenz, Körpertemperatur
+
+#### Nenne zwei körperliche Veränderungen, die bei Spieler/Innen in der Pubertät auftreten.
+
+Beschleunigtes Wachstum mit Proportionsverschiebungen, motorische
+Steuerungsfähigkeit beeinträchtigt
+
+#### Nenne fünf Trainingsinhalte und bringe sie in eine sinnvolle Belastungsfolge.
+
+Koordination, Taktik, Technik, Kraft, Beweglichkeit
+
+#### Nenne fünf Faktoren, die für die Ausprägung der "Sportlichen Leistung" wichtig sind.
+
+Kondition, Technik, Taktik, Psyche, Ausrüstung
+
+#### Nenne drei Möglichkeiten, wie Du allgemein im Training oder Wettkampf Belastungen steigern kannst.
+
+höhere koordinative Ansprüche, mehr Wettkämpfe, erhöhter Trainingsumfang
+
+#### Welche Körperstrukturen haben die längste Adaptationszeit?
+
+Knorpel und Knochen
+
+#### Welche Trainingsinhalte sind in der Altersklasse U 17 sinnvoll?
+
+Taktik, Kraft und Ausdauer. Verfeinerung der Technik.
+
+### Koordination
+
+#### Warum spielt das Gleichgewicht im Badminton eine so entscheidende Rolle? Nenne zwei Beispiele mit dazugehörigen Übungen.
+
+#### Was versteht man unter intermuskulärer Koordination?
+
+#### Was versteht man unter intramuskulärer Koordination?
+
+#### Was versteht man unter einer motorischen Einheit?
+
+#### Was bewirkt eine gute Koordination im Badminton?
+
+#### Beschreibe und/oder skizziere zwei Übungen zur Verbesserung der Gleichgewichtskontrolle im Badminton.
+
+#### Beschreibe und/oder skizziere eine badmintonspezifische Übung zur Verbesserung der Präzision im Badminton.
+
+#### Beschreibe und/oder skizziere eine Übung zur Verbesserung des Zeitdrucks im Badminton.
+
+#### Beschreibe den Zusammenhang zwischen Koordinations- und Techniktraining.
+
+#### Was versteht man unter dem Umgebungsdruck?
+
+#### Warum ist der optische Analysator so wichtig im Badminton?
+
+#### Nenne fünf koordinative Druckbedingungen.
+
+#### Welche Druckbedingung ist beim hohen Aufschlag am höchsten einzustufen?
+
+#### Erkläre den Unterschied zwischen dem psychischen und physischen Belastungsdruck.
+
+#### Warum sollte man Koordinationstraining im Badminton durchführen?
+
+### Beweglichkeit
+
+#### Warum zerreißt ein Muskel nicht beim Dehnen?
+
+#### Nenne/skizziere eine effektive Dehnungsübung für das Aufwärmtraining. Wie führst Du diese Übung durch? 
+
+#### Warum kann eine gute Dehnfähigkeit den Prozess im Techniktraining verbessern?
+
+#### Warum kann es bei Jungen in der Altersklasse U 15 zu Problemen mit der Beweglichkeit und Koordination kommen?
+
+#### Was versteht man unter einer Muskelspindel?
+
+#### Beschreibe/skizziere ein Testverfahren für die Beweglichkeit.
+
+#### In welchem Körperbereich benötigt ein Badmintonspieler hauptsächlich eine gute Beweglichkeit und warum?
+
+#### Nenne methodische Unterschiede beim Beweglichkeitstraining vor und nach einem Wettkampf.
+
+#### In wie weit können äußere Einflüsse die Beweglichkeit beeinflussen?
+
+### Schnelligkeit
+
+#### Was versteht man unter der Reaktionsschnelligkeit?
+
+#### Wie lang ist die Belastungsdauer beim Schnelligkeitstraining?
+
+#### Entwerfe eine Schnelligkeitsübung in Form einer Pendelstaffel als Wettkampf für Kinder.
+
+#### Entwerfe eine Schnelligkeitsübung auf dem Badmintonfeld mit Schläger und Ball (Partnerübung).
+
+#### Entwerfe eine Schnelligkeitsübung für Kinder, wo die gesamte Trainingsgruppe mit einbezogen wird.
+
+#### Nenne und unterscheide zwei Muskelfasertypen.
+
+#### Auf welche Signale sollte man beim Schnelligkeitstraining reagieren?
+
+#### Nenne drei Voraussetzungen, die notwendig sind, um eine höchstmögliche Schnelligkeit zu erreichen.
+
+### Kraft
+
+#### Was ist der Unterschied zwischen einer konzentrischen und exzentrischen Belastung? Zeige jeweils ein Beispiel aus dem Badmintonsport.
+
+#### Wie trainiert man Kraftausdauer? (Intensität, Wiederholungen, Pausen, Sätze)
+
+#### Nenne zwei Gründe, warum man Krafttraining durchführen sollte?
+
+#### Was verändert sich intramuskulär, wenn man mit dem Krafttraining beginnt?
+
+#### Wie sollte man trainieren, wenn man einen Muskelzuwachs (Hypertrophiemethode) erreichen möchte?
+
+#### Beschreibe/zeichne eine Übung zur Verbesserung der Rumpfkraft.
+
+#### Beschreibe/zeichne ein Testverfahren zur Ermittlung der Sprungkraft.
+
+#### Beschreibe/zeichne eine Übung zur Verbesserung der Sprungkraft.
+
+### Ausdauer
+
+#### Was versteht man unter einem anaeroben laktaziden Training?
+
+#### Skizziere/ Beschreibe eine Übung mit folgenden Zielvorgaben: sie soll auf dem Badmintonfeld mit Schläger und Federball stattfinden, sie soll eine anaerobe-alaktazide Belastung haben
+
+#### Beschreibe eine Übung oder einen Wettkampf für die Altersklasse U 13 zur Verbesserung der aeroben Ausdauer. Die Kinder sollen eine möglichst kontinuierliche Belastung von 20 Minuten haben.
+
+#### Nenne 4 Auswirkungen einer guten Grundlagenausdauer auf den Körper.
+
+#### Was versteht man unter ATP (Adenosintriphosphat)?
+
+#### Erkläre die aerobe Energiebereitstellung.
+
+#### Was versteht man unter Laktat?
+
+#### Wann werden die höchsten Laktatwerte erreicht?
+
+#### Beschreibe ein Testverfahren zur Überprüfung der Ausdauerleistungsfähigkeit.
+
+#### Wo wird Glykogen gespeichert?
+
+#### Wo speichert der Körper Fette?
+
+#### Nenne drei physiologische Parameter, die sich bei der Steigerung der Laufgeschwindigkeit im Körper erhöhen.
+
+### Einzeltaktik
+
+#### Nenne vier Punkte, die man vor einem Schlag wahrnehmen sollte.
+
+#### Warum soll ein hoher Aufschlag im Einzel besser in die Mitte, als an die Außenlinie gespielt werden?
+
+#### Wie verhält man sich nach einem guten Netzdrop?
+
+#### Beschreibe/zeichne die Flugkurve eines Netzdrops im Einzel und begründe diese.
+
+#### Welchen Vorteil hat im Einzel die Verlagerung der ZP etwas nach hinten?
+
+#### Wie charakterisiert sich im Einzel eine Abwehrsituation im Hinterfeld?
+
+#### Wann sollte man im Einzel vermehrt kurze Aufschläge machen?
+
+#### Wann sollte man im Einzel einen Smash cross spielen und wie bereitet man ihn nach?
+
+#### Nenne drei taktische "Faustregeln" für das Einzel.
+
+#### Wie spiele ich gegen einen Gegner, der mir überlegen ist?
+
+#### Wie spiele ich gegen einen Gegner, der mir unterlegen ist?
+
+#### Was muss man machen, um ein hohes Spieltempo (Lösungsprinzip Geschwindigkeit) im Einzel zu erzeugen?
+
+#### Was versteht man unter "Lesen + Lösen" einer Spielsituation?
+
+#### Nenne zwei taktische Ziele bei Anfängern im Einzel.
+
+#### Warum hat Technik- und Taktiktraining einen engen Bezug zueinander?
+
+#### Wohin verlagert man seine ZP, wenn der Ball hoch in die Vh-Ecke gespielt wird? Bitte Skizze.
+
+#### Wann sollte man Taktiktraining innerhalb eines Jahres durchführen?
+
+#### Nenne 2 Lösungen, die man im Einzel spielen kann, wenn man im Hinterfeld bei instabiler Körperlage überspielt worden ist.
+
+### Fragenkatalog von Daniel Lohmann (Doping)
+
+#### 
+
+

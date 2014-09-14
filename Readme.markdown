@@ -10,9 +10,13 @@ erreichen, arbeite ich gerne ein.
 [per E-Mail]: mailto:federigo.pescatore@gmail.com
 
 Neben den Protokollen zu Lehrgangsinhalten sammle ich auch [meine Antworten]
-auf Fragen zur Vorbereitung auf die Abschlussprüfung.
+auf Fragen zur Vorbereitung auf die Abschlussprüfung von [Patrick Meier und
+Ulrike Petter], [Thomas Hustert] und [Daniel Lohmann].
 
 [meine Antworten]: Fragen.und.Antworten.markdown
+[Patrick Meier und Ulrike Petter]: PatrickMeier/Fragenkatalog.pdf?raw=true
+[Thomas Hustert]: ThomasHustert/Fragenkatalog.doc?raw=true
+[Daniel Lohmann]: DanielLohmann/Prüfungsfragen.doc?raw=true
 
 [22. März 2014](2014.03.22.markdown) (Jens Meyer)
   * Aufwärm-Spiele

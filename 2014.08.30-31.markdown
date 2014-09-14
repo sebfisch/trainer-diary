@@ -20,14 +20,14 @@ zusammengestellt hat.
 
 ## Verletzungen
 
-Es gibt *personeninterne* und *personenexterne* Faktoren, die zu Verletzungen
-führen können. Personeninterne Faktoren sind zum Beispiel Risikobereitschaft
-oder Ermüdung, personenexterne Faktoren zum Beispiel Bodenbeschaffenheit oder
+Es gibt *personinterne* und *personexterne* Faktoren, die zu Verletzungen
+führen können. Personinterne Faktoren sind zum Beispiel Risikobereitschaft
+oder Ermüdung, personexterne Faktoren zum Beispiel Bodenbeschaffenheit oder
 Schuhe. Im Badminton treten Verletzungen am häufigsten __in den Beinen__ auf,
 besonders im Oberschenkel und Sprunggelenk. Eine einfache Methode das Bein zu
 entlasten ist die sogenannte __Traktionsmanipulation__, bei der auf dem Rücken
-liegend Ferse und oberer Fuß umfasst und in Verlängerung des Unterschenkels
-gezogen werden.
+liegend Ferse und oberer Fuß umfasst und ruckartig in Verlängerung des
+Unterschenkels gezogen werden.
 
 Muskelkater entsteht entgegen älterer Theorie nicht aufgrund von Übersäuerung
 des Muskels durch gebildetes Laktat (Milchsäure) sondern durch __Schädigungen
