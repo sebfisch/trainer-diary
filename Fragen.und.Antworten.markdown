@@ -1288,5 +1288,3 @@ Eine Teilmenge der ursprünglichen Dopingprobe, die nach positivem Ausfall eines
 #### a) Kinder und Jugendliche mit dem Krankheitsbild Aufmerksamkeits-Defizit-Hyperaktivitäts-Störung dürfen auf keinen Fall am Badmintontraining teilnehmen weil b) die Einnahme der evt. notwendigen Medikamente wie z.B. des Psychostimulanz Ritalin bei der Teilnahme an Meisterschaftsturnieren gemeldet werden muss.
 
 a) ist falsch, b) ist richtig
-
-#### 
