@@ -5,6 +5,11 @@ Vorbereitung auf die Abschlussprüfung zur Verfügung gestellt wurden. Die
 Antworten sind meine eigenen und wurden weder mit den Ausbildern abgesprochen
 noch von ihnen kontrolliert.
 
+  * [Fragenkatalog von Patrick Meier](#fragenkatalog-von-patrick-meier)
+  * [Fragenkatalog von Ulrike Petter (Rechtskunde)](#fragenkatalog-von-ulrike-petter-rechtskunde)
+  * [Fragenkatalog von Thomas Hustert](#fragenkatalog-von-thomas-hustert)
+  * [Fragenkatalog von Daniel Lohmann (Doping)](#fragenkatalog-von-daniel-lohmann-doping)
+
 ## Fragenkatalog von Patrick Meier
 
 #### Wieso ist der Einstieg mit einem hohen Vorhandaufschlag problematisch?
@@ -838,59 +843,156 @@ Taktik, Kraft und Ausdauer. Verfeinerung der Technik.
 
 #### Warum spielt das Gleichgewicht im Badminton eine so entscheidende Rolle? Nenne zwei Beispiele mit dazugehörigen Übungen.
 
+Im labilen Gleichgewicht sind genaue dynamische Bewegungen schwieriger. Eine
+Möglichkeit, Schlag-Bewegung im labilen Gleichgewicht zu trainieren ist das
+Schlagen zugespielter Bälle im Ausfallschritt auf einer Bank stehend.
+
+Jede Bewegung ist eine Änderung des Gleichgewichtszustandes. Eine 
+Badminton-spezifische 
+Übung zum Seitwärtslaufen bei erschwertem Gleichgewicht ergibt
+sich, indem zugeworfene Bälle auf einer umgedrehten Bank nach seitlicher
+Bewegung gefangen werden müssen.
+
 #### Was versteht man unter intermuskulärer Koordination?
+
+Das Zusammenspiel mehrerer Muskeln in einer Bewegung
 
 #### Was versteht man unter intramuskulärer Koordination?
 
+Das zusammenspiel von Nerven- und Muskelzellen innerhalb eines Muskels
+
 #### Was versteht man unter einer motorischen Einheit?
+
+Die einheit einer Nervenzelle und der von ihr gesteuerten Muskelzellen
 
 #### Was bewirkt eine gute Koordination im Badminton?
 
+Vorbeugung von Schwächen und Verletzungen. Schnellere Regeneration nach einer
+Verletzung. Verminderung von Drucksituationen: komplexe Situationen oder
+Handlungen unter Zeitdruck können einfacher bewältigt werden.
+
 #### Beschreibe und/oder skizziere zwei Übungen zur Verbesserung der Gleichgewichtskontrolle im Badminton.
+
+Eine Möglichkeit, Schlag-Bewegung im labilen Gleichgewicht zu trainieren ist
+das Schlagen zugespielter Bälle im Ausfallschritt auf einer Bank stehend.
+
+Eine  Badminton-spezifische Übung zum Seitwärtslaufen bei erschwertem
+Gleichgewicht ergibt sich, indem zugeworfene Bälle auf einer umgedrehten Bank
+nach seitlicher Bewegung gefangen werden müssen.
 
 #### Beschreibe und/oder skizziere eine badmintonspezifische Übung zur Verbesserung der Präzision im Badminton.
 
+Aufschläge in einen Kasten / auf eine Matte. Zuspiel ins Halbfeld und Half-
+Smash auf eine Matte im seitlichen Halbfeld. Halbfeldeinzel nur zwischen den
+Seitenauslinien.
+
 #### Beschreibe und/oder skizziere eine Übung zur Verbesserung des Zeitdrucks im Badminton.
+
+Ballwechsel mit zwei Bällen. Um die Geschwindigkeit noch zu erhöhen, kann das
+Netz hochgerollt werden, um unter dem Netz gespielte Bälle zu ermöglichen.
 
 #### Beschreibe den Zusammenhang zwischen Koordinations- und Techniktraining.
 
+Gute koordinative Fähigkeiten erlauben es, technische Bewegungsabläufe
+sicherer (insbesondere auch in Drucksituationen) auszuführen. Nach der
+Einführung einer neuen Technik sollte diese also mit einem Fokus auf
+verschiedene Badminton-typische Drucksituationen eingeübt werden, um den
+Bewegungsablauf zu festigen. Die Ausführung einer Bewegung erfordert das
+koordinierte Zusammenspiel verschiedener Muskeln, also intermuskuläre
+Koordination. Je besser diese ausgeprägt ist (bzw trainiert wurde), desto
+präziser wird eine Bewegung ausgeführt.
+
 #### Was versteht man unter dem Umgebungsdruck?
+
+Druck, der durch äußere Umstände entsteht. Zum Beispiel Bodenbeschaffenheit,
+Licht- oder Windverhaltnisse.
 
 #### Warum ist der optische Analysator so wichtig im Badminton?
 
+Weil die Lage von Ball und Gegner in erster Linie visuell wargenommen wird. Je
+schneller und präziser das funktioniert, desto mehr Zeit bleibt zur Reaktion
+auf die gegebene Situation.
+
 #### Nenne fünf koordinative Druckbedingungen.
+
+Präzisionsdruck, Zeitdruck, körperlicher Belastungsdruck, psychischer
+Belastungsdruck, Umgebungsdruck, Komplexitätsdruck.
 
 #### Welche Druckbedingung ist beim hohen Aufschlag am höchsten einzustufen?
 
+Der Wunsch nach genauer Platzierung eines hohen Aufschlags bewirkt
+__Präzisaionsdruck__. Da der Bewegungsablauf den ganzen Körper einbezieht, ist
+auch komplexe intermuskuläre Koordination nötig (Komplexitätsdruck). Bei
+einigen Spielern spielt auch psychischer Belastungsdruck (und damit verbundene
+Fehleranfälligkeit) eine Rolle.
+
 #### Erkläre den Unterschied zwischen dem psychischen und physischen Belastungsdruck.
 
+Psychischer Belastungsdruck entsteht zum Beispiel durch Aufregung, knappe
+Spielstände oder fordernde Eltern. Physischer Belastungsdruck entsteht, wenn
+Bewegungen bei körperlicher Ermüdung ausgeführt werden müssen.
+
 #### Warum sollte man Koordinationstraining im Badminton durchführen?
+
+Um die sichere Ausführung von Bewegungen auch in Drucksituationen zu
+verbessern. Nicht zuletzt wirkt die tiefergehende Beschäftigung mit und
+Perfektion von eigenen Bewegungsabläufen ungeduldigem und oberflächlichem
+Handeln entgegen und wirkt damit bis in die Persönlichkeitsebene.
 
 ### Beweglichkeit
 
 #### Warum zerreißt ein Muskel nicht beim Dehnen?
 
-#### Nenne/skizziere eine effektive Dehnungsübung für das Aufwärmtraining. Wie führst Du diese Übung durch? 
+Weil das Rückenmark bei zu starker Dehnung das Signal zur Kontraktion schickt.
+Die Dehnung wird dabei mit Muskelspindeln im Muskel wahrgenommen.
+
+#### Nenne/skizziere eine effektive Dehnungsübung für das Aufwärmtraining. Wie führst Du diese Übung durch?
+
+Maximale Grätsche und Maximaler Ausfallschritt. Kurz (uter 7 Sekunden), aktiv
+und dynamisch Dehnen.
 
 #### Warum kann eine gute Dehnfähigkeit den Prozess im Techniktraining verbessern?
 
+Gute Beweglichkeit verbessert den Lernprozess im Techniktraining, weil ...?
+
 #### Warum kann es bei Jungen in der Altersklasse U 15 zu Problemen mit der Beweglichkeit und Koordination kommen?
+
+Während intensiver Wachstumsphasen kann die Beweglichkeit eingeschränkt sein,
+wenn die Knochen schneller wachsen als die Muskeln und Sehnen.
 
 #### Was versteht man unter einer Muskelspindel?
 
+Sinnesorgan, das die Dehnung eines Muskels wahrnimmt
+
 #### Beschreibe/skizziere ein Testverfahren für die Beweglichkeit.
+
+Maximale Grätsche, messen wie weit Füße auseinandner gestellt werden können.
 
 #### In welchem Körperbereich benötigt ein Badmintonspieler hauptsächlich eine gute Beweglichkeit und warum?
 
+Beweglichkeit in Becken/Hüfte/Beinbereich ist besonders in der Defensive
+wichtig um den Aktionsradius zu erhöhen.
+
 #### Nenne methodische Unterschiede beim Beweglichkeitstraining vor und nach einem Wettkampf.
 
+Vor einem Wettkampf sollte nur kurz und aktiv dynamisch gedehnt werden, weil
+die Muskulatur sonst zu sehr entspannt und nicht mehr voll leistungsfähig ist.
+Nach einem Wettkampf sollte lange statisch gedehnt werden. Erst nach 8 Minuten
+ist das Bindegewebe richtig weich.
+
 #### In wie weit können äußere Einflüsse die Beweglichkeit beeinflussen?
+
+Wärme erhöht die Beweglichkeit (Beispiel: heißes Wannenbad)
 
 ### Schnelligkeit
 
 #### Was versteht man unter der Reaktionsschnelligkeit?
 
+Die Fähigkeit in kürzester Zeit auf einen Reiz zu reagieren.
+
 #### Wie lang ist die Belastungsdauer beim Schnelligkeitstraining?
+
+Bis 6 Sekunden bei geringer Belastungsdirchte (lange Pausen)
 
 #### Entwerfe eine Schnelligkeitsübung in Form einer Pendelstaffel als Wettkampf für Kinder.
 
@@ -900,93 +1002,291 @@ Taktik, Kraft und Ausdauer. Verfeinerung der Technik.
 
 #### Nenne und unterscheide zwei Muskelfasertypen.
 
+Fast-Twitch- (FT-) Fasern liefern hohe Kraft in kurzer Zeit, Slow-Twitch-
+(ST-) Fasern wenig Kraft bei hoher Ausdauer.
+
 #### Auf welche Signale sollte man beim Schnelligkeitstraining reagieren?
 
+Auf optische, weil das den Anforderungen beim Badminton am nächsten kommt
+(Signal: Ball).
+
 #### Nenne drei Voraussetzungen, die notwendig sind, um eine höchstmögliche Schnelligkeit zu erreichen.
+
+Reaktionsvermögen, gute intramuskuläre Koordination, maximal schnelle
+Muskelkontraktion (gut: viele FT-Fasern), Wille/Motivation.
 
 ### Kraft
 
 #### Was ist der Unterschied zwischen einer konzentrischen und exzentrischen Belastung? Zeige jeweils ein Beispiel aus dem Badmintonsport.
 
+Konzentrische Belastung entsteht bei BEwegung durch Muskelkontraktion,
+exzentrische Belastung bei langsamer belasteter Bewegung in entgegengesetzter
+Richtung. im Badminton tritt konzentrische Belastung bei Sprüngen auf oder
+beim schnellen Start, exzentrische beim Abstoppen einer Bewegung zum Beispiel
+im Ausfallschritt.
+
 #### Wie trainiert man Kraftausdauer? (Intensität, Wiederholungen, Pausen, Sätze)
+
+Kraftausdauer-Training zeichnet sich durch eine hohe Belastungsdauer bei
+geringer Intensität und hoher Dichte aus (20 bis 80 Wiederholungen bei
+langsamer Ausführung und kurzen Pausen bis zu einer Minute).
 
 #### Nenne zwei Gründe, warum man Krafttraining durchführen sollte?
 
+Verletzungsvorbeugung, Leistungssteigerung.
+
 #### Was verändert sich intramuskulär, wenn man mit dem Krafttraining beginnt?
+
+Zunächst verbessert sich die intramuskuläre Koordination, dann kommt es zu
+Zellvergrößerung der Muskelfasern.
 
 #### Wie sollte man trainieren, wenn man einen Muskelzuwachs (Hypertrophiemethode) erreichen möchte?
 
+Mit hoher Intensität bei geringer Dauer und Dichte (10 Widerholungen, 2
+Minuten Pause).
+
 #### Beschreibe/zeichne eine Übung zur Verbesserung der Rumpfkraft.
+
+Crunches, diagonal hochkommen.
+
+Auf Rücken liegend Beine nach oben strecken, dann anziehen und zur Seite
+neigen, aber nur so weit, dass Lendenwirbelsäule am boden bleibt.
 
 #### Beschreibe/zeichne ein Testverfahren zur Ermittlung der Sprungkraft.
 
+Jump & Reach Test: mit Mehl am Finger an die Wand stellen und Reichhöhe
+markieren, dann hoch springen und Abstand zwischen Markierungen messen.
+
 #### Beschreibe/zeichne eine Übung zur Verbesserung der Sprungkraft.
+
+Einbeinige Sprünge.
 
 ### Ausdauer
 
 #### Was versteht man unter einem anaeroben laktaziden Training?
 
+Sauerstoffarme Energiegewinnung (durch Glykogen-Zerfall), bei der Milchsäure
+gebildet wird. Gewinnt bei Belastungen zwischen 20 und 60 Sekunden die
+Oberhand.
+
 #### Skizziere/ Beschreibe eine Übung mit folgenden Zielvorgaben: sie soll auf dem Badmintonfeld mit Schläger und Federball stattfinden, sie soll eine anaerobe-alaktazide Belastung haben
+
+Unterm Netz zugeworfener Ball im Vorderfeld erlaufen, Lauf ins Hinterfeld mit
+Schattenschlag im Wechsel. Größtmögliche Intensität, Belastung etwa 30
+Sekunden, 1 bis 2 Minuten Pause (3-5 Personen im Wechsel).
 
 #### Beschreibe eine Übung oder einen Wettkampf für die Altersklasse U 13 zur Verbesserung der aeroben Ausdauer. Die Kinder sollen eine möglichst kontinuierliche Belastung von 20 Minuten haben.
 
 #### Nenne 4 Auswirkungen einer guten Grundlagenausdauer auf den Körper.
 
+Schnellere Erholung, dickere Kapillaren, Stärkung des Immunsystems, tiefere
+Atmung.
+
 #### Was versteht man unter ATP (Adenosintriphosphat)?
+
+Energiereiches Phosphat, "Treibstoff" der zur Muskelkontraktion gebraucht
+wird. Ist in geringen Mengen im Muskel vorhanden und muss bei längerer
+Belastung durch Kreatinphosphat regeneriert oder bei noch längerer Belastung
+durch Verbrennung von Kohlehydraten und Fetten gebildet werden.
 
 #### Erkläre die aerobe Energiebereitstellung.
 
+Erzeugung von ATP durch Verbrennung (unter Verwendung von Sauerstoff) von
+Kohlehydraten und Fetten. Gewinnt ab etwa 90 Sekunden Belastung die Oberhand.
+
 #### Was versteht man unter Laktat?
+
+Milchsäure. Wird bei hohen Belastungen mit Dauer etwa 20-60 Sekunden bei ATP-
+Erzeugung durch Glykogenzerfall gebildet.
 
 #### Wann werden die höchsten Laktatwerte erreicht?
 
+Bei der anaeroben laktaziden Energiebereitstellung.
+
 #### Beschreibe ein Testverfahren zur Überprüfung der Ausdauerleistungsfähigkeit.
+
+Court Distance Run. 4 (Kinder) bzw 8 (Erwachsene) Minuten ums Feld (etwa 39
+Meter) laufen. Gelaufene Meter protokollieren.
 
 #### Wo wird Glykogen gespeichert?
 
+In der Muskulatur und in der Leber.
+
 #### Wo speichert der Körper Fette?
 
+Unter der Haut und im Bauchraum um die Organe herum.
+
 #### Nenne drei physiologische Parameter, die sich bei der Steigerung der Laufgeschwindigkeit im Körper erhöhen.
+
+Herzfrequenz, Atemfrequenz, Körperwärme.
 
 ### Einzeltaktik
 
 #### Nenne vier Punkte, die man vor einem Schlag wahrnehmen sollte.
 
+Eigene Lage, Lage des Gegners, Position des Balls Geschwindigkeit des Balls.
+
 #### Warum soll ein hoher Aufschlag im Einzel besser in die Mitte, als an die Außenlinie gespielt werden?
+
+Von außen kann sowohl longline als auch cross gefährlich returniert werden
+(gute Winkel). Beim Aufschlag in die Mitte muss der Return durch die
+Reichweite des Aufschlägers gespielt werden.
 
 #### Wie verhält man sich nach einem guten Netzdrop?
 
+In Lauerstellung bleiben.
+
 #### Beschreibe/zeichne die Flugkurve eines Netzdrops im Einzel und begründe diese.
+
+Im einzel darf der Netzdrop ruhig (auf eigener Seite) etwas aufwärts gespielt
+werden (wenn der Gegner nicht am Netz steht), damit der Ball möglichst nah
+hinter das Netz fällt. Im Einzel ist es besonders wichtig, die Länge des
+Spielfeldes auszunutzen, weil es länger als breit ist.
 
 #### Welchen Vorteil hat im Einzel die Verlagerung der ZP etwas nach hinten?
 
+Bei Bällen ins Vorderfeld kann (anders als nach hinten) die Reichweite des
+Schlägers mit genutzt werden. Die meisten Drops landen in der Nähe der
+T-Linie.
+
 #### Wie charakterisiert sich im Einzel eine Abwehrsituation im Hinterfeld?
+
+Die Zentralposition wird auf die Ballseite verschoben, man steht immer zum
+Ball ausgerichtet.
 
 #### Wann sollte man im Einzel vermehrt kurze Aufschläge machen?
 
+Wenn der Gegner aus aus dem Hinterfeld gefährlich angreifen kann.
+
 #### Wann sollte man im Einzel einen Smash cross spielen und wie bereitet man ihn nach?
+
+Wenn genügend Zeit für die Nachbereitung durch Verschieben der Zentralposition
+auf die andere Seite bleibt.
 
 #### Nenne drei taktische "Faustregeln" für das Einzel.
 
+Inside/Outside: Von außen nach innen und von innen nach außen spielen.
+
+Feldlänge ausnutzen: Lange und kurze Bälle abwechseln.
+
+Zentralposition auf Ballseite verschieben.
+
 #### Wie spiele ich gegen einen Gegner, der mir überlegen ist?
+
+Fokus auf Spielerhalt, langsames präzises Spiel.
 
 #### Wie spiele ich gegen einen Gegner, der mir unterlegen ist?
 
+Konzentriert, mit Zielen wie "einstellig gewinnen".
+
 #### Was muss man machen, um ein hohes Spieltempo (Lösungsprinzip Geschwindigkeit) im Einzel zu erzeugen?
+
+Das Tempo-Spiel zeichnet sich durch frühe Treffpunkte, schnelle Starts, kurze
+Nachbereitung, Aggressivität, offensive Spielweise (nach unten) und kurze
+Pausen zwischen den Ballwechseln aus. Typische Schläge hierbei sind Smash oder
+Half-Smash, Drive, Angriffsclear, Konter, schneller Drop und ein kurzer
+Aufschlag.
 
 #### Was versteht man unter "Lesen + Lösen" einer Spielsituation?
 
+Als Lesen und Lösen bezeichnet man das Einschätzen einer Spielsituation und
+die geeignete Auswahl einer Handlung als Reaktion darauf. Zum Lesen gehört es,
+zu erkennen welchen Feldbereich der Gegner deckt, welchen Schlag er vermutlich
+als nächstes ausführen wird, ob er unter Druck steht, aber auch Muster in
+seinem Spiel zu erkennen, Schläge, die er immer wieder spielt, oder Schwächen,
+die ich ausnutzen kann. Zum Lösen gehören dementsprechend die Auswahl von
+Schlägen in den nicht abgedeckten Bereich, das bevorzugte Abdecken von
+Bereichen, in die der Gegner vermutlich shclagen wird, gezielt Druck
+aufzubauen und Schwächen konsequent auszunutzen.
+
 #### Nenne zwei taktische Ziele bei Anfängern im Einzel.
+
+Spielerhalt, Präzision.
 
 #### Warum hat Technik- und Taktiktraining einen engen Bezug zueinander?
 
+Die zur Verfügung stehenden technischen Möglichkeiten beeinflussen die Auswahl
+taktischer Lösungen. Technik sollte spielnah, also vor dem Hintergrund ihrer
+taktischen Verwendung trainiert werden.
+
 #### Wohin verlagert man seine ZP, wenn der Ball hoch in die Vh-Ecke gespielt wird? Bitte Skizze.
+
+Auf die Ballseite, etwas hinter der Feldmitte.
 
 #### Wann sollte man Taktiktraining innerhalb eines Jahres durchführen?
 
+In der Wettkampfperiode.
+
 #### Nenne 2 Lösungen, die man im Einzel spielen kann, wenn man im Hinterfeld bei instabiler Körperlage überspielt worden ist.
 
-### Fragenkatalog von Daniel Lohmann (Doping)
+Verteidigungsclear oder Drop in die Mitte.
 
+## Fragenkatalog von Daniel Lohmann (Doping)
 
+#### a) Die Verwendung von Leistung steigernden Mitteln im Sport ist eine Erscheinung des 20. und 21. Jahrhunderts weil b) man in den davor liegenden Jahrhunderten noch keine Leistung steigernden Substanzen kannte.
 
+a) und b) sind falsch (bis in die Antike hinein zu verfolgen, Kokablätter bei den Inkas)
+
+#### Der Verstoß gegen folgende Anti-Doping Regeln gilt nach heutiger Definition als Doping:
+
+  a) Weigerung oder Versäumnis, an einer Dopingprobe teilzunehmen
+
+  b) Der Handel mit verbotenen Substanzen
+
+  c) Der Gebrauch oder versuchte Gebrauch einer verbotenen Substanz oder Methode
+
+  d) Die Manipulation oder versuchte Manipulation einer Dopingprobe
+
+  e) Das Vorhandensein einer verbotenen Substanz in einer Dopingprobe (pos. Dopingtest)
+
+Alle Antworten sind richtig.
+
+#### a) Ein Dopingtest besteht - egal, wonach gesucht wird - immer aus einer Blutprobe weil b) die Verwendung des sog Blutdoping (EPO, Cera, Eigenblut) über eine typische Veränderung des Blutes (erhöhter Anteil der festen Substanzen = Hämatokritwert) nachgewiesen wird.
+
+a) ist falsch,  b) ist richtig. (Urinprobe)
+
+#### a) Die Verwendung von Stimulantien (z.B. Amphetaminen) im Sport ist kein Doping weil b) Stimulantien die motorische Leistungsfähigkeit steigern können.
+
+a) ist falsch, b) ist richtig
+
+#### Als Dopingmittel oder Dopingmethode gelten folgende Mittel oder Methoden:
+
+  a) Die Verwendung von Anabolika
+
+  b) Die Verwendung von Opiaten oder Cannabinoiden (Hasch, Kokain, Morphin etc.)
+
+  c) Die Verwendung von Hormonen wie z.B. dem Wachstumshormon
+
+  d) Entwässerungsmittel zur Regulierung des Gewichtes z.B. in Kampfsportarten 
+ 
+  e) Die Aufnahme von zucker- und mineralstoffhaltigen Getränken im Wettkampf
+
+Nur a) b) c) und d) sind richtig.
+
+#### Zu den Gefahren und negativen Effekten des Dopings gehören
+
+  a) Das In Kauf nehmen von langfristigen Gesundheitsschädigungen durch die verwendeten Substanzen
+
+  b) Überlastung bis hin zum Tode, da Belastungsgrenzen nicht wahrgenommen werden
+
+  c) Die Förderung von Forschungsanstrengungen in der Medizin
+
+  d) das die sich ständig beschleunigende Spirale der Steigerung von Höchstleistungen auch andere Sportler zum Gebrauch von Dopingmitteln oder -Methoden animiert.
+
+  e) die fehlende Chancengleichheit zwischen dopenden und nicht dopenden Sportlern.
+
+Nur a) b) d) und e) sind richtig.
+
+#### a) Es ist bisher noch nie ein Badmintonspieler des Dopings überführt worden weil b) selbst bei den Olympischen Spielen Badmintonspieler nicht überprüft werden.
+
+a) und b) sind falsch
+
+#### Was versteht man beim Doping-Test unter der so genannten B-Probe?
+
+Eine Teilmenge der ursprünglichen Dopingprobe, die nach positivem Ausfall eines Dopingtestes zu Kontroll- und Überprüfungszwecken geöffnet werden kann.
+
+#### a) Kinder und Jugendliche mit dem Krankheitsbild Aufmerksamkeits-Defizit-Hyperaktivitäts-Störung dürfen auf keinen Fall am Badmintontraining teilnehmen weil b) die Einnahme der evt. notwendigen Medikamente wie z.B. des Psychostimulanz Ritalin bei der Teilnahme an Meisterschaftsturnieren gemeldet werden muss.
+
+a) ist falsch, b) ist richtig
+
+#### 
